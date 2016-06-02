@@ -1,0 +1,16 @@
+app-arch/file-roller 3.20.1: Archive manager for GNOME
+app-editors/gedit 3.20.2: A text editor for the GNOME desktop
+dev-libs/gobject-introspection 1.48.0: Introspection infrastructure for generating gobject library bindings for various languages
+dev-libs/gobject-introspection-common 1.48.0: Build infrastructure for GObject Introspection
+dev-libs/libpcre2 10.20: Perl-compatible regular expression library
+dev-libs/wayland 1.9.91: Wayland protocol libraries
+gnome-base/gnome-session 3.20.1: Gnome session manager
+gnome-base/nautilus 3.20.1: A file manager for the GNOME desktop
+gnome-extra/gnome-calculator 3.21.2: A calculator application for GNOME
+gnome-extra/gnome-tweak-tool 3.20.1: Tool to customize GNOME 3 options
+gnome-extra/nm-applet 1.2.0: GNOME applet for NetworkManager
+net-irc/polari 3.21.1: An IRC client for Gnome
+net-libs/webkit-gtk 2.12.0: Open source web browser engine
+net-misc/networkmanager 1.2.0: A set of co-operative tools that make networking simple and straightforward
+www-client/epiphany 3.20.1: GNOME webbrowser based on Webkit
+x11-libs/gtk+ 3.21.1: Gimp ToolKit +
