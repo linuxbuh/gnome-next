@@ -6,7 +6,9 @@ dev-libs/gobject-introspection-common 1.48.0: Build infrastructure for GObject I
 dev-libs/libpcre2 10.20: Perl-compatible regular expression library
 dev-libs/wayland 1.9.91: Wayland protocol libraries
 dev-util/gdbus-codegen 2.49.1 9999: GDBus code and documentation generator
-gnome-base/gnome-session 3.20.1: Gnome session manager
+gnome-base/gnome-desktop 3.21.2 9999: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-session 3.21.2: Gnome session manager
+gnome-base/gsettings-desktop-schemas 3.21.2 9999: Collection of GSettings schemas for GNOME desktop
 gnome-base/nautilus 3.20.1: A file manager for the GNOME desktop
 gnome-extra/gnome-calculator 3.21.2: A calculator application for GNOME
 gnome-extra/gnome-tweak-tool 3.20.1: Tool to customize GNOME 3 options
