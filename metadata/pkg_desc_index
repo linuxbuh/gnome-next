@@ -14,7 +14,7 @@ gnome-extra/gnome-calculator 3.21.2: A calculator application for GNOME
 gnome-extra/gnome-tweak-tool 3.20.1: Tool to customize GNOME 3 options
 gnome-extra/nm-applet 1.2.0: GNOME applet for NetworkManager
 net-irc/polari 3.21.1: An IRC client for Gnome
-net-libs/webkit-gtk 2.12.0: Open source web browser engine
+net-libs/webkit-gtk 2.13.1: Open source web browser engine
 net-misc/networkmanager 1.2.0: A set of co-operative tools that make networking simple and straightforward
 www-client/epiphany 3.20.1: GNOME webbrowser based on Webkit
 x11-libs/gtk+ 3.21.2: Gimp ToolKit +
