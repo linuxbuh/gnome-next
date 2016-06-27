@@ -2,13 +2,10 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-arch/file-roller:nautilus - Enable file-roller to integrate with gnome-base/nautilus by providing entries in its context menu
-app-arch/file-roller:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit
 dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus service to manage settings saving
 dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
 dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
 dev-libs/glib:utils - Install gtester-report utility to generate test report files for your software; build gresource utility with ELF support.
-dev-libs/gobject-introspection:doctool - Install g-ir-doc-tool for generating documentation from introspected data
 dev-libs/libpcre2:bzip2 - Add support for pcregrep command to search within bzip2-compressed files (via app-arch/bzip2).
 dev-libs/libpcre2:pcre16 - Build PCRE library for 16 bit characters (e.g. UTF-16).
 dev-libs/libpcre2:pcre32 - Build PCRE library for 32 bit characters (e.g. UTF-32).
@@ -16,10 +13,6 @@ dev-libs/libpcre2:readline - Add support for command line editing to pcretest, t
 dev-libs/libpcre2:recursion-limit - Limit match recursion to 8192; if disabled, the default limit is used, which is the same as the match limit.
 dev-libs/libpcre2:zlib - Add support for pcregrep command to search within gzip-compressed files (via sys-libs/zlib).
 gnome-base/gnome-session:gconf - Optional support for gnome-base/gconf configuration storage system
-gnome-base/nautilus:packagekit - Use packagekit to search for programs to open unknown file types
-gnome-base/nautilus:previewer - Use gnome-extra/sushi to preview files from the file mananger
-gnome-base/nautilus:sendto - Enable the nautilus-sendto extension to send files to various locations/devices
-gnome-base/nautilus:tracker - Add support for app-misc/tracker search
 gnome-extra/nm-applet:modemmanager - Enable support for mobile broadband devices using net-misc/modemmanager
 net-libs/webkit-gtk:coverage - Enable code coverage support
 net-libs/webkit-gtk:egl - Enable EGL support.
