@@ -4,5 +4,10 @@ dev-libs/gobject-introspection 1.49.1: Introspection system for GObject-based li
 dev-libs/gobject-introspection-common 1.49.1: Build infrastructure for GObject Introspection
 dev-libs/wayland 1.9.91: Wayland protocol libraries
 dev-util/gdbus-codegen 2.49.5 9999: GDBus code and documentation generator
+gnome-extra/evolution-data-server 3.21.90: Evolution groupware backend
+mail-client/evolution 3.21.90: Integrated mail, addressbook and calendaring functionality
 net-irc/polari 3.21.4: An IRC client for Gnome
+net-libs/glib-networking 2.49.90: Network-related giomodules for glib
+net-libs/webkit-gtk 2.13.4: Open source web browser engine
 x11-libs/gtk+ 2.24.30 3.21.4: Gimp ToolKit +
+x11-themes/adwaita-icon-theme 3.21.2: GNOME default icon theme
