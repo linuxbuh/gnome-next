@@ -1,16 +1,5 @@
-app-editors/gedit 3.20.2: A text editor for the GNOME desktop
-dev-libs/glib 2.49.1 9999: The GLib library of C routines
-dev-libs/libpcre2 10.20: Perl-compatible regular expression library
+dev-libs/glib 2.49.5 9999: The GLib library of C routines
 dev-libs/wayland 1.9.91: Wayland protocol libraries
-dev-util/gdbus-codegen 2.49.1 9999: GDBus code and documentation generator
-gnome-base/gnome-desktop 3.21.2 9999: Libraries for the gnome desktop that are not part of the UI
-gnome-base/gnome-session 3.21.2: Gnome session manager
-gnome-base/gsettings-desktop-schemas 3.21.2 9999: Collection of GSettings schemas for GNOME desktop
-gnome-extra/gnome-calculator 3.21.2: A calculator application for GNOME
-gnome-extra/nm-applet 1.2.0: GNOME applet for NetworkManager
-net-irc/polari 3.21.1: An IRC client for Gnome
-net-libs/webkit-gtk 2.13.1: Open source web browser engine
-net-misc/networkmanager 1.2.0: A set of co-operative tools that make networking simple and straightforward
-www-client/epiphany 3.20.1: GNOME webbrowser based on Webkit
-x11-libs/gtk+ 3.21.2: Gimp ToolKit +
-x11-libs/gtksourceview 3.21.1 9999: A text widget implementing syntax highlighting and other features
+dev-util/gdbus-codegen 2.49.5 9999: GDBus code and documentation generator
+net-irc/polari 3.21.4: An IRC client for Gnome
+x11-libs/gtk+ 3.21.4: Gimp ToolKit +
