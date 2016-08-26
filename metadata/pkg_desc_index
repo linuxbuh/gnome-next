@@ -1,4 +1,7 @@
+dev-libs/atk 2.21.90: GTK+ & GNOME Accessibility Toolkit
 dev-libs/glib 2.49.5 9999: The GLib library of C routines
+dev-libs/gobject-introspection 1.49.1: Introspection system for GObject-based libraries
+dev-libs/gobject-introspection-common 1.49.1: Build infrastructure for GObject Introspection
 dev-libs/wayland 1.9.91: Wayland protocol libraries
 dev-util/gdbus-codegen 2.49.5 9999: GDBus code and documentation generator
 net-irc/polari 3.21.4: An IRC client for Gnome
