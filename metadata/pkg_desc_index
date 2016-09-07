@@ -11,9 +11,10 @@ gnome-base/gnome-control-center 3.21.90: GNOME's main interface to configure var
 gnome-base/gnome-desktop 3.21.90: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.21.90: Gnome session manager
 gnome-base/gnome-settings-daemon 3.21.90: Gnome Settings Daemon
-gnome-base/gnome-shell 3.21.90.1: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.21.91: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.21.4: Collection of GSettings schemas for GNOME desktop
 gnome-extra/evolution-data-server 3.21.90: Evolution groupware backend
+gnome-extra/gnome-shell-extensions 3.21.91: JavaScript extensions for GNOME Shell
 mail-client/evolution 3.21.90: Integrated mail, addressbook and calendaring functionality
 net-irc/polari 3.21.4: An IRC client for Gnome
 net-libs/glib-networking 2.49.90: Network-related giomodules for glib
@@ -23,4 +24,4 @@ x11-libs/gtk+ 2.24.30 3.21.5: Gimp ToolKit +
 x11-libs/gtksourceview 3.21.5: A text widget implementing syntax highlighting and other features
 x11-libs/vte 0.45.90: Library providing a virtual terminal emulator widget
 x11-themes/adwaita-icon-theme 3.21.2: GNOME default icon theme
-x11-wm/mutter 3.21.90: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.21.91: GNOME 3 compositing window manager based on Clutter
