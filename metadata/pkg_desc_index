@@ -17,6 +17,7 @@ gnome-extra/evolution-data-server 3.21.90: Evolution groupware backend
 gnome-extra/gnome-shell-extensions 3.21.91: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-tweak-tool 3.21.91: Tool to customize GNOME 3 options
 mail-client/evolution 3.21.90: Integrated mail, addressbook and calendaring functionality
+media-gfx/gimp 2.9.4: GNU Image Manipulation Program
 net-irc/polari 3.21.4: An IRC client for Gnome
 net-libs/glib-networking 2.49.90: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.21.90: GNOME framework for accessing online accounts
