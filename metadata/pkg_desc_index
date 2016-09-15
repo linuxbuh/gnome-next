@@ -15,6 +15,7 @@ gnome-base/gnome-shell 3.21.91: Provides core UI functions for the GNOME 3 deskt
 gnome-base/gsettings-desktop-schemas 3.21.4: Collection of GSettings schemas for GNOME desktop
 gnome-extra/evolution-data-server 3.21.90: Evolution groupware backend
 gnome-extra/gnome-shell-extensions 3.21.91: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions-topicons-plus 17: Shows legacy tray icons on top
 gnome-extra/gnome-tweak-tool 3.21.91: Tool to customize GNOME 3 options
 mail-client/evolution 3.21.90: Integrated mail, addressbook and calendaring functionality
 media-gfx/gimp 2.9.4: GNU Image Manipulation Program
