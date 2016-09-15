@@ -6,7 +6,7 @@ dev-libs/gobject-introspection-common 1.49.1: Build infrastructure for GObject I
 dev-libs/wayland 1.9.91: Wayland protocol libraries
 dev-libs/wayland-protocols 1.6: Wayland protocol files
 dev-util/gdbus-codegen 2.49.5 9999: GDBus code and documentation generator
-gnome-base/gdm 3.21.90: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gdm 3.21.91: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.21.90: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.21.90: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.21.90: Gnome session manager
