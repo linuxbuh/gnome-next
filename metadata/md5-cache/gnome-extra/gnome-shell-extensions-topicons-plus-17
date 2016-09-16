@@ -10,4 +10,4 @@ SLOT=0
 SRC_URI=https://github.com/phocean/TopIcons-plus/archive/v17.tar.gz -> gnome-shell-extensions-topicons-plus-17.tar.xz
 _eclass_exported_funcs=pkg_postinst:- src_unpack:vcs-snapshot src_prepare:- src_install:-
 _eclasses_=vcs-snapshot	2b65ecb2d0f91e4322c2ac8d673993bd
-_md5_=d12f8d4ff9f4fdf392c09aba58f0ad92
+_md5_=975be52f1ef9ed905f39f6e444d8865d
