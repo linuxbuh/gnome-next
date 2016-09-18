@@ -18,6 +18,7 @@ gnome-extra/gnome-builder 3.21.91: Builder attempts to be an IDE for writing sof
 gnome-extra/gnome-shell-extensions 3.21.91: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-shell-extensions-topicons-plus 17: Shows legacy tray icons on top
 gnome-extra/gnome-tweak-tool 3.21.91: Tool to customize GNOME 3 options
+lxde-base/lxde-meta 0.5.5-r5: Gnome based meta ebuild for LXDE, the Lightweight X11 Desktop Environment
 mail-client/evolution 3.21.90: Integrated mail, addressbook and calendaring functionality
 media-gfx/gimp 2.9.4: GNU Image Manipulation Program
 net-irc/polari 3.21.4: An IRC client for Gnome
