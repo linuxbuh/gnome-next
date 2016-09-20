@@ -1,30 +1,30 @@
-app-editors/gedit 3.21.90: A text editor for the GNOME desktop
+app-editors/gedit 3.22.0: A text editor for the GNOME desktop
 dev-libs/atk 2.22.0: GTK+ & GNOME Accessibility Toolkit
 dev-libs/glib 2.50.0: The GLib library of C routines
 dev-libs/gobject-introspection 1.49.2: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.49.2: Build infrastructure for GObject Introspection
 dev-util/gdbus-codegen 2.50.0: GDBus code and documentation generator
-gnome-base/gdm 3.21.91: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-control-center 3.21.90: GNOME's main interface to configure various aspects of the desktop
-gnome-base/gnome-desktop 3.21.90: Libraries for the gnome desktop that are not part of the UI
-gnome-base/gnome-session 3.21.90: Gnome session manager
-gnome-base/gnome-settings-daemon 3.21.90: Gnome Settings Daemon
-gnome-base/gnome-shell 3.21.91: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gdm 3.22.0: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gnome-control-center 3.21.92: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-desktop 3.22.0: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-session 3.22.0: Gnome session manager
+gnome-base/gnome-settings-daemon 3.21.92.1: Gnome Settings Daemon
+gnome-base/gnome-shell 3.22.0: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.21.4: Collection of GSettings schemas for GNOME desktop
-gnome-extra/evolution-data-server 3.21.90: Evolution groupware backend
-gnome-extra/gnome-builder 3.21.91: Builder attempts to be an IDE for writing software for GNOME
-gnome-extra/gnome-shell-extensions 3.21.91: JavaScript extensions for GNOME Shell
+gnome-extra/evolution-data-server 3.22.0: Evolution groupware backend
+gnome-extra/gnome-builder 3.22.0: Builder attempts to be an IDE for writing software for GNOME
+gnome-extra/gnome-shell-extensions 3.22.0: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-shell-extensions-topicons-plus 17: Shows legacy tray icons on top
 gnome-extra/gnome-tweak-tool 3.21.91: Tool to customize GNOME 3 options
 lxde-base/lxde-meta 0.5.5-r5: Gnome based meta ebuild for LXDE, the Lightweight X11 Desktop Environment
-mail-client/evolution 3.21.90: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.22.0: Integrated mail, addressbook and calendaring functionality
 media-gfx/gimp 2.9.4: GNU Image Manipulation Program
-net-irc/polari 3.21.4: An IRC client for Gnome
-net-libs/glib-networking 2.49.90: Network-related giomodules for glib
-net-libs/gnome-online-accounts 3.21.90: GNOME framework for accessing online accounts
-net-libs/webkit-gtk 2.13.4: Open source web browser engine
-x11-libs/gtk+ 2.24.31 3.21.6: Gimp ToolKit +
-x11-libs/gtksourceview 3.21.5: A text widget implementing syntax highlighting and other features
-x11-libs/vte 0.45.90: Library providing a virtual terminal emulator widget
+net-irc/polari 3.22.0: An IRC client for Gnome
+net-libs/glib-networking 2.50.0: Network-related giomodules for glib
+net-libs/gnome-online-accounts 3.21.92: GNOME framework for accessing online accounts
+net-libs/webkit-gtk 2.14.0: Open source web browser engine
+x11-libs/gtk+ 2.24.31 3.22.0: Gimp ToolKit +
+x11-libs/gtksourceview 3.22.0: A text widget implementing syntax highlighting and other features
+x11-libs/vte 0.46.0: Library providing a virtual terminal emulator widget
 x11-themes/adwaita-icon-theme 3.21.2: GNOME default icon theme
-x11-wm/mutter 3.21.91: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.22.0: GNOME 3 compositing window manager based on Clutter
