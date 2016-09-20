@@ -19,7 +19,7 @@ KEYWORDS="~alpha ~amd64 ~arm ~ia64 ~mips ~ppc ~ppc64 ~sh ~sparc ~x86 ~x86-fbsd ~
 RDEPEND="
 	>=dev-libs/glib-2.42:2[dbus]
 	>=x11-libs/gtk+-3.12:3[X]
-	>=x11-libs/vte-0.44.2:2.91
+	>=x11-libs/vte-0.46.0:2.91
 	>=gnome-base/dconf-0.14
 	>=gnome-base/gsettings-desktop-schemas-0.1.0
 	sys-apps/util-linux
@@ -47,9 +47,6 @@ DOC_CONTENTS="To get previous working directory inherited in new opened
 
 src_prepare() {
 	if ! use vanilla; then
-		# OpenSuSE patches, https://bugzilla.gnome.org/show_bug.cgi?id=695371
-		# http://pkgs.fedoraproject.org/cgit/rpms/gnome-terminal.git/tree/gnome-terminal-transparency-notify.patch (first 3 parts)
-		eapply "${FILESDIR}"/${PN}-3.20.2-transparency.patch
 		eautoreconf
 	fi
 	gnome2_src_prepare
