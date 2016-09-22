@@ -5,12 +5,12 @@ dev-libs/gobject-introspection 1.49.2: Introspection system for GObject-based li
 dev-libs/gobject-introspection-common 1.49.2: Build infrastructure for GObject Introspection
 dev-util/gdbus-codegen 2.50.0: GDBus code and documentation generator
 gnome-base/gdm 3.22.0: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-control-center 3.21.92: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.22.0: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.22.0: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.22.0: Gnome session manager
-gnome-base/gnome-settings-daemon 3.21.92.1: Gnome Settings Daemon
+gnome-base/gnome-settings-daemon 3.22.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.22.0: Provides core UI functions for the GNOME 3 desktop
-gnome-base/gsettings-desktop-schemas 3.21.4: Collection of GSettings schemas for GNOME desktop
+gnome-base/gsettings-desktop-schemas 3.22.0: Collection of GSettings schemas for GNOME desktop
 gnome-extra/evolution-data-server 3.22.0: Evolution groupware backend
 gnome-extra/gnome-builder 3.22.0: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-shell-extensions 3.22.0: JavaScript extensions for GNOME Shell
