@@ -17,6 +17,7 @@ gnome-extra/evolution-data-server 3.22.0: Evolution groupware backend
 gnome-extra/gnome-builder 3.22.0: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-shell-extensions 3.22.0: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-shell-extensions-topicons-plus 17: Shows legacy tray icons on top
+gnome-extra/gnome-software 3.22.0: Gnome install & update software
 gnome-extra/gnome-tweak-tool 3.21.91: Tool to customize GNOME 3 options
 lxde-base/lxde-meta 0.5.5-r5: Gnome based meta ebuild for LXDE, the Lightweight X11 Desktop Environment
 mail-client/evolution 3.22.0: Integrated mail, addressbook and calendaring functionality
