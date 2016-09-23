@@ -1,6 +1,7 @@
 app-editors/gedit 3.22.0: A text editor for the GNOME desktop
 dev-libs/atk 2.22.0: GTK+ & GNOME Accessibility Toolkit
 dev-libs/glib 2.50.0: The GLib library of C routines
+dev-libs/gnome-autoar 0.1.1: gnome-autoar
 dev-libs/gobject-introspection 1.49.2: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.49.2: Build infrastructure for GObject Introspection
 dev-util/gdbus-codegen 2.50.0: GDBus code and documentation generator
@@ -11,6 +12,7 @@ gnome-base/gnome-session 3.22.0: Gnome session manager
 gnome-base/gnome-settings-daemon 3.22.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.22.0: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.22.0: Collection of GSettings schemas for GNOME desktop
+gnome-base/nautilus 3.22.0: A file manager for the GNOME desktop
 gnome-extra/evolution-data-server 3.22.0: Evolution groupware backend
 gnome-extra/gnome-builder 3.22.0: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-shell-extensions 3.22.0: JavaScript extensions for GNOME Shell
