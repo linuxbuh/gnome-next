@@ -26,6 +26,7 @@ gnome-extra/evolution-data-server:berkdb - sys-libs/db support needed to migrate
 gnome-extra/evolution-data-server:gnome-online-accounts - Enable using net-libs/gnome-online-accounts for authorization
 gnome-extra/evolution-data-server:google - Enable Google Contacts support. This will also enable the internal Google authentication support. Please note this last one relies on a deprecated (and vulnerable) net-libs/webkit-gtk slot. If you want to avoid this dependency, you can disable this support and rely on gnome-online-accounts instead
 gnome-extra/evolution-data-server:weather - Enable optional weather calendar support
+gnome-extra/gnome-system-monitor:systemd - Display sys-apps/systemd metadata, e.g. unit names, for running processes
 mail-client/evolution:bogofilter - Build mail-filter/bogofilter plugin
 mail-client/evolution:crypt - Enable GPG encryption support using app-crypt/gnupg and app-crypt/pinentry
 mail-client/evolution:highlight - Enable text highlighting plugin
