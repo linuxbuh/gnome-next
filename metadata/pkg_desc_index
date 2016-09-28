@@ -31,6 +31,7 @@ net-libs/glib-networking 2.50.0: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.21.92: GNOME framework for accessing online accounts
 net-libs/webkit-gtk 2.14.0: Open source web browser engine
 sys-apps/baobab 3.22.0: Disk usage browser for GNOME
+sys-apps/gnome-disk-utility 3.22.0: Disk Utility for GNOME using udisks
 x11-libs/gtk+ 2.24.31 3.22.0: Gimp ToolKit +
 x11-libs/gtksourceview 3.22.0: A text widget implementing syntax highlighting and other features
 x11-libs/vte 0.46.0: Library providing a virtual terminal emulator widget
