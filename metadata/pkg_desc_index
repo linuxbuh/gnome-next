@@ -19,6 +19,7 @@ gnome-base/nautilus 3.22.0: A file manager for the GNOME desktop
 gnome-extra/evolution-data-server 3.22.0: Evolution groupware backend
 gnome-extra/gnome-builder 3.22.0: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.22.0: A calculator application for GNOME
+gnome-extra/gnome-calendar 3.22.1: Manage your online calendars with simple and modern interface
 gnome-extra/gnome-shell-extensions 3.22.0: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-shell-extensions-topicons-plus 17: Shows legacy tray icons on top
 gnome-extra/gnome-software 3.22.0: Gnome install & update software
