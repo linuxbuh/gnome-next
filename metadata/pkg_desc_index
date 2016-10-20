@@ -13,7 +13,7 @@ gnome-base/gnome-control-center 3.22.0: GNOME's main interface to configure vari
 gnome-base/gnome-desktop 3.22.0: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.22.0: Gnome session manager
 gnome-base/gnome-settings-daemon 3.22.0: Gnome Settings Daemon
-gnome-base/gnome-shell 3.22.0: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.22.1: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.22.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/nautilus 3.22.1: A file manager for the GNOME desktop
 gnome-extra/evolution-data-server 3.22.0: Evolution groupware backend
@@ -39,4 +39,4 @@ x11-libs/gtksourceview 3.22.0: A text widget implementing syntax highlighting an
 x11-libs/vte 0.46.0: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.22.0: The Gnome Terminal
 x11-themes/adwaita-icon-theme 3.22.0: GNOME default icon theme
-x11-wm/mutter 3.22.0: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.22.1: GNOME 3 compositing window manager based on Clutter
