@@ -15,7 +15,7 @@ gnome-base/gnome-session 3.22.0: Gnome session manager
 gnome-base/gnome-settings-daemon 3.22.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.22.0: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.22.0: Collection of GSettings schemas for GNOME desktop
-gnome-base/nautilus 3.22.0: A file manager for the GNOME desktop
+gnome-base/nautilus 3.22.0 3.22.1: A file manager for the GNOME desktop
 gnome-extra/evolution-data-server 3.22.0: Evolution groupware backend
 gnome-extra/gnome-builder 3.22.0: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.22.0: A calculator application for GNOME
