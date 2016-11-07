@@ -2,11 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus service to manage settings saving
-dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
-dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
-dev-libs/glib:utils - Install gtester-report utility to generate test report files for your software; build gresource utility with ELF support.
-dev-libs/gobject-introspection:doctool - Install g-ir-doc-tool for generating documentation from introspected data
 gnome-base/gdm:fprint - Enables experimental fingerprint authentication using sys-auth/fprintd
 gnome-base/gdm:plymouth - Enable support for smooth transition from sys-boot/plymouth
 gnome-base/gnome-shell:openrc-force - Skip systemd dependency (#480336), enabling this flag will become your setup to be fully unsupported by upstream and downstream Gnome team. Do not try to enable it unless completely needed
@@ -25,4 +20,3 @@ net-libs/webkit-gtk:geoloc - Enable geolocation support through app-misc/geoclue
 net-libs/webkit-gtk:gles2 - Enable GLESv2 support.
 net-libs/webkit-gtk:webgl - Build support for the WebGL HTML API using virtual/opengl
 x11-libs/gtksourceview:glade - Install a glade catalog file
-x11-wm/mutter:kms - Enable KMS support.
