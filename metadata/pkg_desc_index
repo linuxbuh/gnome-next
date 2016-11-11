@@ -1,10 +1,11 @@
 dev-libs/gnome-autoar 0.1.1: gnome-autoar
 gnome-base/gdm 3.22.1: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-session 3.22.1: Gnome session manager
-gnome-base/gnome-shell 3.22.1: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-session 3.22.2: Gnome session manager
+gnome-base/gnome-shell 3.22.2: Provides core UI functions for the GNOME 3 desktop
 gnome-extra/gnome-builder 3.22.0: Builder attempts to be an IDE for writing software for GNOME
-gnome-extra/gnome-shell-extensions 3.22.0: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions 3.22.2: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-shell-extensions-topicons-plus 17: Shows legacy tray icons on top
 gnome-extra/gnome-tweak-tool 3.22.0: Tool to customize GNOME 3 options
 net-libs/webkit-gtk 2.14.0: Open source web browser engine
 x11-libs/gtksourceview 3.22.1: A text widget implementing syntax highlighting and other features
+x11-wm/mutter 3.22.2: GNOME 3 compositing window manager based on Clutter
