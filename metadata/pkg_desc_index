@@ -2,3 +2,4 @@ dev-libs/glib 2.51.1: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.1: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.1: Build infrastructure for GObject Introspection
 dev-util/gdbus-codegen 2.51.1: GDBus code and documentation generator
+x11-libs/gtk+ 3.22.7: Gimp ToolKit +
