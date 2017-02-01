@@ -1,5 +1,20 @@
+dev-lang/spidermonkey 1.8.5-r7 31.2.0_rc0: Stand-alone JavaScript C library
+dev-libs/atk 2.23.4: GTK+ & GNOME Accessibility Toolkit
+dev-libs/gjs 1.47.4: Javascript bindings for GNOME
 dev-libs/glib 2.51.1: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.1: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.1: Build infrastructure for GObject Introspection
 dev-util/gdbus-codegen 2.51.1: GDBus code and documentation generator
+gnome-base/gdm 3.23.4: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gnome-session 3.23.4.1: Gnome session manager
+gnome-base/gnome-settings-daemon 3.23.3: Gnome Settings Daemon
+gnome-base/gnome-shell 3.23.3: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gsettings-desktop-schemas 3.23.3: Collection of GSettings schemas for GNOME desktop
+gnome-base/gvfs 1.31.4: Virtual filesystem implementation for gio
+gnome-extra/evolution-data-server 3.23.4: Evolution groupware backend
+gnome-extra/gnome-shell-extensions 3.23.2: JavaScript extensions for GNOME Shell
+mail-client/evolution 3.23.4: Integrated mail, addressbook and calendaring functionality
+net-libs/gnome-online-accounts 3.23.4: GNOME framework for accessing online accounts
+x11-libs/gdk-pixbuf 2.36.4: Image loading library for GTK+
 x11-libs/gtk+ 3.22.7: Gimp ToolKit +
+x11-wm/mutter 3.23.3: GNOME 3 compositing window manager based on Clutter
