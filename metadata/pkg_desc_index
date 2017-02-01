@@ -6,6 +6,7 @@ dev-libs/gobject-introspection 1.51.1: Introspection system for GObject-based li
 dev-libs/gobject-introspection-common 1.51.1: Build infrastructure for GObject Introspection
 dev-util/gdbus-codegen 2.51.1: GDBus code and documentation generator
 gnome-base/gdm 3.23.4: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gnome-desktop 3.23.3: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.23.4.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.23.3: Gnome Settings Daemon
 gnome-base/gnome-shell 3.23.3: Provides core UI functions for the GNOME 3 desktop
