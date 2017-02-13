@@ -12,9 +12,9 @@ gnome-base/gnome-settings-daemon 3.23.3: Gnome Settings Daemon
 gnome-base/gnome-shell 3.23.3: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.23.3: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.31.4: Virtual filesystem implementation for gio
-gnome-extra/evolution-data-server 3.23.4: Evolution groupware backend
+gnome-extra/evolution-data-server 3.23.90: Evolution groupware backend
 gnome-extra/gnome-shell-extensions 3.23.2: JavaScript extensions for GNOME Shell
-mail-client/evolution 3.23.4: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.23.90: Integrated mail, addressbook and calendaring functionality
 net-libs/gnome-online-accounts 3.23.4: GNOME framework for accessing online accounts
 x11-libs/gdk-pixbuf 2.36.4: Image loading library for GTK+
 x11-libs/gtk+ 3.22.7: Gimp ToolKit +
