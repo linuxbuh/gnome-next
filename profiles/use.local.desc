@@ -40,5 +40,8 @@ x11-libs/gdk-pixbuf:X - Build and install the legacy gdk_pixbuf_xlib-2.0 library
 x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
 x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
 x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
+x11-libs/vte:glade - Provide integration with dev-util/glade.
+x11-terms/gnome-terminal:gnome-shell - Integrate with gnome-base/gnome-shell search
+x11-terms/gnome-terminal:nautilus - Build gnome-base/nautilus extension
 x11-wm/mutter:gles2 - Enable OpenGL ES 2.0 support
 x11-wm/mutter:kms - Enable KMS support.

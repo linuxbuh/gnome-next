@@ -1,22 +1,24 @@
 dev-lang/spidermonkey 31.2.0_rc0: Stand-alone JavaScript C library
 dev-libs/atk 2.23.4: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.47.4: Javascript bindings for GNOME
-dev-libs/glib 2.51.1: The GLib library of C routines
-dev-libs/gobject-introspection 1.51.1: Introspection system for GObject-based libraries
-dev-libs/gobject-introspection-common 1.51.1: Build infrastructure for GObject Introspection
-dev-util/gdbus-codegen 2.51.1: GDBus code and documentation generator
+dev-libs/glib 2.51.2: The GLib library of C routines
+dev-libs/gobject-introspection 1.51.2: Introspection system for GObject-based libraries
+dev-libs/gobject-introspection-common 1.51.2: Build infrastructure for GObject Introspection
+dev-util/gdbus-codegen 2.51.2: GDBus code and documentation generator
 gnome-base/gdm 3.23.4: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-desktop 3.23.3: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-desktop 3.23.90: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.23.4.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.23.3: Gnome Settings Daemon
 gnome-base/gnome-shell 3.23.3: Provides core UI functions for the GNOME 3 desktop
-gnome-base/gsettings-desktop-schemas 3.23.3: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.31.4: Virtual filesystem implementation for gio
+gnome-base/gsettings-desktop-schemas 3.23.90: Collection of GSettings schemas for GNOME desktop
+gnome-base/gvfs 1.31.90: Virtual filesystem implementation for gio
 gnome-extra/evolution-data-server 3.23.90: Evolution groupware backend
 gnome-extra/gnome-shell-extensions 3.23.2: JavaScript extensions for GNOME Shell
 mail-client/evolution 3.23.90: Integrated mail, addressbook and calendaring functionality
 net-libs/gnome-online-accounts 3.23.4: GNOME framework for accessing online accounts
 sys-apps/baobab 3.23.90: Disk usage browser for GNOME
-x11-libs/gdk-pixbuf 2.36.4: Image loading library for GTK+
+x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
 x11-libs/gtk+ 3.22.8: Gimp ToolKit +
+x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
+x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
 x11-wm/mutter 3.23.3: GNOME 3 compositing window manager based on Clutter
