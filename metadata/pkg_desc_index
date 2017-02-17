@@ -19,7 +19,8 @@ gnome-base/nautilus 3.23.90: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.23.90: Evolution groupware backend
 gnome-extra/gnome-calculator 3.23.90: A calculator application for GNOME
-gnome-extra/gnome-shell-extensions 3.23.2: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions 3.23.90: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-software 3.23.90: Gnome install & update software
 gnome-extra/gnome-system-monitor 3.23.90: The Gnome System Monitor
 mail-client/evolution 3.23.90: Integrated mail, addressbook and calendaring functionality
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
