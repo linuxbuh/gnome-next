@@ -1,6 +1,6 @@
-dev-lang/spidermonkey 31.2.0_rc0: Stand-alone JavaScript C library
+dev-lang/spidermonkey 31.2.0_rc0 38 38.2.1_rc0: Stand-alone JavaScript C library
 dev-libs/atk 2.23.4: GTK+ & GNOME Accessibility Toolkit
-dev-libs/gjs 1.47.4: Javascript bindings for GNOME
+dev-libs/gjs 1.47.90: Javascript bindings for GNOME
 dev-libs/glib 2.51.2: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.2: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.2: Build infrastructure for GObject Introspection
@@ -12,7 +12,7 @@ gnome-base/gnome-control-center 3.23.90: GNOME's main interface to configure var
 gnome-base/gnome-desktop 3.23.90: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.23.4.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.23.90: Gnome Settings Daemon
-gnome-base/gnome-shell 3.23.3: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.23.90: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.23.90: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.31.90: Virtual filesystem implementation for gio
 gnome-base/nautilus 3.23.90: A file manager for the GNOME desktop
@@ -30,4 +30,4 @@ x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
 x11-libs/gtk+ 3.22.8: Gimp ToolKit +
 x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
-x11-wm/mutter 3.23.3: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.23.90: GNOME 3 compositing window manager based on Clutter
