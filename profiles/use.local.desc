@@ -2,6 +2,17 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-misc/tracker:cue - Enable cue sheet parsing
+app-misc/tracker:firefox-bookmarks - Install bookmark data miner plugin for www-client/firefox and www-client/firefox-bin
+app-misc/tracker:gsf - Enable gnome-extra/libgsf based data extractor and for ODT.
+app-misc/tracker:iptc - Enable extraction of IPTC data from pictures
+app-misc/tracker:iso - Enable extraction of metadata from ISO disk images
+app-misc/tracker:miner-fs - Enable tracker-miner-fs (required for filesystem indexing)
+app-misc/tracker:nautilus - Enable tracker to integrate with gnome-base/nautilus by providing entries in its context menu
+app-misc/tracker:playlist - Add support for playlists
+app-misc/tracker:stemmer - Add word stemming via dev-libs/snowball-stemmer.
+app-misc/tracker:thunderbird - Install email data miner plugin for mail-client/thunderbird and mail-client/thunderbird-bin
+app-misc/tracker:xps - Add support for XPS file format through app-text/libgxps.
 dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus service to manage settings saving
 dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
 dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
@@ -38,6 +49,8 @@ gnome-extra/evolution-data-server:gnome-online-accounts - Enable using net-libs/
 gnome-extra/evolution-data-server:google - Enable Google Contacts support. This will also enable the internal Google authentication support. Please note this last one relies on a deprecated (and vulnerable) net-libs/webkit-gtk slot. If you want to avoid this dependency, you can disable this support and rely on gnome-online-accounts instead
 gnome-extra/evolution-data-server:weather - Enable optional weather calendar support
 gnome-extra/gnome-system-monitor:systemd - Display sys-apps/systemd metadata, e.g. unit names, for running processes
+gnome-extra/nm-applet:modemmanager - Enable support for mobile broadband devices using net-misc/modemmanager
+gnome-extra/nm-applet:teamd - Enable teamd configuration editor
 mail-client/evolution:bogofilter - Build mail-filter/bogofilter plugin
 mail-client/evolution:crypt - Enable GPG encryption support using app-crypt/gnupg and app-crypt/pinentry
 mail-client/evolution:geolocation - Enable support for displaying contacts on a map inside evolution using media-libs/libchamplain
@@ -66,6 +79,7 @@ x11-libs/gdk-pixbuf:X - Build and install the legacy gdk_pixbuf_xlib-2.0 library
 x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
 x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
 x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
+x11-libs/gtksourceview:glade - Install a glade catalog file
 x11-libs/vte:glade - Provide integration with dev-util/glade.
 x11-terms/gnome-terminal:gnome-shell - Integrate with gnome-base/gnome-shell search
 x11-terms/gnome-terminal:nautilus - Build gnome-base/nautilus extension
