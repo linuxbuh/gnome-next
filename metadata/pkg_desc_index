@@ -19,6 +19,7 @@ gnome-base/nautilus 3.23.90: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.23.90: Evolution groupware backend
 gnome-extra/gnome-calculator 3.23.90: A calculator application for GNOME
+gnome-extra/gnome-logs 3.23.90: Log messages and event viewer
 gnome-extra/gnome-shell-extensions 3.23.90: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-software 3.23.90: Gnome install & update software
 gnome-extra/gnome-system-monitor 3.23.90: The Gnome System Monitor
@@ -28,9 +29,11 @@ media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 net-libs/gnome-online-accounts 3.23.90: GNOME framework for accessing online accounts
 net-misc/networkmanager 1.6.2: A set of co-operative tools that make networking simple and straightforward
 sys-apps/baobab 3.23.90: Disk usage browser for GNOME
+sys-apps/gnome-disk-utility 3.23.4: Disk Utility for GNOME using udisks
 x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
 x11-libs/gtk+ 3.22.8: Gimp ToolKit +
 x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
 x11-themes/adwaita-icon-theme 3.23.91: GNOME default icon theme
+x11-themes/gnome-backgrounds 3.23.91: A set of backgrounds packaged with the GNOME desktop
 x11-wm/mutter 3.23.90: GNOME 3 compositing window manager based on Clutter
