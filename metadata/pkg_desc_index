@@ -7,6 +7,7 @@ dev-libs/glib 2.51.2: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.2: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.2: Build infrastructure for GObject Introspection
 dev-libs/libgit2-glib 0.25.0: Git library for GLib
+dev-libs/wayland 1.12.93: Wayland protocol libraries
 dev-util/gdbus-codegen 2.51.2: GDBus code and documentation generator
 dev-vcs/gitg 3.23.90: git repository viewer for GNOME
 gnome-base/gdm 3.23.4: GNOME Display Manager for managing graphical display servers and user logins
