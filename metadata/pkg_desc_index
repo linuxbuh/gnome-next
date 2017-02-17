@@ -4,7 +4,9 @@ dev-libs/gjs 1.47.4: Javascript bindings for GNOME
 dev-libs/glib 2.51.2: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.2: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.2: Build infrastructure for GObject Introspection
+dev-libs/libgit2-glib 0.25.0: Git library for GLib
 dev-util/gdbus-codegen 2.51.2: GDBus code and documentation generator
+dev-vcs/gitg 3.23.90: git repository viewer for GNOME
 gnome-base/gdm 3.23.4: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.23.90: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.23.90: Libraries for the gnome desktop that are not part of the UI
@@ -14,10 +16,10 @@ gnome-base/gnome-shell 3.23.3: Provides core UI functions for the GNOME 3 deskto
 gnome-base/gsettings-desktop-schemas 3.23.90: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.31.90: Virtual filesystem implementation for gio
 gnome-base/nautilus 3.23.90: A file manager for the GNOME desktop
+gnome-extra/chrome-gnome-shell 8.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.23.90: Evolution groupware backend
 gnome-extra/gnome-calculator 3.23.90: A calculator application for GNOME
 gnome-extra/gnome-shell-extensions 3.23.2: JavaScript extensions for GNOME Shell
-gnome-extra/gnome-shell-extensions-topicons-plus 19: Shows legacy tray icons on top
 gnome-extra/gnome-system-monitor 3.23.90: The Gnome System Monitor
 mail-client/evolution 3.23.90: Integrated mail, addressbook and calendaring functionality
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
