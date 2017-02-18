@@ -1,3 +1,4 @@
+app-misc/geoclue 2.4.5: A geoinformation D-Bus service
 app-misc/tracker 1.11.3: A tagging metadata database, search tool and indexer
 app-text/gspell 1.3.2: Spell check library for GTK+ applications
 dev-lang/spidermonkey 31.2.0_rc0 38 38.2.1_rc0: Stand-alone JavaScript C library
@@ -33,6 +34,7 @@ media-gfx/eog 3.23.90: The Eye of GNOME image viewer
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 net-libs/gnome-online-accounts 3.23.90: GNOME framework for accessing online accounts
 net-misc/networkmanager 1.6.2: A set of co-operative tools that make networking simple and straightforward
+sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.23.90: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.23.4: Disk Utility for GNOME using udisks
 x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
