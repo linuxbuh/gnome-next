@@ -1,3 +1,4 @@
+app-arch/file-roller 3.22.3: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.0: Automatic archives creating and extracting library
 app-misc/geoclue 2.4.5: A geoinformation D-Bus service
 app-misc/tracker 1.11.3: A tagging metadata database, search tool and indexer
@@ -22,7 +23,7 @@ gnome-base/gsettings-desktop-schemas 3.23.90: Collection of GSettings schemas fo
 gnome-base/gvfs 1.31.90: Virtual filesystem implementation for gio
 gnome-base/nautilus 3.23.90: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/evolution-data-server 3.23.90: Evolution groupware backend
+gnome-extra/evolution-data-server 3.23.91: Evolution groupware backend
 gnome-extra/gnome-calculator 3.23.90: A calculator application for GNOME
 gnome-extra/gnome-logs 3.23.90: Log messages and event viewer
 gnome-extra/gnome-shell-extensions 3.23.90: JavaScript extensions for GNOME Shell
@@ -30,17 +31,17 @@ gnome-extra/gnome-software 3.23.90: Gnome install & update software
 gnome-extra/gnome-system-monitor 3.23.90: The Gnome System Monitor
 gnome-extra/nautilus-tracker-tags 1.11.3: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.4.4: GNOME applet for NetworkManager
-mail-client/evolution 3.23.90: Integrated mail, addressbook and calendaring functionality
-media-gfx/eog 3.23.90: The Eye of GNOME image viewer
+mail-client/evolution 3.23.91: Integrated mail, addressbook and calendaring functionality
+media-gfx/eog 3.23.91: The Eye of GNOME image viewer
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-video/totem 3.23.90: Media player for GNOME
 net-libs/gnome-online-accounts 3.23.90: GNOME framework for accessing online accounts
 net-misc/networkmanager 1.6.2: A set of co-operative tools that make networking simple and straightforward
 sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
-sys-apps/baobab 3.23.90: Disk usage browser for GNOME
+sys-apps/baobab 3.23.91: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.23.4: Disk Utility for GNOME using udisks
 x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
-x11-libs/gtk+ 3.22.8: Gimp ToolKit +
+x11-libs/gtk+ 3.22.9: Gimp ToolKit +
 x11-libs/gtksourceview 3.23.90: A text widget implementing syntax highlighting and other features
 x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
