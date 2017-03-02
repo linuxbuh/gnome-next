@@ -7,20 +7,20 @@ dev-lang/spidermonkey 31.2.0_rc0 38 38.2.1_rc0: Stand-alone JavaScript C library
 dev-lang/vala 0.35.6: Compiler for the GObject type system
 dev-libs/atk 2.23.4: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.47.91: Javascript bindings for GNOME
-dev-libs/glib 2.51.3: The GLib library of C routines
+dev-libs/glib 2.51.4: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.3: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.3: Build infrastructure for GObject Introspection
 dev-libs/libgit2-glib 0.25.0: Git library for GLib
 dev-libs/vala-common 0.35.6: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.13.0: Wayland protocol libraries
-dev-util/gdbus-codegen 2.51.3: GDBus code and documentation generator
+dev-util/gdbus-codegen 2.51.4: GDBus code and documentation generator
 dev-vcs/gitg 3.23.90: git repository viewer for GNOME
 gnome-base/gdm 3.23.91: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.23.91: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.23.91: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.23.91: Gnome session manager
 gnome-base/gnome-settings-daemon 3.23.90-r1: Gnome Settings Daemon
-gnome-base/gnome-shell 3.23.90: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.23.91: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.23.90: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.31.91: Virtual filesystem implementation for gio
 gnome-base/nautilus 3.23.90: A file manager for the GNOME desktop
@@ -28,16 +28,17 @@ gnome-extra/chrome-gnome-shell 8.1: GNOME Shell integration for Chrome/Chromium,
 gnome-extra/evolution-data-server 3.23.91: Evolution groupware backend
 gnome-extra/gnome-calculator 3.23.91: A calculator application for GNOME
 gnome-extra/gnome-logs 3.23.91: Log messages and event viewer
-gnome-extra/gnome-shell-extensions 3.23.90: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions 3.23.91: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.23.91: The Gnome System Monitor
 gnome-extra/nautilus-tracker-tags 1.11.4: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.4.4: GNOME applet for NetworkManager
+gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manager
 mail-client/evolution 3.23.91: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.23.91: The Eye of GNOME image viewer
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-video/totem 3.23.90: Media player for GNOME
 net-irc/polari 3.23.90: An IRC client for Gnome
-net-libs/gnome-online-accounts 3.23.90: GNOME framework for accessing online accounts
+net-libs/gnome-online-accounts 3.23.91: GNOME framework for accessing online accounts
 net-misc/networkmanager 1.6.2: A set of co-operative tools that make networking simple and straightforward
 sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.23.91: Disk usage browser for GNOME
@@ -48,6 +49,6 @@ x11-libs/gtksourceview 3.23.90 3.99.3: A text widget implementing syntax highlig
 x11-libs/pango 1.40.4: Internationalized text layout and rendering library
 x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
-x11-themes/adwaita-icon-theme 3.23.91: GNOME default icon theme
+x11-themes/adwaita-icon-theme 3.23.91.1: GNOME default icon theme
 x11-themes/gnome-backgrounds 3.23.91: A set of backgrounds packaged with the GNOME desktop
-x11-wm/mutter 3.23.90: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.23.91: GNOME 3 compositing window manager based on Clutter
