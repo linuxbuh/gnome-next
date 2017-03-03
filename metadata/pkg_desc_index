@@ -24,7 +24,7 @@ gnome-base/gnome-shell 3.23.91: Provides core UI functions for the GNOME 3 deskt
 gnome-base/gsettings-desktop-schemas 3.23.90: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.31.91: Virtual filesystem implementation for gio
 gnome-base/nautilus 3.23.90: A file manager for the GNOME desktop
-gnome-extra/chrome-gnome-shell 8.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
+gnome-extra/chrome-gnome-shell 8.2: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.23.91: Evolution groupware backend
 gnome-extra/gnome-calculator 3.23.91: A calculator application for GNOME
 gnome-extra/gnome-logs 3.23.91: Log messages and event viewer
