@@ -9,6 +9,7 @@ dev-libs/gjs 1.47.91: Javascript bindings for GNOME
 dev-libs/glib 2.51.4: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.3: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.3: Build infrastructure for GObject Introspection
+dev-libs/libgdata 0.17.7: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgit2-glib 0.25.0: Git library for GLib
 dev-libs/vala-common 0.35.6: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.13.0: Wayland protocol libraries
@@ -35,6 +36,7 @@ gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manage
 mail-client/evolution 3.23.91: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.23.91: The Eye of GNOME image viewer
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
+media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.23.90: Media player for GNOME
 net-irc/polari 3.23.91: An IRC client for Gnome
 net-libs/gnome-online-accounts 3.23.91: GNOME framework for accessing online accounts
