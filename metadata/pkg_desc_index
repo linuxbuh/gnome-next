@@ -27,6 +27,7 @@ gnome-base/nautilus 3.23.91: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.2: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.23.91: Evolution groupware backend
 gnome-extra/gnome-calculator 3.23.91: A calculator application for GNOME
+gnome-extra/gnome-calendar 3.23.91.1: Manage your online calendars with simple and modern interface
 gnome-extra/gnome-logs 3.23.91: Log messages and event viewer
 gnome-extra/gnome-shell-extensions 3.23.91: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.23.91: The Gnome System Monitor
