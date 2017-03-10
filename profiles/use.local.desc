@@ -81,6 +81,12 @@ media-video/totem:nautilus - Enable the nautilus extension
 media-video/totem:python - Build support for dev-lang/python plugins
 media-video/totem:zeitgeist - Build the plugin to inject events to gnome-extra/zeitgeist
 net-libs/gnome-online-accounts:gnome - Use gnome-base/gnome-control-center to set GNOME online accounts preferences
+net-libs/webkit-gtk:coverage - Enable code coverage support
+net-libs/webkit-gtk:egl - Enable EGL support
+net-libs/webkit-gtk:geoloc - Enable geolocation support through app-misc/geoclue
+net-libs/webkit-gtk:geolocation - Enable geolocation support through app-misc/geoclue
+net-libs/webkit-gtk:gles2 - Enable GLESv2 support
+net-libs/webkit-gtk:webgl - Build support for the WebGL HTML API using virtual/opengl
 net-misc/networkmanager:connection-sharing - Use net-dns/dnsmasq and net-firewall/iptables for connection sharing
 net-misc/networkmanager:consolekit - Use sys-auth/consolekit for session tracking
 net-misc/networkmanager:dhclient - Use dhclient from net-misc/dhcp for getting ip
