@@ -15,6 +15,7 @@ dev-libs/vala-common 0.35.6: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.13.0: Wayland protocol libraries
 dev-util/gdbus-codegen 2.51.4: GDBus code and documentation generator
 dev-vcs/gitg 3.23.90: git repository viewer for GNOME
+gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.23.91.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.23.91: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.23.91: Libraries for the gnome desktop that are not part of the UI
