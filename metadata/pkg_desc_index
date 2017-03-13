@@ -1,5 +1,6 @@
 app-arch/file-roller 3.23.91: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.1: Automatic archives creating and extracting library
+app-editors/latexila 3.23.2: Integrated LaTeX environment for GNOME
 app-misc/geoclue 2.4.5: A geoinformation D-Bus service
 app-misc/tracker 1.11.4: A tagging metadata database, search tool and indexer
 app-text/gspell 1.3.2: Spell check library for GTK+ applications
@@ -49,7 +50,7 @@ net-misc/networkmanager 1.6.2: A set of co-operative tools that make networking 
 sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.23.91: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.23.92: Disk Utility for GNOME using udisks
-www-client/epiphany 3.23.92: GNOME webbrowser based on Webkit
+www-client/epiphany 3.23.93: GNOME webbrowser based on Webkit
 x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
 x11-libs/gtk+ 2.24.31-r1 3.22.9: Gimp ToolKit +
 x11-libs/gtksourceview 3.23.91: A text widget implementing syntax highlighting and other features

@@ -4,6 +4,8 @@
 
 app-arch/file-roller:nautilus - Enable file-roller to integrate with gnome-base/nautilus by providing entries in its context menu
 app-arch/file-roller:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit
+app-editors/latexila:latexmk - Install dev-tex/latexmk (used by default for the build tools)
+app-editors/latexila:rubber - Install dev-tex/rubber (can be used for the build tools)
 app-misc/geoclue:geonames - Install geonames.org provider
 app-misc/geoclue:gsmloc - Install GSM location provider
 app-misc/geoclue:gtk - Install gtk-based geoclue-test-gui
