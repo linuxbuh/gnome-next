@@ -15,6 +15,7 @@ dev-libs/gobject-introspection-common 1.51.3: Build infrastructure for GObject I
 dev-libs/json-glib 1.2.6: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/libgdata 0.17.7: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgit2-glib 0.25.0: Git library for GLib
+dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
 dev-libs/vala-common 0.35.6: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.13.0: Wayland protocol libraries
 dev-util/gdbus-codegen 2.51.5: GDBus code and documentation generator
