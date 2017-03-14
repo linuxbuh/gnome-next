@@ -14,6 +14,7 @@ dev-libs/glib 2.51.5: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.3: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.3: Build infrastructure for GObject Introspection
 dev-libs/json-glib 1.2.6: Library providing GLib serialization and deserialization for the JSON format
+dev-libs/libdbusmenu 16.04.0: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.7: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgit2-glib 0.25.0: Git library for GLib
 dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
@@ -59,10 +60,12 @@ net-irc/polari 3.23.91: An IRC client for Gnome
 net-libs/gnome-online-accounts 3.23.91: GNOME framework for accessing online accounts
 net-libs/webkit-gtk 2.15.91: Open source web browser engine
 net-misc/networkmanager 1.6.2: A set of co-operative tools that make networking simple and straightforward
+pantheon-base/plank 9999: The dock for elementary Pantheon, stupidly simple
 sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.23.91: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.23.92: Disk Utility for GNOME using udisks
 www-client/epiphany 3.23.93: GNOME webbrowser based on Webkit
+x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
 x11-libs/gtk+ 2.24.31-r1 3.22.10: Gimp ToolKit +
 x11-libs/gtksourceview 3.23.91: A text widget implementing syntax highlighting and other features
@@ -70,6 +73,8 @@ x11-libs/pango 1.40.4: Internationalized text layout and rendering library
 x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
 x11-themes/adwaita-icon-theme 3.23.91.1: GNOME default icon theme
+x11-themes/elementary-icon-theme 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/gnome-backgrounds 3.23.91: A set of backgrounds packaged with the GNOME desktop
+x11-themes/plank-theme-pantheon 9999: Plank theme for elementary OS
 x11-wm/muffin 3.2.2: Compositing window manager forked from Mutter for use with Cinnamon
 x11-wm/mutter 3.23.91: GNOME 3 compositing window manager based on Clutter
