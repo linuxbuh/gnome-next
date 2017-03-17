@@ -33,7 +33,7 @@ gnome-base/gnome-shell 3.23.92: Provides core UI functions for the GNOME 3 deskt
 gnome-base/gsettings-desktop-schemas 3.23.90: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.31.92: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.35.92: A library that provides top functionality to applications
-gnome-base/nautilus 3.23.91: A file manager for the GNOME desktop
+gnome-base/nautilus 3.23.92: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.2: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/cinnamon 3.2.8: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-desktop 3.2.4: A collection of libraries and utilites used by Cinnamon
