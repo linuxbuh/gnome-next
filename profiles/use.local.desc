@@ -110,8 +110,15 @@ net-misc/networkmanager:resolvconf - Use net-dns/openresolv for managing DNS inf
 net-misc/networkmanager:teamd - Enable Teamd control support
 net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless Extensions) API; needed for some older drivers (e.g. ipw2200, ndiswrapper)
 net-misc/networkmanager:wifi - Enable support for wifi and 802.1x security using net-wireless/wpa_supplicant
+pantheon-base/wingpanel:accessibility - Include the accessibility indicator
+pantheon-base/wingpanel:bluetooth - Include the bluetooth indicator
+pantheon-base/wingpanel:keyboard - Include the keyboard indicator
+pantheon-base/wingpanel:network - Include the network indicator
+pantheon-base/wingpanel:power - Include the power indicator
+pantheon-base/wingpanel:sound - Include the sound indicator
 sys-apps/gnome-disk-utility:fat - Include FAT16/FAT32 support (sys-fs/dosfstools)
 x11-libs/gdk-pixbuf:X - Build and install the legacy gdk_pixbuf_xlib-2.0 library
+x11-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
 x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
 x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
 x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
