@@ -6,6 +6,9 @@ app-arch/file-roller:nautilus - Enable file-roller to integrate with gnome-base/
 app-arch/file-roller:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit
 app-editors/latexila:latexmk - Install dev-tex/latexmk (used by default for the build tools)
 app-editors/latexila:rubber - Install dev-tex/rubber (can be used for the build tools)
+app-i18n/ibus:deprecated - install the deprecated ibus python library
+app-i18n/ibus:gconf - Enable support for gnome-base/gconf
+app-i18n/ibus:gtk3 - Enable support for gtk+3
 app-misc/geoclue:geonames - Install geonames.org provider
 app-misc/geoclue:gsmloc - Install GSM location provider
 app-misc/geoclue:gtk - Install gtk-based geoclue-test-gui
