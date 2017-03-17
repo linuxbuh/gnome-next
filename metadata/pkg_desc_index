@@ -9,7 +9,7 @@ dev-cpp/atkmm 2.25.1: C++ interface for the ATK library
 dev-cpp/glibmm 2.51.5: C++ interface for glib2
 dev-lang/vala 0.35.90: Compiler for the GObject type system
 dev-libs/atk 2.23.4: GTK+ & GNOME Accessibility Toolkit
-dev-libs/gjs 1.47.92: Javascript bindings for GNOME
+dev-libs/gjs 1.47.92-r1: Javascript bindings for GNOME
 dev-libs/glib 2.51.5: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.5: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.5: Build infrastructure for GObject Introspection
