@@ -1,6 +1,7 @@
 app-accessibility/at-spi2-core 2.23.92: D-Bus accessibility specifications and registration daemon
 app-arch/file-roller 3.23.92: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.1: Automatic archives creating and extracting library
+app-editors/gedit 3.22.0: A text editor for the GNOME desktop
 app-editors/latexila 3.23.2: Integrated LaTeX environment for GNOME
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.5: A geoinformation D-Bus service
