@@ -111,6 +111,7 @@ net-misc/networkmanager:resolvconf - Use net-dns/openresolv for managing DNS inf
 net-misc/networkmanager:teamd - Enable Teamd control support
 net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless Extensions) API; needed for some older drivers (e.g. ipw2200, ndiswrapper)
 net-misc/networkmanager:wifi - Enable support for wifi and 802.1x security using net-wireless/wpa_supplicant
+pantheon-base/pantheon-files:gvfs - Pull in gnome-base/gvfs to enable various virtual filesystems
 pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
 pantheon-base/pantheon-shell:screensaver - Install a screensaver
 pantheon-base/wingpanel:accessibility - Include the accessibility indicator
