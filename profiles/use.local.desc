@@ -40,6 +40,7 @@ dev-libs/libdbusmenu:gtk2 - Support GTK+ 2.x instead of GTK+ 3.x
 dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
 dev-libs/libgdata:gnome-online-accounts - Enable net-libs/gnome-online-accounts support
 dev-libs/libgit2-glib:ssh - Enable SSH transport support
+dev-libs/libgweather:glade - Installs catalog files for dev-util/glade
 dev-vcs/gitg:glade - Install a glade catalog file
 dev-vcs/gitg:python - Install Python bindings for those plugins requiring it.
 gnome-base/gdm:fprint - Enables experimental fingerprint authentication using sys-auth/fprintd

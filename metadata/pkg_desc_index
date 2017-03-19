@@ -19,6 +19,7 @@ dev-libs/json-glib 1.2.8: Library providing GLib serialization and deserializati
 dev-libs/libdbusmenu 16.04.0: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.7: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgit2-glib 0.25.0: Git library for GLib
+dev-libs/libgweather 3.24.0: Library to access weather information from online services
 dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
 dev-libs/vala-common 0.35.6: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.13.0: Wayland protocol libraries
