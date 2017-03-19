@@ -63,6 +63,9 @@ net-libs/gnome-online-accounts 3.23.92: GNOME framework for accessing online acc
 net-libs/webkit-gtk 2.15.91: Open source web browser engine
 net-misc/networkmanager 1.6.2: A set of co-operative tools that make networking simple and straightforward
 net-wireless/gnome-bluetooth 3.20.1: Bluetooth graphical utilities integrated with GNOME
+pantheon-base/cerbere 9999: A simple service to relaunch pantheon applications
+pantheon-base/pantheon-settings 9999: Default settings for the Pantheon Desktop Environment
+pantheon-base/pantheon-shell 9999: Elementary's desktop environment
 pantheon-base/plank 9999: The dock for elementary Pantheon, stupidly simple
 pantheon-base/slingshot 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/switchboard 9999: Modular desktop settings hub
@@ -93,6 +96,8 @@ x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
 x11-themes/adwaita-icon-theme 3.23.91.1: GNOME default icon theme
 x11-themes/elementary-icon-theme 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
+x11-themes/elementary-theme 9999: The official elementary GTK theme
+x11-themes/elementary-wallpapers 9999: A set of wallpapers used by the elementary OS
 x11-themes/gnome-backgrounds 3.23.91: A set of backgrounds packaged with the GNOME desktop
 x11-themes/plank-theme-pantheon 9999: Plank theme for elementary OS
 x11-wm/gala 9999: Pantheon's Window Manager

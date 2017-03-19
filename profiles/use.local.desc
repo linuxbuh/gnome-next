@@ -110,6 +110,8 @@ net-misc/networkmanager:resolvconf - Use net-dns/openresolv for managing DNS inf
 net-misc/networkmanager:teamd - Enable Teamd control support
 net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless Extensions) API; needed for some older drivers (e.g. ipw2200, ndiswrapper)
 net-misc/networkmanager:wifi - Enable support for wifi and 802.1x security using net-wireless/wpa_supplicant
+pantheon-base/pantheon-shell:lightdm - Install and use the Pantheon greeter for LightDM.
+pantheon-base/pantheon-shell:screensaver - Install a screensaver
 pantheon-base/wingpanel:accessibility - Include the accessibility indicator
 pantheon-base/wingpanel:bluetooth - Include the bluetooth indicator
 pantheon-base/wingpanel:keyboard - Include the keyboard indicator
@@ -127,5 +129,9 @@ x11-libs/pango:X - Build and install the legacy pangoxft library
 x11-libs/vte:glade - Provide integration with dev-util/glade.
 x11-terms/gnome-terminal:gnome-shell - Integrate with gnome-base/gnome-shell search
 x11-terms/gnome-terminal:nautilus - Build gnome-base/nautilus extension
+x11-themes/elementary-theme:dark - Include the 'dark' theme
+x11-themes/elementary-theme:gtk3 - Pull in the Gtk+ 3 theme engines
+x11-themes/elementary-theme:icons - Include elementary icons
+x11-themes/elementary-theme:wallpapers - Include elementary wallpapers
 x11-wm/mutter:gles2 - Enable OpenGL ES 2.0 support
 x11-wm/mutter:kms - Enable KMS support.
