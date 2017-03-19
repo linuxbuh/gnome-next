@@ -69,15 +69,15 @@ pantheon-base/pantheon-shell 9999: Elementary's desktop environment
 pantheon-base/plank 9999: The dock for elementary Pantheon, stupidly simple
 pantheon-base/slingshot 9999: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/switchboard 9999: Modular desktop settings hub
+pantheon-base/switchboard-plug-applications 9999: Application configuration management
 pantheon-base/switchboard-plug-datetime 9999: Configure the date & time of the user
 pantheon-base/switchboard-plug-keyboard 9999: Adjust keyboard settings from Switchboard
+pantheon-base/switchboard-plug-mouse-touchpad 9999: Adjust mouse settings from Switchboard
 pantheon-base/switchboard-plug-notifications 9999: Configure which apps should be allowed to show notifications
+pantheon-base/switchboard-plug-pantheon-shell 9999: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/wingpanel 9999: Stylish top panel that holds indicators and spawns an application launcher
-pantheon-base/wingpanel-indicator-accessibility 9999: Accessibility indicator for Wingpanel
-pantheon-base/wingpanel-indicator-bluetooth 9999: Bluetooth indicator for Wingpanel
 pantheon-base/wingpanel-indicator-datetime 9999: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 9999: Keyboard indicator for Wingpanel
-pantheon-base/wingpanel-indicator-network 9999: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-notifications 9999: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 9999: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 9999: Session indicator for Wingpanel
@@ -92,6 +92,7 @@ x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
 x11-libs/granite 9999: A development library for elementary development
 x11-libs/gtk+ 2.24.31-r1 3.22.10: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.0: A text widget implementing syntax highlighting and other features
+x11-libs/libpantheon 9999: This library is deprecated
 x11-libs/pango 1.40.4: Internationalized text layout and rendering library
 x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
