@@ -12,7 +12,7 @@ dev-cpp/glibmm 2.51.5: C++ interface for glib2
 dev-lang/vala 0.36.0: Compiler for the GObject type system
 dev-libs/atk 2.24.0: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.47.92-r1: Javascript bindings for GNOME
-dev-libs/glib 2.51.5: The GLib library of C routines
+dev-libs/glib 2.52.0: The GLib library of C routines
 dev-libs/gobject-introspection 1.51.5: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.51.5: Build infrastructure for GObject Introspection
 dev-libs/json-glib 1.2.8: Library providing GLib serialization and deserialization for the JSON format
@@ -22,7 +22,7 @@ dev-libs/libgit2-glib 0.25.0: Git library for GLib
 dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
 dev-libs/vala-common 0.35.6: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.13.0: Wayland protocol libraries
-dev-util/gdbus-codegen 2.51.5: GDBus code and documentation generator
+dev-util/gdbus-codegen 2.52.0: GDBus code and documentation generator
 dev-vcs/gitg 3.23.90: git repository viewer for GNOME
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.23.92: GNOME Display Manager for managing graphical display servers and user logins
@@ -82,6 +82,7 @@ pantheon-base/wingpanel-indicator-notifications 9999: Notifications indicator fo
 pantheon-base/wingpanel-indicator-power 9999: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 9999: Session indicator for Wingpanel
 pantheon-base/wingpanel-indicator-sound 9999: Sound indicator for Wingpanel
+pantheon-extra/elementary-tweaks 9999: Tweak elementary OS
 sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.23.91: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.23.92: Disk Utility for GNOME using udisks
@@ -90,7 +91,7 @@ x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/gdk-pixbuf 2.36.5: Image loading library for GTK+
 x11-libs/granite 9999: A development library for elementary development
 x11-libs/gtk+ 2.24.31-r1 3.22.10: Gimp ToolKit +
-x11-libs/gtksourceview 3.23.91: A text widget implementing syntax highlighting and other features
+x11-libs/gtksourceview 3.24.0: A text widget implementing syntax highlighting and other features
 x11-libs/pango 1.40.4: Internationalized text layout and rendering library
 x11-libs/vte 0.47.90: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.23.90: The Gnome Terminal
