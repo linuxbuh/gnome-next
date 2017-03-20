@@ -35,7 +35,7 @@ gnome-base/gnome-session 3.23.92: Gnome session manager
 gnome-base/gnome-settings-daemon 3.24.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.23.92: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.31.92: Virtual filesystem implementation for gio
+gnome-base/gvfs 1.32.0: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.35.92: A library that provides top functionality to applications
 gnome-base/nautilus 3.23.92: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.2: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
