@@ -6,6 +6,7 @@ app-editors/latexila 3.23.2: Integrated LaTeX environment for GNOME
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.5: A geoinformation D-Bus service
 app-misc/tracker 1.11.4: A tagging metadata database, search tool and indexer
+app-text/evince 3.24.0: Simple document viewer for GNOME
 app-text/gspell 1.4.0: Spell check library for GTK+ applications
 dev-cpp/atkmm 2.25.1: C++ interface for the ATK library
 dev-cpp/glibmm 2.51.5: C++ interface for glib2
@@ -27,12 +28,12 @@ dev-util/gdbus-codegen 2.52.0: GDBus code and documentation generator
 dev-vcs/gitg 3.23.90: git repository viewer for GNOME
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.23.92: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-control-center 3.23.92: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.24.0: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.23.92: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.23.92: Gnome session manager
-gnome-base/gnome-settings-daemon 3.23.92: Gnome Settings Daemon
+gnome-base/gnome-settings-daemon 3.24.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.23.92: Provides core UI functions for the GNOME 3 desktop
-gnome-base/gsettings-desktop-schemas 3.23.90: Collection of GSettings schemas for GNOME desktop
+gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.31.92: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.35.92: A library that provides top functionality to applications
 gnome-base/nautilus 3.23.92: A file manager for the GNOME desktop
@@ -42,7 +43,7 @@ gnome-extra/cinnamon-desktop 3.2.4: A collection of libraries and utilites used 
 gnome-extra/cinnamon-screensaver 3.2.13-r2: Screensaver for Cinnamon
 gnome-extra/cinnamon-settings-daemon 3.2.1: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 3.2.2: Translation data for Cinnamon
-gnome-extra/evolution-data-server 3.23.92: Evolution groupware backend
+gnome-extra/evolution-data-server 3.24.0: Evolution groupware backend
 gnome-extra/gnome-calculator 3.23.92: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.23.92: Manage your online calendars with simple and modern interface
 gnome-extra/gnome-color-manager 3.23.92: Color profile manager for the GNOME desktop
@@ -55,11 +56,11 @@ gnome-extra/nautilus-tracker-tags 1.11.4: Nautilus extension to tag files for Tr
 gnome-extra/nemo 3.2.2: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nm-applet 1.4.6: GNOME applet for NetworkManager
 gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manager
-mail-client/evolution 3.23.92: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.24.0: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.23.92: The Eye of GNOME image viewer
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
-media-video/totem 3.23.90: Media player for GNOME
+media-video/totem 3.24.0: Media player for GNOME
 net-irc/polari 3.23.92: An IRC client for Gnome
 net-libs/gnome-online-accounts 3.23.92: GNOME framework for accessing online accounts
 net-libs/webkit-gtk 2.15.92: Open source web browser engine
