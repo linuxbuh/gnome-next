@@ -1,7 +1,7 @@
 app-accessibility/at-spi2-atk 2.24.0: Gtk module for bridging AT-SPI to Atk
 app-accessibility/at-spi2-core 2.24.0: D-Bus accessibility specifications and registration daemon
 app-arch/file-roller 3.24.0: Archive manager for GNOME
-app-arch/gnome-autoar 0.2.1: Automatic archives creating and extracting library
+app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
 app-editors/gedit 3.22.0: A text editor for the GNOME desktop
 app-editors/latexila 3.24.0: Integrated LaTeX environment for GNOME
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
@@ -40,7 +40,7 @@ gnome-base/gnome-shell 3.24.0: Provides core UI functions for the GNOME 3 deskto
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.32.0: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.36.0: A library that provides top functionality to applications
-gnome-base/nautilus 3.23.92: A file manager for the GNOME desktop
+gnome-base/nautilus 3.24.0: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.2: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/cinnamon 3.2.8: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/cinnamon-desktop 3.2.4: A collection of libraries and utilites used by Cinnamon
@@ -60,6 +60,7 @@ gnome-extra/nautilus-tracker-tags 1.12.0: Nautilus extension to tag files for Tr
 gnome-extra/nemo 3.2.2: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nm-applet 1.4.6: GNOME applet for NetworkManager
 gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manager
+gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
 mail-client/evolution 3.24.0: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.24.0: The Eye of GNOME image viewer
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
