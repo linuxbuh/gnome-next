@@ -66,7 +66,7 @@ media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
 net-irc/polari 3.24.0: An IRC client for Gnome
-net-libs/gnome-online-accounts 3.23.92: GNOME framework for accessing online accounts
+net-libs/gnome-online-accounts 3.24.0: GNOME framework for accessing online accounts
 net-libs/webkit-gtk 2.15.92: Open source web browser engine
 net-misc/networkmanager 1.6.2: A set of co-operative tools that make networking simple and straightforward
 net-wireless/gnome-bluetooth 3.20.1: Bluetooth graphical utilities integrated with GNOME
