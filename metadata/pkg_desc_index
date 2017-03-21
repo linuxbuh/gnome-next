@@ -103,11 +103,11 @@ x11-libs/gtksourceview 3.24.0: A text widget implementing syntax highlighting an
 x11-libs/pango 1.40.4: Internationalized text layout and rendering library
 x11-libs/vte 0.48.0: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.24.0: The Gnome Terminal
-x11-themes/adwaita-icon-theme 3.23.91.1: GNOME default icon theme
+x11-themes/adwaita-icon-theme 3.24.0: GNOME default icon theme
 x11-themes/elementary-icon-theme 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 9999: The official elementary GTK theme
 x11-themes/elementary-wallpapers 9999: A set of wallpapers used by the elementary OS
-x11-themes/gnome-backgrounds 3.23.91: A set of backgrounds packaged with the GNOME desktop
+x11-themes/gnome-backgrounds 3.24.0: A set of backgrounds packaged with the GNOME desktop
 x11-themes/plank-theme-pantheon 9999: Plank theme for elementary OS
 x11-wm/gala 9999: Pantheon's Window Manager
 x11-wm/muffin 3.2.2: Compositing window manager forked from Mutter for use with Cinnamon
