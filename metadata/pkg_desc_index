@@ -4,6 +4,7 @@ app-arch/file-roller 3.24.0: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
 app-editors/gedit 3.22.0: A text editor for the GNOME desktop
 app-editors/latexila 3.24.0: Integrated LaTeX environment for GNOME
+app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.5: A geoinformation D-Bus service
 app-misc/tracker 1.12.0: A tagging metadata database, search tool and indexer
@@ -43,11 +44,6 @@ gnome-base/gvfs 1.32.0: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.36.0: A library that provides top functionality to applications
 gnome-base/nautilus 3.24.0: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.2: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/cinnamon 3.2.8: A fork of GNOME Shell with layout similar to GNOME 2
-gnome-extra/cinnamon-desktop 3.2.4: A collection of libraries and utilites used by Cinnamon
-gnome-extra/cinnamon-screensaver 3.2.13-r2: Screensaver for Cinnamon
-gnome-extra/cinnamon-settings-daemon 3.2.1: Cinnamon's settings daemon
-gnome-extra/cinnamon-translations 3.2.2: Translation data for Cinnamon
 gnome-extra/evolution-data-server 3.24.0: Evolution groupware backend
 gnome-extra/gnome-calculator 3.24.0: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.24.0: Manage your online calendars with simple and modern interface
@@ -58,7 +54,6 @@ gnome-extra/gnome-shell-extensions 3.24.0: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0: The Gnome System Monitor
 gnome-extra/gnome-tweak-tool 3.24.0: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.12.0: Nautilus extension to tag files for Tracker
-gnome-extra/nemo 3.2.2: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nm-applet 1.4.6: GNOME applet for NetworkManager
 gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
@@ -114,5 +109,4 @@ x11-themes/elementary-wallpapers 9999: A set of wallpapers used by the elementar
 x11-themes/gnome-backgrounds 3.24.0: A set of backgrounds packaged with the GNOME desktop
 x11-themes/plank-theme-pantheon 9999: Plank theme for elementary OS
 x11-wm/gala 9999: Pantheon's Window Manager
-x11-wm/muffin 3.2.2: Compositing window manager forked from Mutter for use with Cinnamon
 x11-wm/mutter 3.24.0: GNOME 3 compositing window manager based on Clutter
