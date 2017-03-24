@@ -88,7 +88,6 @@ pantheon-base/switchboard-plug-security-privacy 9999: Configure various aspects 
 pantheon-base/wingpanel 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-datetime 9999: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 9999: Keyboard indicator for Wingpanel
-pantheon-base/wingpanel-indicator-network 9999: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-notifications 9999: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 9999: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 9999: Session indicator for Wingpanel
