@@ -80,6 +80,7 @@ pantheon-base/switchboard-plug-datetime 9999: Configure the date & time of the u
 pantheon-base/switchboard-plug-display 9999: Switchboard plug to show displays information
 pantheon-base/switchboard-plug-keyboard 9999: Adjust keyboard settings from Switchboard
 pantheon-base/switchboard-plug-mouse-touchpad 9999: Adjust mouse settings from Switchboard
+pantheon-base/switchboard-plug-network 9999: Configure all available networks
 pantheon-base/switchboard-plug-notifications 9999: Configure which apps should be allowed to show notifications
 pantheon-base/switchboard-plug-pantheon-shell 9999: Configure the Pantheon desktop environment using Switchboard
 pantheon-base/switchboard-plug-power 9999: Control system power consumption using Switchboard.
@@ -87,6 +88,7 @@ pantheon-base/switchboard-plug-security-privacy 9999: Configure various aspects 
 pantheon-base/wingpanel 9999: Stylish top panel that holds indicators and spawns an application launcher
 pantheon-base/wingpanel-indicator-datetime 9999: Date & Time indicator for Wingpanel
 pantheon-base/wingpanel-indicator-keyboard 9999: Keyboard indicator for Wingpanel
+pantheon-base/wingpanel-indicator-network 9999: Network indicator for Wingpanel
 pantheon-base/wingpanel-indicator-notifications 9999: Notifications indicator for Wingpanel
 pantheon-base/wingpanel-indicator-power 9999: Power indicator for Wingpanel
 pantheon-base/wingpanel-indicator-session 9999: Session indicator for Wingpanel
