@@ -15,6 +15,7 @@ dev-cpp/atkmm 2.25.1: C++ interface for the ATK library
 dev-cpp/glibmm 2.51.5: C++ interface for glib2
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/vala 0.34.7 0.36.0: Compiler for the GObject type system
+dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.24.0: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.48.0: Javascript bindings for GNOME
 dev-libs/glib 2.52.0: The GLib library of C routines
