@@ -56,7 +56,6 @@ gnome-extra/gnome-shell-extensions 3.24.0: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0: The Gnome System Monitor
 gnome-extra/gnome-tweak-tool 3.24.0: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.12.0: Nautilus extension to tag files for Tracker
-gnome-extra/nm-applet 1.4.6: GNOME applet for NetworkManager
 gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
 mail-client/evolution 3.24.0: Integrated mail, addressbook and calendaring functionality
