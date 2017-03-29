@@ -36,9 +36,11 @@ dev-util/gdbus-codegen 2.52.0: GDBus code and documentation generator
 dev-vcs/gitg 3.23.90: git repository viewer for GNOME
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.24.0: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gnome-applets 3.24.0: The GNOME panel applets
 gnome-base/gnome-control-center 3.24.0: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.24.0: Libraries for the gnome desktop that are not part of the UI
-gnome-base/gnome-session 3.24.0: Gnome session manager
+gnome-base/gnome-flashback 3.24.0: Gnome flashback
+gnome-base/gnome-panel 3.24.1: The GNOME panel patched for the Unity desktop
 gnome-base/gnome-settings-daemon 3.24.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.24.0: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
