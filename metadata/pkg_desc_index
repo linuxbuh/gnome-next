@@ -41,6 +41,7 @@ gnome-base/gnome-control-center 3.24.0: GNOME's main interface to configure vari
 gnome-base/gnome-desktop 3.24.0: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-flashback 3.24.0: Gnome flashback
 gnome-base/gnome-panel 3.24.1: The GNOME panel patched for the Unity desktop
+gnome-base/gnome-session 3.24.0: Gnome session manager
 gnome-base/gnome-settings-daemon 3.24.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.24.0: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
