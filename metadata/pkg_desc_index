@@ -63,6 +63,7 @@ gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manage
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
 mail-client/evolution 3.24.0: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.24.0: The Eye of GNOME image viewer
+media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
