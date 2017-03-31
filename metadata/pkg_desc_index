@@ -11,8 +11,8 @@ app-misc/tracker 1.12.0: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.24.0: Simple document viewer for GNOME
 app-text/gspell 1.4.0: Spell check library for GTK+ applications
-dev-cpp/atkmm 2.25.1: C++ interface for the ATK library
-dev-cpp/glibmm 2.51.5: C++ interface for glib2
+dev-cpp/atkmm 2.25.2: C++ interface for the ATK library
+dev-cpp/glibmm 2.51.6: C++ interface for glib2
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/vala 0.34.7 0.36.0: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
