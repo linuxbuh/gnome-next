@@ -10,17 +10,17 @@ app-misc/geoclue 2.4.5: A geoinformation D-Bus service
 app-misc/tracker 1.12.0: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.24.0: Simple document viewer for GNOME
-app-text/gspell 1.4.0: Spell check library for GTK+ applications
+app-text/gspell 1.4.1: Spell check library for GTK+ applications
 dev-cpp/atkmm 2.25.2: C++ interface for the ATK library
 dev-cpp/glibmm 2.51.6: C++ interface for glib2
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/vala 0.34.7 0.36.1: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.24.0: GTK+ & GNOME Accessibility Toolkit
-dev-libs/gjs 1.48.0: Javascript bindings for GNOME
-dev-libs/glib 2.52.0: The GLib library of C routines
-dev-libs/gobject-introspection 1.52.0: Introspection system for GObject-based libraries
-dev-libs/gobject-introspection-common 1.52.0: Build infrastructure for GObject Introspection
+dev-libs/gjs 1.48.1: Javascript bindings for GNOME
+dev-libs/glib 2.52.1: The GLib library of C routines
+dev-libs/gobject-introspection 1.52.1: Introspection system for GObject-based libraries
+dev-libs/gobject-introspection-common 1.52.1: Build infrastructure for GObject Introspection
 dev-libs/json-glib 1.2.8: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/libdbusmenu 16.04.0: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.7: GLib-based library for accessing online service APIs using the GData protocol
@@ -31,46 +31,43 @@ dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
 dev-libs/vala-common 0.34.7 0.36.0: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.13.0: Wayland protocol libraries
 dev-python/pyatspi 2.24.0: Python binding to at-spi library
-dev-python/pygobject 3.24.0: GLib's GObject library bindings for Python
-dev-util/gdbus-codegen 2.52.0: GDBus code and documentation generator
+dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
+dev-util/gdbus-codegen 2.52.1: GDBus code and documentation generator
 dev-vcs/gitg 3.23.90: git repository viewer for GNOME
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
-gnome-base/gdm 3.24.0: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-applets 3.24.0: The GNOME panel applets
-gnome-base/gnome-control-center 3.24.0: GNOME's main interface to configure various aspects of the desktop
-gnome-base/gnome-desktop 3.24.0: Libraries for the gnome desktop that are not part of the UI
-gnome-base/gnome-flashback 3.24.0: Gnome flashback
-gnome-base/gnome-panel 3.24.1: The GNOME panel patched for the Unity desktop
-gnome-base/gnome-session 3.24.0: Gnome session manager
-gnome-base/gnome-settings-daemon 3.24.0: Gnome Settings Daemon
-gnome-base/gnome-shell 3.24.0: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gdm 3.24.1: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gnome-control-center 3.24.1: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-desktop 3.24.1: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-session 3.24.1: Gnome session manager
+gnome-base/gnome-settings-daemon 3.24.1: Gnome Settings Daemon
+gnome-base/gnome-shell 3.24.1: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.32.0: Virtual filesystem implementation for gio
+gnome-base/gvfs 1.32.1: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.36.0: A library that provides top functionality to applications
 gnome-base/nautilus 3.24.0: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 8.2: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/evolution-data-server 3.24.0-r1: Evolution groupware backend
+gnome-extra/evolution-data-server 3.24.1: Evolution groupware backend
 gnome-extra/gnome-calculator 3.24.0: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.24.0: Manage your online calendars with simple and modern interface
 gnome-extra/gnome-color-manager 3.24.0: Color profile manager for the GNOME desktop
-gnome-extra/gnome-logs 3.24.0: Log messages and event viewer
+gnome-extra/gnome-logs 3.24.1: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.24.0: GNOME power management service
-gnome-extra/gnome-shell-extensions 3.24.0: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions 3.24.1: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0: The Gnome System Monitor
 gnome-extra/gnome-tweak-tool 3.24.0: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.12.0: Nautilus extension to tag files for Tracker
 gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
-mail-client/evolution 3.24.0: Integrated mail, addressbook and calendaring functionality
-media-gfx/eog 3.24.0: The Eye of GNOME image viewer
+mail-client/evolution 3.24.1: Integrated mail, addressbook and calendaring functionality
+media-gfx/eog 3.24.1: The Eye of GNOME image viewer
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
-net-irc/polari 3.24.0: An IRC client for Gnome
+net-irc/polari 3.24.1: An IRC client for Gnome
 net-libs/gnome-online-accounts 3.24.0: GNOME framework for accessing online accounts
 net-libs/webkit-gtk 2.4.11-r300 2.16.0: Open source web browser engine
-net-misc/networkmanager 1.6.2 1.7.90: A set of co-operative tools that make networking simple and straightforward
+net-misc/networkmanager 1.6.2 1.7.91: A set of co-operative tools that make networking simple and straightforward
 net-wireless/gnome-bluetooth 3.20.1: Bluetooth graphical utilities integrated with GNOME
 pantheon-base/cerbere 9999: A simple service to relaunch pantheon applications
 pantheon-base/pantheon-files 9999: A simple, powerful, sexy file manager for the Pantheon desktop
@@ -101,14 +98,13 @@ pantheon-extra/pantheon-calculator 9999: A tiny, simple calculator written in GT
 sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.24.0: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.24.0: Disk Utility for GNOME using udisks
-www-client/epiphany 3.24.0: GNOME webbrowser based on Webkit
+www-client/epiphany 3.24.1: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/granite 9999: A development library for elementary development
-x11-libs/gtk+ 2.24.31-r1 3.22.11: Gimp ToolKit +
-x11-libs/gtksourceview 3.24.0: A text widget implementing syntax highlighting and other features
+x11-libs/gtksourceview 3.24.1: A text widget implementing syntax highlighting and other features
 x11-libs/pango 1.40.4: Internationalized text layout and rendering library
-x11-libs/vte 0.48.1: Library providing a virtual terminal emulator widget
-x11-terms/gnome-terminal 3.24.0: The Gnome Terminal
+x11-libs/vte 0.48.2: Library providing a virtual terminal emulator widget
+x11-terms/gnome-terminal 3.24.1: The Gnome Terminal
 x11-terms/pantheon-terminal 9999: The terminal of the 21st century
 x11-themes/adwaita-icon-theme 3.24.0: GNOME default icon theme
 x11-themes/elementary-icon-theme 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
@@ -117,5 +113,5 @@ x11-themes/elementary-wallpapers 9999: A set of wallpapers used by the elementar
 x11-themes/gnome-backgrounds 3.24.0: A set of backgrounds packaged with the GNOME desktop
 x11-themes/plank-theme-pantheon 9999: Plank theme for elementary OS
 x11-wm/gala 9999: Pantheon's Window Manager
-x11-wm/metacity 3.24.0: GNOME default window manager
-x11-wm/mutter 3.24.0: GNOME 3 compositing window manager based on Clutter
+x11-wm/metacity 3.24.1: GNOME default window manager
+x11-wm/mutter 3.24.1: GNOME 3 compositing window manager based on Clutter
