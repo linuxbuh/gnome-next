@@ -45,6 +45,7 @@ dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus s
 dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
 dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
 dev-libs/glib:utils - Install gtester-report utility to generate test report files for your software; build gresource utility with ELF support.
+dev-libs/gmime:smime - Enable experimental S/MIME support
 dev-libs/gobject-introspection:doctool - Install g-ir-doc-tool for generating documentation from introspected data
 dev-libs/libdbusmenu:gtk2 - Support GTK+ 2.x instead of GTK+ 3.x
 dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
@@ -98,6 +99,8 @@ media-video/totem:nautilus - Enable the nautilus extension
 media-video/totem:python - Build support for dev-lang/python plugins
 media-video/totem:zeitgeist - Build the plugin to inject events to gnome-extra/zeitgeist
 net-libs/gnome-online-accounts:gnome - Use gnome-base/gnome-control-center to set GNOME online accounts preferences
+net-libs/libsoup:gssapi - Enable GSSAPI support
+net-libs/libsoup:samba - Use net-fs/samba for NTLM Single Sign-On
 net-libs/webkit-gtk:coverage - Enable code coverage support
 net-libs/webkit-gtk:egl - Enable EGL support
 net-libs/webkit-gtk:geoloc - Enable geolocation support through app-misc/geoclue
