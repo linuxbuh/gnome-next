@@ -62,6 +62,7 @@ gnome-base/gnome-control-center:i18n - Enable support for enhanced input methods
 gnome-base/gnome-desktop:license-docs - Install help files documenting GNOME's licenses
 gnome-base/gnome-settings-daemon:colord - Support color management using x11-misc/colord
 gnome-base/gnome-settings-daemon:openrc-force - Skip systemd dependency (#480336), enabling this flag will become your setup to be fully unsupported by upstream and downstream Gnome team. Do not try to enable it unless completely needed
+gnome-base/gnome-shell:openrc-force - Skip systemd dependency (#480336), enabling this flag will become your setup to be fully unsupported by upstream and downstream Gnome team. Do not try to enable it unless completely needed
 gnome-base/gvfs:afp - Enables support for accessing AFP (Apple Filing Protocol) network shares
 gnome-base/gvfs:archive - Enables support for accessing files in archives transparently via app-arch/libarchive
 gnome-base/gvfs:bluray - Enable playback of Blu-ray filesystems using media-libs/libbluray
@@ -138,3 +139,4 @@ x11-themes/elementary-theme:dark - Include the 'dark' theme
 x11-themes/elementary-theme:gtk3 - Pull in the Gtk+ 3 theme engines
 x11-themes/elementary-theme:icons - Include elementary icons
 x11-themes/elementary-theme:wallpapers - Include elementary wallpapers
+x11-wm/mutter:gles2 - Enable OpenGL ES 2.0 support
