@@ -32,7 +32,6 @@ dev-libs/wayland 1.13.0: Wayland protocol libraries
 dev-python/pyatspi 2.24.0: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
 dev-util/gdbus-codegen 2.53.1: GDBus code and documentation generator
-dev-vcs/gitg 3.23.90: git repository viewer for GNOME
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.24.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.24.1: GNOME's main interface to configure various aspects of the desktop
@@ -55,12 +54,12 @@ gnome-extra/gnome-shell-extensions 3.25.1: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0: The Gnome System Monitor
 gnome-extra/gnome-tweak-tool 3.24.0: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.12.0: Nautilus extension to tag files for Tracker
-gnome-extra/sushi 3.23.91: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
 mail-client/evolution 3.25.1: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.24.1: The Eye of GNOME image viewer
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
+media-libs/libepoxy 1.4.2 9999: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
 net-libs/gnome-online-accounts 3.24.0: GNOME framework for accessing online accounts
