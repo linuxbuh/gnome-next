@@ -12,7 +12,7 @@ app-office/footnote 9999: Beautiful, fast, and simple note taking app in the sty
 app-text/evince 3.24.0: Simple document viewer for GNOME
 app-text/gspell 1.5.1: Spell check library for GTK+ applications
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
-dev-lang/vala 0.34.7 0.36.2: Compiler for the GObject type system
+dev-lang/vala 0.34.8 0.36.3: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.24.0: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.48.2 1.49.1: Javascript bindings for GNOME
@@ -27,7 +27,7 @@ dev-libs/libgee 0.20.0: GObject-based interfaces and classes for commonly used d
 dev-libs/libgit2-glib 0.25.0: Git library for GLib
 dev-libs/libgweather 3.24.0: Library to access weather information from online services
 dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
-dev-libs/vala-common 0.34.7 0.36.2: Build infrastructure for packages that use Vala
+dev-libs/vala-common 0.34.8 0.36.3: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.13.0: Wayland protocol libraries
 dev-python/pyatspi 2.24.0: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
