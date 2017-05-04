@@ -64,7 +64,7 @@ media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
 net-libs/gnome-online-accounts 3.24.0: GNOME framework for accessing online accounts
 net-libs/libsoup 2.58.0: An HTTP library implementation in C
-net-libs/webkit-gtk 2.4.11-r300 2.16.0: Open source web browser engine
+net-libs/webkit-gtk 2.4.11-r300 2.17.1: Open source web browser engine
 net-misc/networkmanager 1.6.2 1.7.92: A set of co-operative tools that make networking simple and straightforward
 net-wireless/gnome-bluetooth 3.20.1: Bluetooth graphical utilities integrated with GNOME
 pantheon-base/cerbere 9999: A simple service to relaunch pantheon applications
