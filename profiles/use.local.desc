@@ -127,6 +127,9 @@ pantheon-base/wingpanel:power - Include the power indicator
 pantheon-base/wingpanel:sound - Include the sound indicator
 sys-apps/gnome-disk-utility:fat - Include FAT16/FAT32 support (sys-fs/dosfstools)
 x11-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
+x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
+x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
+x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
 x11-libs/gtksourceview:glade - Install a glade catalog file
 x11-libs/pango:X - Build and install the legacy pangoxft library
 x11-libs/vte:glade - Provide integration with dev-util/glade.
