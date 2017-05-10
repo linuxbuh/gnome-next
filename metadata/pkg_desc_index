@@ -33,11 +33,11 @@ dev-python/pyatspi 2.24.0: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
 dev-util/gdbus-codegen 2.53.1: GDBus code and documentation generator
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
-gnome-base/gdm 3.24.1: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gdm 3.24.2: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.24.1: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.25.1: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.24.1: Gnome session manager
-gnome-base/gnome-settings-daemon 3.24.1: Gnome Settings Daemon
+gnome-base/gnome-settings-daemon 3.24.2: Gnome Settings Daemon
 gnome-base/gnome-shell 3.25.1: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.33.1: Virtual filesystem implementation for gio
@@ -63,7 +63,7 @@ media-libs/libepoxy 1.4.2 9999: Epoxy is a library for handling OpenGL function 
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
 net-libs/gnome-online-accounts 3.24.0: GNOME framework for accessing online accounts
-net-libs/libsoup 2.58.0: An HTTP library implementation in C
+net-libs/libsoup 2.58.1: An HTTP library implementation in C
 net-libs/webkit-gtk 2.4.11-r300 2.17.1: Open source web browser engine
 net-misc/networkmanager 1.6.2 1.7.92: A set of co-operative tools that make networking simple and straightforward
 net-wireless/gnome-bluetooth 3.20.1: Bluetooth graphical utilities integrated with GNOME
@@ -95,7 +95,7 @@ pantheon-extra/contractor 9999: A desktop-wide extension service
 pantheon-extra/pantheon-calculator 9999: A tiny, simple calculator written in GTK+ and Vala
 sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.24.0: Disk usage browser for GNOME
-sys-apps/gnome-disk-utility 3.24.0: Disk Utility for GNOME using udisks
+sys-apps/gnome-disk-utility 3.24.1: Disk Utility for GNOME using udisks
 www-client/epiphany 3.25.1: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/granite 9999: A development library for elementary development
