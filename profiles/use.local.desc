@@ -91,6 +91,8 @@ mail-client/evolution:ldap - Enable support for fetching contacts from an LDAP o
 mail-client/evolution:map - Enable support for displaying contacts on a map inside evolution using media-libs/libchamplain
 mail-client/evolution:spamassassin - Build mail-filter/spamassassin plugin
 mail-client/evolution:weather - Enable optional weather calendar support
+media-libs/clutter:egl - Enable EGL backend.
+media-libs/clutter:gtk - Use gdk-pixbuf from x11-libs/gtk+ as image rendering backend
 media-libs/grilo:network - Enable network access for media discovery using net-libs/libsoup
 media-libs/grilo:playlist - Enable support for playlists through dev-libs/totem-pl-parser
 media-video/totem:lirc - Enable support for controlling Totem with a remote control using app-misc/lirc

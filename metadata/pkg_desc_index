@@ -58,6 +58,7 @@ gnome-extra/nm-applet 1.8.0: GNOME applet for NetworkManager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
 mail-client/evolution 3.25.1: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.24.1: The Eye of GNOME image viewer
+media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.2 9999: Epoxy is a library for handling OpenGL function pointer management for you
