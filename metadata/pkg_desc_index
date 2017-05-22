@@ -97,7 +97,7 @@ pantheon-extra/contractor 9999: A desktop-wide extension service
 pantheon-extra/pantheon-calculator 9999: A tiny, simple calculator written in GTK+ and Vala
 sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.24.0: Disk usage browser for GNOME
-sys-apps/gnome-disk-utility 3.24.1: Disk Utility for GNOME using udisks
+sys-apps/gnome-disk-utility 3.25.2: Disk Utility for GNOME using udisks
 www-client/epiphany 3.25.2: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/granite 9999: A development library for elementary development
