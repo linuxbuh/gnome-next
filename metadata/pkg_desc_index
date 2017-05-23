@@ -7,7 +7,7 @@ app-editors/latexila 3.24.0: Integrated LaTeX environment for GNOME
 app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.5: A geoinformation D-Bus service
-app-misc/tracker 1.12.0: A tagging metadata database, search tool and indexer
+app-misc/tracker 1.13.0: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.24.0: Simple document viewer for GNOME
 app-text/gspell 1.5.2: Spell check library for GTK+ applications
@@ -53,7 +53,7 @@ gnome-extra/gnome-power-manager 3.24.0: GNOME power management service
 gnome-extra/gnome-shell-extensions 3.25.1: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0 3.25.2: The Gnome System Monitor
 gnome-extra/gnome-tweak-tool 3.24.0: Tool to customize GNOME 3 options
-gnome-extra/nautilus-tracker-tags 1.12.0: Nautilus extension to tag files for Tracker
+gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.8.0: GNOME applet for NetworkManager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
 mail-client/evolution 3.25.2: Integrated mail, addressbook and calendaring functionality
