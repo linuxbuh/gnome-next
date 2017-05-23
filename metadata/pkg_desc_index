@@ -18,8 +18,8 @@ dev-libs/atk 2.24.0: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.48.2 1.49.2: Javascript bindings for GNOME
 dev-libs/glib 2.53.2: The GLib library of C routines
 dev-libs/gmime 3.0.0: Utilities for creating and parsing messages using MIME
-dev-libs/gobject-introspection 1.53.1: Introspection system for GObject-based libraries
-dev-libs/gobject-introspection-common 1.53.1: Build infrastructure for GObject Introspection
+dev-libs/gobject-introspection 1.53.2: Introspection system for GObject-based libraries
+dev-libs/gobject-introspection-common 1.53.2: Build infrastructure for GObject Introspection
 dev-libs/json-glib 1.2.8: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/libdbusmenu 16.04.0: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.8: GLib-based library for accessing online service APIs using the GData protocol
