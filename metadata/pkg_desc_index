@@ -1,4 +1,4 @@
-app-accessibility/at-spi2-atk 2.25.1 2.25.2: Gtk module for bridging AT-SPI to Atk
+app-accessibility/at-spi2-atk 2.25.2: Gtk module for bridging AT-SPI to Atk
 app-accessibility/at-spi2-core 2.25.2: D-Bus accessibility specifications and registration daemon
 app-arch/file-roller 3.24.1: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
@@ -14,7 +14,7 @@ app-text/gspell 1.5.2: Spell check library for GTK+ applications
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/vala 0.34.8 0.36.3: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
-dev-libs/atk 2.24.0: GTK+ & GNOME Accessibility Toolkit
+dev-libs/atk 2.25.2: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.48.2 1.49.2: Javascript bindings for GNOME
 dev-libs/glib 2.53.2: The GLib library of C routines
 dev-libs/gmime 3.0.0: Utilities for creating and parsing messages using MIME
@@ -38,7 +38,7 @@ gnome-base/gnome-control-center 3.24.1: GNOME's main interface to configure vari
 gnome-base/gnome-desktop 3.25.2: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.24.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.24.2: Gnome Settings Daemon
-gnome-base/gnome-shell 3.25.1: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.25.2: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.33.1: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.37.2: A library that provides top functionality to applications
@@ -50,7 +50,7 @@ gnome-extra/gnome-calendar 3.25.1: Manage your online calendars with simple and 
 gnome-extra/gnome-color-manager 3.24.0: Color profile manager for the GNOME desktop
 gnome-extra/gnome-logs 3.25.1: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.24.0: GNOME power management service
-gnome-extra/gnome-shell-extensions 3.25.1: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions 3.25.2: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0 3.25.2: The Gnome System Monitor
 gnome-extra/gnome-tweak-tool 3.24.0: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
@@ -116,4 +116,4 @@ x11-themes/gnome-backgrounds 3.24.0: A set of backgrounds packaged with the GNOM
 x11-themes/plank-theme-pantheon 9999: Plank theme for elementary OS
 x11-wm/gala 9999: Pantheon's Window Manager
 x11-wm/metacity 3.24.1: GNOME default window manager
-x11-wm/mutter 3.25.1: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.25.2: GNOME 3 compositing window manager based on Clutter
