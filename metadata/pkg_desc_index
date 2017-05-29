@@ -34,7 +34,7 @@ dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
 dev-util/gdbus-codegen 2.53.2: GDBus code and documentation generator
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.24.2: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-control-center 3.24.1: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.25.2: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.25.2: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.24.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.25.2: Gnome Settings Daemon
