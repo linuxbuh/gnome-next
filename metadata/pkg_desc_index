@@ -37,7 +37,7 @@ gnome-base/gdm 3.24.2: GNOME Display Manager for managing graphical display serv
 gnome-base/gnome-control-center 3.24.1: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.25.2: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.24.1: Gnome session manager
-gnome-base/gnome-settings-daemon 3.24.2: Gnome Settings Daemon
+gnome-base/gnome-settings-daemon 3.25.2: Gnome Settings Daemon
 gnome-base/gnome-shell 3.25.2: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.33.1: Virtual filesystem implementation for gio
