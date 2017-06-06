@@ -2,7 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-arch/file-roller:nautilus - Enable file-roller to integrate with gnome-base/nautilus by providing entries in its context menu
 app-arch/file-roller:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit
 app-editors/latexila:latexmk - Install dev-tex/latexmk (used by default for the build tools)
 app-editors/latexila:rubber - Install dev-tex/rubber (can be used for the build tools)
@@ -11,6 +10,7 @@ app-editors/scratch:files - Build the File Manager plugin (to browse files and f
 app-editors/scratch:pastebin - Build the Pastebin extension (to share files with pastebin service)
 app-editors/scratch:terminal - Build the Terminal plugin (to get a terminal in your text editor)
 app-editors/scratch:webkit - Build the Browser Preview extension (to preview your work in a web page)
+app-editors/scratch:zeitgeist - Zeitgeist...
 app-i18n/ibus:deprecated - install the deprecated ibus python library
 app-i18n/ibus:gconf - Enable support for gnome-base/gconf
 app-i18n/ibus:gtk3 - Enable support for gtk+3
