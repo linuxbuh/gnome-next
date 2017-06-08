@@ -53,7 +53,7 @@ gnome-extra/gnome-logs 3.25.1: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.24.0: GNOME power management service
 gnome-extra/gnome-shell-extensions 3.25.2: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0 3.25.2: The Gnome System Monitor
-gnome-extra/gnome-tweak-tool 3.24.0: Tool to customize GNOME 3 options
+gnome-extra/gnome-tweak-tool 3.25.2: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.8.0: GNOME applet for NetworkManager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
