@@ -3,7 +3,7 @@ app-accessibility/at-spi2-core 2.25.2: D-Bus accessibility specifications and re
 app-arch/file-roller 3.24.1: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
 app-editors/gedit 3.22.0: A text editor for the GNOME desktop
-app-editors/latexila 3.24.0: Integrated LaTeX environment for GNOME
+app-editors/latexila 3.24.1: Integrated LaTeX environment for GNOME
 app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.5: A geoinformation D-Bus service
