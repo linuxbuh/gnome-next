@@ -6,7 +6,7 @@ app-editors/gedit 3.22.0: A text editor for the GNOME desktop
 app-editors/latexila 3.24.1: Integrated LaTeX environment for GNOME
 app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
-app-misc/geoclue 2.4.5: A geoinformation D-Bus service
+app-misc/geoclue 2.4.7: A geoinformation D-Bus service
 app-misc/tracker 1.13.0: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.24.0: Simple document viewer for GNOME
