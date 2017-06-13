@@ -32,6 +32,7 @@ dev-libs/wayland 1.13.0: Wayland protocol libraries
 dev-python/pyatspi 2.25.2: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
 dev-util/gdbus-codegen 2.53.2: GDBus code and documentation generator
+dev-util/meld 3.17.2: A graphical diff and merge tool
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.24.2: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.25.2: GNOME's main interface to configure various aspects of the desktop
@@ -62,7 +63,7 @@ media-gfx/eog 3.24.1: The Eye of GNOME image viewer
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
-media-libs/libepoxy 1.4.2 9999: Epoxy is a library for handling OpenGL function pointer management for you
+media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
 net-libs/gnome-online-accounts 3.24.1: GNOME framework for accessing online accounts
