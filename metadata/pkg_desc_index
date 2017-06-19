@@ -44,7 +44,7 @@ gnome-base/gvfs 1.33.1: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.37.2: A library that provides top functionality to applications
 gnome-base/nautilus 3.25.1: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/evolution-data-server 3.25.2: Evolution groupware backend
+gnome-extra/evolution-data-server 3.25.3: Evolution groupware backend
 gnome-extra/gnome-builder 3.25.2: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.25.2: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.25.1: Manage your online calendars with simple and modern interface
@@ -57,7 +57,7 @@ gnome-extra/gnome-tweak-tool 3.25.2: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.8.2: GNOME applet for NetworkManager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
-mail-client/evolution 3.25.2: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.25.3: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.24.1: The Eye of GNOME image viewer
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
@@ -104,7 +104,7 @@ x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/granite 9999: A development library for elementary development
 x11-libs/gtef 2.0.0: GTK+ Text Editor Framework
 x11-libs/gtk+ 3.22.15: Gimp ToolKit +
-x11-libs/gtksourceview 3.24.2: A text widget implementing syntax highlighting and other features
+x11-libs/gtksourceview 3.24.3: A text widget implementing syntax highlighting and other features
 x11-libs/pango 1.40.6: Internationalized text layout and rendering library
 x11-libs/vte 0.48.3 0.49.1: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.24.2 3.25.1: The Gnome Terminal
