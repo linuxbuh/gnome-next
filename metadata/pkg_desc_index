@@ -1,5 +1,5 @@
-app-accessibility/at-spi2-atk 2.25.3: Gtk module for bridging AT-SPI to Atk
-app-accessibility/at-spi2-core 2.25.3: D-Bus accessibility specifications and registration daemon
+app-accessibility/at-spi2-atk 2.25.2: Gtk module for bridging AT-SPI to Atk
+app-accessibility/at-spi2-core 2.25.2: D-Bus accessibility specifications and registration daemon
 app-arch/file-roller 3.24.1: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
 app-editors/gedit 3.22.0: A text editor for the GNOME desktop
