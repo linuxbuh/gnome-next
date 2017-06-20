@@ -107,7 +107,7 @@ x11-libs/gtef 2.0.0: GTK+ Text Editor Framework
 x11-libs/gtk+ 3.22.15: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.3: A text widget implementing syntax highlighting and other features
 x11-libs/pango 1.40.6: Internationalized text layout and rendering library
-x11-libs/vte 0.48.3 0.49.1: Library providing a virtual terminal emulator widget
+x11-libs/vte 0.48.3 0.49.1 0.49.1-r1: Library providing a virtual terminal emulator widget
 x11-terms/gnome-terminal 3.24.2 3.25.1: The Gnome Terminal
 x11-terms/pantheon-terminal 9999: The terminal of the 21st century
 x11-themes/adwaita-icon-theme 3.24.0: GNOME default icon theme
