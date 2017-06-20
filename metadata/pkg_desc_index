@@ -15,7 +15,7 @@ dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/vala 0.34.8 0.36.3: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.25.2: GTK+ & GNOME Accessibility Toolkit
-dev-libs/gjs 1.48.2 1.49.2: Javascript bindings for GNOME
+dev-libs/gjs 1.49.3: Javascript bindings for GNOME
 dev-libs/glib 2.53.2: The GLib library of C routines
 dev-libs/gmime 3.0.0: Utilities for creating and parsing messages using MIME
 dev-libs/gobject-introspection 1.53.2: Introspection system for GObject-based libraries
@@ -40,20 +40,20 @@ gnome-base/gnome-session 3.24.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.25.2: Gnome Settings Daemon
 gnome-base/gnome-shell 3.25.2: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.33.1: Virtual filesystem implementation for gio
+gnome-base/gvfs 1.33.3: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.37.2: A library that provides top functionality to applications
 gnome-base/nautilus 3.25.1: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.25.3: Evolution groupware backend
 gnome-extra/gnome-builder 3.25.2: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.25.2: A calculator application for GNOME
-gnome-extra/gnome-calendar 3.25.1: Manage your online calendars with simple and modern interface
+gnome-extra/gnome-calendar 3.25.3: Manage your online calendars with simple and modern interface
 gnome-extra/gnome-color-manager 3.24.0: Color profile manager for the GNOME desktop
 gnome-extra/gnome-logs 3.25.1: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.24.0: GNOME power management service
 gnome-extra/gnome-shell-extensions 3.25.2: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0 3.25.2: The Gnome System Monitor
-gnome-extra/gnome-tweak-tool 3.25.2: Tool to customize GNOME 3 options
+gnome-extra/gnome-tweak-tool 3.25.3: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.8.2: GNOME applet for NetworkManager
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
@@ -65,7 +65,7 @@ media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
-net-libs/gnome-online-accounts 3.24.1: GNOME framework for accessing online accounts
+net-libs/gnome-online-accounts 3.25.3: GNOME framework for accessing online accounts
 net-libs/libsoup 2.58.1: An HTTP library implementation in C
 net-libs/webkit-gtk 2.4.11-r300 2.17.3: Open source web browser engine
 net-misc/networkmanager 1.6.2 1.8.0-r2: A set of co-operative tools that make networking simple and straightforward
