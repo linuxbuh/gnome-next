@@ -14,16 +14,7 @@ app-editors/scratch:zeitgeist - Zeitgeist...
 app-i18n/ibus:deprecated - install the deprecated ibus python library
 app-i18n/ibus:gconf - Enable support for gnome-base/gconf
 app-i18n/ibus:gtk3 - Enable support for gtk+3
-app-misc/geoclue:geonames - Install geonames.org provider
-app-misc/geoclue:gsmloc - Install GSM location provider
-app-misc/geoclue:gtk - Install gtk-based geoclue-test-gui
-app-misc/geoclue:hostip - Install hostip.info provder
-app-misc/geoclue:manual - Install manual provider
 app-misc/geoclue:modemmanager - Enable geolocation through 3G or GPS enabled hardware through net-misc/modemmanager.
-app-misc/geoclue:nominatim - Install openstreetmap.org provider
-app-misc/geoclue:plazes - Install plazes.com provider
-app-misc/geoclue:skyhook - Install skyhookwireless.com provider
-app-misc/geoclue:yahoo-geo - Install Yahoo geolocation provider
 app-misc/geoclue:zeroconf - Enable retrieval of GPS location from Android devices with https://wiki.gnome.org/Apps/GeoclueShare
 app-misc/tracker:cue - Enable cue sheet parsing
 app-misc/tracker:firefox-bookmarks - Install bookmark data miner plugin for www-client/firefox and www-client/firefox-bin
@@ -48,6 +39,7 @@ dev-libs/glib:utils - Install gtester-report utility to generate test report fil
 dev-libs/gmime:smime - Enable experimental S/MIME support
 dev-libs/gobject-introspection:doctool - Install g-ir-doc-tool for generating documentation from introspected data
 dev-libs/libdbusmenu:gtk2 - Support GTK+ 2.x instead of GTK+ 3.x
+dev-libs/libdbusmenu:gtk3 - Support GTK+ 3.x
 dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
 dev-libs/libgdata:gnome-online-accounts - Enable net-libs/gnome-online-accounts support
 dev-libs/libgit2-glib:ssh - Enable SSH transport support
