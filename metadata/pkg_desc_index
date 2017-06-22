@@ -38,7 +38,7 @@ gnome-base/gnome-control-center 3.25.3: GNOME's main interface to configure vari
 gnome-base/gnome-desktop 3.25.3: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.24.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.25.2: Gnome Settings Daemon
-gnome-base/gnome-shell 3.25.2: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.25.3: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.33.3: Virtual filesystem implementation for gio
 gnome-base/libgtop 2.37.2: A library that provides top functionality to applications
@@ -51,7 +51,7 @@ gnome-extra/gnome-calendar 3.25.3: Manage your online calendars with simple and 
 gnome-extra/gnome-color-manager 3.24.0: Color profile manager for the GNOME desktop
 gnome-extra/gnome-logs 3.25.1: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.24.0: GNOME power management service
-gnome-extra/gnome-shell-extensions 3.25.2: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions 3.25.3: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.24.0: The Gnome System Monitor
 gnome-extra/gnome-tweak-tool 3.25.3: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
@@ -118,4 +118,4 @@ x11-themes/gnome-backgrounds 3.24.0: A set of backgrounds packaged with the GNOM
 x11-themes/plank-theme-pantheon 9999: Plank theme for elementary OS
 x11-wm/gala 9999: Pantheon's Window Manager
 x11-wm/metacity 3.24.1: GNOME default window manager
-x11-wm/mutter 3.25.2: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.25.3: GNOME 3 compositing window manager based on Clutter
