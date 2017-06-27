@@ -12,7 +12,7 @@ app-office/footnote 9999: Beautiful, fast, and simple note taking app in the sty
 app-text/evince 3.24.0: Simple document viewer for GNOME
 app-text/gspell 1.5.2: Spell check library for GTK+ applications
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
-dev-lang/vala 0.34.8 0.36.3: Compiler for the GObject type system
+dev-lang/vala 0.34.9 0.36.4: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.25.2: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.49.3: Javascript bindings for GNOME
@@ -27,13 +27,13 @@ dev-libs/libgee 0.20.0: GObject-based interfaces and classes for commonly used d
 dev-libs/libgit2-glib 0.25.0: Git library for GLib
 dev-libs/libgweather 3.24.0: Library to access weather information from online services
 dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
-dev-libs/vala-common 0.34.8 0.36.3: Build infrastructure for packages that use Vala
+dev-libs/vala-common 0.34.9 0.36.4: Build infrastructure for packages that use Vala
 dev-python/pyatspi 2.25.3: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
 dev-util/gdbus-codegen 2.53.3: GDBus code and documentation generator
 dev-util/meld 3.17.2: A graphical diff and merge tool
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
-gnome-base/gdm 3.24.2: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gdm 3.25.3: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.25.3: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.25.3: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-session 3.24.1: Gnome session manager
