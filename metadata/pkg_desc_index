@@ -102,7 +102,7 @@ sys-apps/baobab 3.24.0: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.25.2: Disk Utility for GNOME using udisks
 www-client/epiphany 3.25.3: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
-x11-libs/colord-gtk 0.1.26: GTK support library for colord
+x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/granite 9999: A development library for elementary development
 x11-libs/gtef 2.0.0: GTK+ Text Editor Framework
 x11-libs/gtk+ 3.22.16: Gimp ToolKit +
