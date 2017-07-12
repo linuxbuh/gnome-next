@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DEPEND=gnome-extra/gnome-shell-extensions >=gnome-base/gnome-shell-3.10 >=dev-vcs/git-1.8.2.1
+DESCRIPTION=a Korora tweaked Gnome shell theme
+EAPI=6
+HOMEPAGE=https://kororaproject.org
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=gnome-extra/gnome-shell-extensions >=gnome-base/gnome-shell-3.10
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_install:-
+_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_md5_=4a600f91631c6bccfc677be328dce0ef
