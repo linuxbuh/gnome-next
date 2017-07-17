@@ -13,7 +13,7 @@ app-misc/geoclue 2.4.7: A geoinformation D-Bus service
 app-misc/tracker 1.13.0 1.99.0: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.24.0: Simple document viewer for GNOME
-app-text/gspell 1.5.2: Spell check library for GTK+ applications
+app-text/gspell 1.5.3: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/vala 0.37.1: Compiler for the GObject type system
