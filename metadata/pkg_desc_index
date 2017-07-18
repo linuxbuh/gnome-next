@@ -20,11 +20,11 @@ dev-lang/vala 0.37.1: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.25.2: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.49.3: Javascript bindings for GNOME
-dev-libs/glib 2.53.3: The GLib library of C routines
+dev-libs/glib 2.53.4: The GLib library of C routines
 dev-libs/gmime 3.0.0: Utilities for creating and parsing messages using MIME
 dev-libs/gobject-introspection 1.53.3: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.53.3: Build infrastructure for GObject Introspection
-dev-libs/json-glib 1.2.8: Library providing GLib serialization and deserialization for the JSON format
+dev-libs/json-glib 1.3.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/libdbusmenu 16.04.0-r1: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.8: GLib-based library for accessing online service APIs using the GData protocol
@@ -36,7 +36,7 @@ dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
 dev-libs/vala-common 0.37.1: Build infrastructure for packages that use Vala
 dev-python/pyatspi 2.25.3: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
-dev-util/gdbus-codegen 2.53.3: GDBus code and documentation generator
+dev-util/gdbus-codegen 2.53.4: GDBus code and documentation generator
 dev-util/meld 3.17.2: A graphical diff and merge tool
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.25.3: GNOME Display Manager for managing graphical display servers and user logins
@@ -113,7 +113,7 @@ sci-geosciences/geocode-glib 3.23.90: GLib geocoding library that uses the Yahoo
 sys-apps/baobab 3.24.0: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.25.2: Disk Utility for GNOME using udisks
 sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real and virtual OSes
-www-client/epiphany 3.25.3: GNOME webbrowser based on Webkit
+www-client/epiphany 3.25.4: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/granite 9999: A development library for elementary development
@@ -121,7 +121,7 @@ x11-libs/gtef 2.0.0: GTK+ Text Editor Framework
 x11-libs/gtk+ 3.22.16: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.3: A text widget implementing syntax highlighting and other features
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
-x11-libs/pango 1.40.6: Internationalized text layout and rendering library
+x11-libs/pango 1.40.7: Internationalized text layout and rendering library
 x11-libs/vte 0.48.3 0.49.1-r1: Library providing a virtual terminal emulator widget
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-terms/gnome-terminal 3.24.2 3.25.1: The Gnome Terminal
