@@ -6,7 +6,7 @@ app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
 app-crypt/gcr 3.20.0-r1: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.5-r1: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.22.0: A text editor for the GNOME desktop
-app-editors/latexila 3.24.1: Integrated LaTeX environment for GNOME
+app-editors/latexila 3.25.1: Integrated LaTeX environment for GNOME
 app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.7: A geoinformation D-Bus service
@@ -116,6 +116,7 @@ sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real
 www-client/epiphany 3.25.4: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
+x11-libs/gdk-pixbuf 2.36.7: Image loading library for GTK+
 x11-libs/granite 9999: A development library for elementary development
 x11-libs/gtef 2.0.0: GTK+ Text Editor Framework
 x11-libs/gtk+ 3.22.16: Gimp ToolKit +
