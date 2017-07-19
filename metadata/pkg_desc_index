@@ -40,7 +40,7 @@ dev-util/gdbus-codegen 2.53.3: GDBus code and documentation generator
 dev-util/meld 3.17.2: A graphical diff and merge tool
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.25.3: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-control-center 3.25.3: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.25.4: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.25.3: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/gnome-session 3.25.3: Gnome session manager
@@ -119,7 +119,7 @@ x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/gdk-pixbuf 2.36.7: Image loading library for GTK+
 x11-libs/granite 9999: A development library for elementary development
 x11-libs/gtef 2.0.0: GTK+ Text Editor Framework
-x11-libs/gtk+ 3.22.16: Gimp ToolKit +
+x11-libs/gtk+ 3.22.17: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.3: A text widget implementing syntax highlighting and other features
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
 x11-libs/pango 1.40.7: Internationalized text layout and rendering library
