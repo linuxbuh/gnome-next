@@ -37,7 +37,7 @@ dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
 dev-libs/vala-common 0.37.1: Build infrastructure for packages that use Vala
 dev-python/pyatspi 2.25.3: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
-dev-util/gdbus-codegen 2.53.3: GDBus code and documentation generator
+dev-util/gdbus-codegen 2.53.3 2.53.4: GDBus code and documentation generator
 dev-util/meld 3.17.2: A graphical diff and merge tool
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.25.4.1: GNOME Display Manager for managing graphical display servers and user logins
