@@ -16,6 +16,7 @@ app-text/evince 3.24.0: Simple document viewer for GNOME
 app-text/gspell 1.5.3: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
+dev-lang/spidermonkey 52.2.0_pre20170719-r1: Stand-alone JavaScript C++ library
 dev-lang/vala 0.37.1: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.25.2: GTK+ & GNOME Accessibility Toolkit
@@ -41,7 +42,7 @@ dev-util/meld 3.17.2: A graphical diff and merge tool
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.25.4.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.25.4: GNOME's main interface to configure various aspects of the desktop
-gnome-base/gnome-desktop 3.25.3: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-desktop 3.25.4: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/gnome-session 3.25.4: Gnome session manager
 gnome-base/gnome-settings-daemon 3.25.4: Gnome Settings Daemon
@@ -76,7 +77,7 @@ media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
-net-libs/gnome-online-accounts 3.25.3: GNOME framework for accessing online accounts
+net-libs/gnome-online-accounts 3.25.4: GNOME framework for accessing online accounts
 net-libs/libsoup 2.58.1: An HTTP library implementation in C
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.4.11-r300 2.17.4: Open source web browser engine
@@ -109,7 +110,7 @@ pantheon-base/wingpanel-indicator-session 9999: Session indicator for Wingpanel
 pantheon-base/wingpanel-indicator-sound 9999: Sound indicator for Wingpanel
 pantheon-extra/contractor 9999: A desktop-wide extension service
 pantheon-extra/pantheon-calculator 9999: A tiny, simple calculator written in GTK+ and Vala
-sci-geosciences/geocode-glib 3.25.4: GLib geocoding library that uses the Yahoo! Place Finder service
+sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/baobab 3.24.0: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.25.2: Disk Utility for GNOME using udisks
 sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real and virtual OSes
