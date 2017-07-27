@@ -159,6 +159,7 @@ x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
 x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
 x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
 x11-libs/gtksourceview:glade - Install a glade catalog file
+x11-libs/libwnck:tools - Install wnckprop-3 and wnck-urgency-monitor-3 command-line tools
 x11-libs/pango:X - Build and install the legacy pangoxft library
 x11-libs/vte:glade - Provide integration with dev-util/glade.
 x11-misc/colord:argyllcms - Enable ArgyllCMS sensor
