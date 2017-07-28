@@ -83,7 +83,7 @@ net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protoco
 net-libs/webkit-gtk 2.4.11-r300 2.17.4: Open source web browser engine
 net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-misc/networkmanager 1.6.2 1.8.0-r2 1.8.2-r1: A set of co-operative tools that make networking simple and straightforward
-net-print/cups-filters 1.14.1-r1: Cups PDF filters
+net-print/cups-filters 1.16.0-r1: Cups PDF filters
 net-wireless/gnome-bluetooth 3.20.1: Bluetooth graphical utilities integrated with GNOME
 pantheon-base/cerbere 9999: A simple service to relaunch pantheon applications
 pantheon-base/pantheon-files 9999: A simple, powerful, sexy file manager for the Pantheon desktop
