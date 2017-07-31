@@ -30,7 +30,7 @@ dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export
 dev-libs/libdbusmenu 16.04.0-r2: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.8-r666: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgee 0.20.0: GObject-based interfaces and classes for commonly used data structures
-dev-libs/libgit2-glib 0.25.0: Git library for GLib
+dev-libs/libgit2-glib 0.26.0: Git library for GLib
 dev-libs/libgusb 0.2.10-r1: GObject wrapper for libusb
 dev-libs/libgweather 3.24.0: Library to access weather information from online services
 dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
