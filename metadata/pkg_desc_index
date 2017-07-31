@@ -5,7 +5,7 @@ app-arch/gcab 0.7-r1: Library and tool for working with Microsoft Cabinet (CAB) 
 app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
 app-crypt/gcr 3.20.0-r2: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.5-r2: GObject library for accessing the freedesktop.org Secret Service API
-app-editors/gedit 3.22.0: A text editor for the GNOME desktop
+app-editors/gedit 3.22.1: A text editor for the GNOME desktop
 app-editors/latexila 3.25.1: Integrated LaTeX environment for GNOME
 app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
 app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
