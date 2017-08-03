@@ -87,7 +87,6 @@ net-print/cups-filters 1.16.0-r1: Cups PDF filters
 net-wireless/gnome-bluetooth 3.20.1: Bluetooth graphical utilities integrated with GNOME
 pantheon-base/cerbere 9999: A simple service to relaunch pantheon applications
 pantheon-base/pantheon-files 9999: A simple, powerful, sexy file manager for the Pantheon desktop
-pantheon-base/pantheon-settings 9999: Default settings for the Pantheon Desktop Environment
 pantheon-base/pantheon-shell 9999: Elementary's desktop environment
 pantheon-base/plank 9999: The dock for elementary Pantheon, stupidly simple
 pantheon-base/slingshot 9999: A lightweight and stylish app launcher for Pantheon and other DEs
