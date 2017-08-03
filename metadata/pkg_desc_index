@@ -8,7 +8,7 @@ app-crypt/libsecret 0.18.5-r2: GObject library for accessing the freedesktop.org
 app-editors/gedit 3.22.1: A text editor for the GNOME desktop
 app-editors/latexila 3.25.1: Integrated LaTeX environment for GNOME
 app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
-app-i18n/ibus 1.5.15: Intelligent Input Bus for Linux / Unix OS
+app-i18n/ibus 1.5.15 1.5.16: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.7-r1: A geoinformation D-Bus service
 app-misc/tracker 1.13.0 1.99.1: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
@@ -46,7 +46,7 @@ gnome-base/gnome-desktop 3.25.4: Libraries for the gnome desktop that are not pa
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/gnome-session 3.25.4: Gnome session manager
 gnome-base/gnome-settings-daemon 3.25.4: Gnome Settings Daemon
-gnome-base/gnome-shell 3.25.4-r1: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.25.4-r2: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.33.3-r1: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secrets
