@@ -167,7 +167,6 @@ x11-misc/colord:extra-print-profiles - Generate extra print profiles. Warning: s
 x11-misc/colord:gusb - Enable dev-libs/libgusb support, needed for colorimeter drivers
 x11-terms/gnome-terminal:gnome-shell - Integrate with gnome-base/gnome-shell search
 x11-terms/gnome-terminal:nautilus - Build gnome-base/nautilus extension
-x11-themes/elementary-theme:dark - Include the 'dark' theme
 x11-themes/elementary-theme:gtk3 - Pull in the Gtk+ 3 theme engines
 x11-themes/elementary-theme:icons - Include elementary icons
 x11-themes/elementary-theme:wallpapers - Include elementary wallpapers
