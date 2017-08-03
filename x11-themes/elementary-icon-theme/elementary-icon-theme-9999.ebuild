@@ -1,10 +1,9 @@
 # Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Id$
 
-EAPI=5
+EAPI=6
 
-inherit gnome2-utils git-2
+inherit gnome2-utils git-r3 cmake-utils
 
 DESCRIPTION="Elementary icon theme is designed to be smooth, sexy, clear, and efficient"
 HOMEPAGE="https://launchpad.net/elementaryicons"
@@ -19,16 +18,6 @@ RDEPEND=""
 DEPEND="x11-libs/gtk+:2"
 
 RESTRICT="binchecks mirror strip"
-
-DOCS=( AUTHORS CONTRIBUTORS COPYING )
-
-src_install() {
-	dodoc ${DOCS}
-	rm -r ${DOCS}
-
-	insinto /usr/share/icons/elementary
-	doins -r *
-}
 
 pkg_preinst() {
 	gnome2_icon_savelist
