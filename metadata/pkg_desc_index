@@ -33,7 +33,7 @@ dev-libs/libgee 0.20.0: GObject-based interfaces and classes for commonly used d
 dev-libs/libgit2-glib 0.26.0: Git library for GLib
 dev-libs/libgusb 0.2.10-r1: GObject wrapper for libusb
 dev-libs/libgweather 3.24.0: Library to access weather information from online services
-dev-libs/libsigc++ 2.99.8: Typesafe callback system for standard C++
+dev-libs/libsigc++ 2.99.9: Typesafe callback system for standard C++
 dev-libs/vala-common 0.37.1: Build infrastructure for packages that use Vala
 dev-python/pyatspi 2.25.3: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
@@ -48,7 +48,7 @@ gnome-base/gnome-session 3.25.4: Gnome session manager
 gnome-base/gnome-settings-daemon 3.25.4: Gnome Settings Daemon
 gnome-base/gnome-shell 3.25.4-r2: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.33.3-r1: Virtual filesystem implementation for gio
+gnome-base/gvfs 1.33.90: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secrets
 gnome-base/libgtop 2.37.2: A library that provides top functionality to applications
 gnome-base/librsvg 2.40.18: Scalable Vector Graphics (SVG) rendering library
