@@ -23,8 +23,8 @@ dev-libs/atk 2.25.2: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.49.90: Javascript bindings for GNOME
 dev-libs/glib 2.53.5: The GLib library of C routines
 dev-libs/gmime 3.0.0: Utilities for creating and parsing messages using MIME
-dev-libs/gobject-introspection 1.53.4: Introspection system for GObject-based libraries
-dev-libs/gobject-introspection-common 1.53.4: Build infrastructure for GObject Introspection
+dev-libs/gobject-introspection 1.53.5: Introspection system for GObject-based libraries
+dev-libs/gobject-introspection-common 1.53.5: Build infrastructure for GObject Introspection
 dev-libs/json-glib 1.2.8 1.3.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.25.3: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
