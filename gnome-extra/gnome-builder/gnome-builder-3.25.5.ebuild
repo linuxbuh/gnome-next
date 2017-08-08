@@ -34,6 +34,7 @@ REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 # Relatedly introspection is always required to not have broken python using plugins or have to enable/disable them based on it. This is a full IDE, not a place to be really minimal.
 # An introspection USE flag of a dep is required if any introspection based language plugin wants to use it. Last full check at 3.22.4
 RDEPEND="
+	dev-util/devhelp
 	>=x11-libs/gtk+-3.22.1:3[introspection]
 	>=dev-libs/glib-2.50.0:2[dbus]
 	>=x11-libs/gtksourceview-3.22.0:3.0[introspection]
@@ -43,6 +44,7 @@ RDEPEND="
 	>=x11-libs/pango-1.38.0
 	>=dev-libs/libpeas-1.21.0[python,${PYTHON_USEDEP}]
 	>=dev-libs/json-glib-1.2.0
+	>=dev-libs/jsonrpc-glib-3.25.3
 	>=app-text/gspell-1.2.0
 	>=app-text/enchant-1.6.0
 	webkit? ( >=net-libs/webkit-gtk-2.12.0:4=[introspection] )
