@@ -77,7 +77,6 @@ media-gfx/eog 3.25.90: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.25.1: Eye of GNOME plugins
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
-media-libs/gd 2.2.4-r1: A graphics library for fast image creation
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
