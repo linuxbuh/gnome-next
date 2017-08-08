@@ -106,6 +106,7 @@ media-gfx/eog-plugins:map - Enable world map display using media-libs/libchampla
 media-gfx/eog-plugins:picasa - Enable uploading to Google's Picasa Web Albums
 media-libs/clutter:egl - Enable EGL backend.
 media-libs/clutter:gtk - Use gdk-pixbuf from x11-libs/gtk+ as image rendering backend
+media-libs/gd:webp - Enable support for the webp format
 media-libs/grilo:network - Enable network access for media discovery using net-libs/libsoup
 media-libs/grilo:playlist - Enable support for playlists through dev-libs/totem-pl-parser
 media-video/totem:lirc - Enable support for controlling Totem with a remote control using app-misc/lirc
