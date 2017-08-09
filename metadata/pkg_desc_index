@@ -38,6 +38,7 @@ dev-libs/libpeas 1.21.0: A GObject plugins library
 dev-libs/libsigc++ 2.99.9: Typesafe callback system for standard C++
 dev-libs/template-glib 3.25.3: JSON RPC GLIB
 dev-libs/vala-common 0.37.1: Build infrastructure for packages that use Vala
+dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.25.3: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
 dev-util/devhelp 3.25.2: An API documentation browser for GNOME
