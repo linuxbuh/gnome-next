@@ -19,7 +19,7 @@ dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/spidermonkey 52.2.0_pre20170719-r1: Stand-alone JavaScript C++ library
 dev-lang/vala 0.37.1: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
-dev-libs/atk 2.25.2: GTK+ & GNOME Accessibility Toolkit
+dev-libs/atk 2.25.90: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.49.90: Javascript bindings for GNOME
 dev-libs/glib 2.53.5: The GLib library of C routines
 dev-libs/gmime 3.0.0: Utilities for creating and parsing messages using MIME
