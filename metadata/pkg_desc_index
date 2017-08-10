@@ -43,10 +43,11 @@ dev-python/pyatspi 2.25.3: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
 dev-util/devhelp 3.25.2: An API documentation browser for GNOME
 dev-util/meld 3.17.2: A graphical diff and merge tool
+dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.26.0-r2: Simple low-level configuration system
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.25.4.1-r1: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-control-center 3.25.4: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.25.90: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.25.90: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/gnome-session 3.25.4: Gnome session manager
@@ -57,7 +58,7 @@ gnome-base/gvfs 1.33.90: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secrets
 gnome-base/libgtop 2.37.90: A library that provides top functionality to applications
 gnome-base/librsvg 2.40.18: Scalable Vector Graphics (SVG) rendering library
-gnome-base/nautilus 3.25.1-r1: A file manager for the GNOME desktop
+gnome-base/nautilus 3.25.90: A file manager for the GNOME desktop
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.25.90: Evolution groupware backend
 gnome-extra/gnome-builder 3.25.2 3.25.90: Builder attempts to be an IDE for writing software for GNOME
@@ -81,7 +82,7 @@ media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
-media-libs/libmediaart 1.9.1: Manages, extracts and handles media art caches
+media-libs/libmediaart 1.9.2: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
 net-libs/glib-networking 2.53.90: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.25.90: GNOME framework for accessing online accounts
