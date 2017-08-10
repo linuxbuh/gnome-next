@@ -17,7 +17,7 @@ app-text/gspell 1.5.3: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/spidermonkey 52.2.0_pre20170719-r1: Stand-alone JavaScript C++ library
-dev-lang/vala 0.37.1: Compiler for the GObject type system
+dev-lang/vala 0.37.2: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.25.90: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gjs 1.49.90: Javascript bindings for GNOME
@@ -37,7 +37,7 @@ dev-libs/libgweather 3.24.0: Library to access weather information from online s
 dev-libs/libpeas 1.21.0: A GObject plugins library
 dev-libs/libsigc++ 2.99.9: Typesafe callback system for standard C++
 dev-libs/template-glib 3.25.3: JSON RPC GLIB
-dev-libs/vala-common 0.37.1: Build infrastructure for packages that use Vala
+dev-libs/vala-common 0.37.2: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.25.3: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
@@ -83,7 +83,7 @@ media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
-media-libs/libmediaart 1.9.2: Manages, extracts and handles media art caches
+media-libs/libmediaart 1.9.3: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
 net-libs/glib-networking 2.53.90: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.25.90: GNOME framework for accessing online accounts
