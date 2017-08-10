@@ -42,6 +42,7 @@ dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.25.3: Python binding to at-spi library
 dev-python/pygobject 3.24.1: GLib's GObject library bindings for Python
 dev-util/devhelp 3.25.2: An API documentation browser for GNOME
+dev-util/gdbus-codegen 6.6.6: GDBus if part of glibc
 dev-util/meld 3.17.2: A graphical diff and merge tool
 dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.26.0-r2: Simple low-level configuration system
