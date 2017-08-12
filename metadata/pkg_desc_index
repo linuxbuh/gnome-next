@@ -150,4 +150,4 @@ x11-themes/gnome-backgrounds 3.25.4: A set of backgrounds packaged with the GNOM
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
 x11-wm/gala 9999: Pantheon's Window Manager
 x11-wm/metacity 3.25.2: GNOME default window manager
-x11-wm/mutter 3.25.90-r1: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.25.4-r1 3.25.90-r1: GNOME 3 compositing window manager based on Clutter
