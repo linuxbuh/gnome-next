@@ -45,7 +45,7 @@ dev-util/devhelp 3.25.2: An API documentation browser for GNOME
 dev-util/gdbus-codegen 6.6.6: GDBus if part of glibc
 dev-util/gtk-doc 1.26: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.26: Automake files from gtk-doc
-dev-util/meld 3.17.2: A graphical diff and merge tool
+dev-util/meld 3.17.3: A graphical diff and merge tool
 dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.26.0-r2: Simple low-level configuration system
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
@@ -85,7 +85,7 @@ media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
-media-libs/libmediaart 1.9.3: Manages, extracts and handles media art caches
+media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
 net-libs/glib-networking 2.53.90: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.25.90: GNOME framework for accessing online accounts
