@@ -110,6 +110,7 @@ media-gfx/eog-plugins:map - Enable world map display using media-libs/libchampla
 media-gfx/eog-plugins:picasa - Enable uploading to Google's Picasa Web Albums
 media-libs/clutter:egl - Enable EGL backend.
 media-libs/clutter:gtk - Use gdk-pixbuf from x11-libs/gtk+ as image rendering backend
+media-libs/fontforge:truetype-debugger - Enable truetype debugger in fontforge
 media-libs/grilo:network - Enable network access for media discovery using net-libs/libsoup
 media-libs/grilo:playlist - Enable support for playlists through dev-libs/totem-pl-parser
 media-video/totem:lirc - Enable support for controlling Totem with a remote control using app-misc/lirc
@@ -156,6 +157,12 @@ pantheon-base/wingpanel:sound - Include the sound indicator
 sys-apps/accountsservice:elogind - Use sys-auth/elogind instead of sys-auth/consolekit for session tracking
 sys-apps/accountsservice:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
 sys-apps/gnome-disk-utility:fat - Include FAT16/FAT32 support (sys-fs/dosfstools)
+sys-devel/gdb:client - Install the main "gdb" program (most people want this)
+sys-devel/gdb:lzma - Support lzma compression in ELF debug info
+sys-devel/gdb:multitarget - Support all known targets in one gdb binary
+sys-devel/gdb:python - Enable support for the new internal scripting language, as well as extended pretty printers
+sys-devel/gdb:server - Install the "gdbserver" program (useful for embedded/remote targets)
+sys-devel/gdb:xml - Support parsing XML data files needed (at least) for cpu features, memory maps, and syscall tracing
 sys-fs/udisks:cryptsetup - Enable sys-fs/cryptsetup support
 sys-fs/udisks:elogind - Use sys-auth/elogind for session tracking
 sys-fs/udisks:gptfdisk - Pull in sys-apps/gptfdisk for sgdisk command as used by partitioning functionality
