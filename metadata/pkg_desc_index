@@ -66,7 +66,7 @@ gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, F
 gnome-extra/evolution-data-server 3.25.90: Evolution groupware backend
 gnome-extra/gnome-builder 3.25.2 3.25.90: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.25.90: A calculator application for GNOME
-gnome-extra/gnome-calendar 3.25.3-r1: Manage your online calendars with simple and modern interface
+gnome-extra/gnome-calendar 3.25.90: Manage your online calendars with simple and modern interface
 gnome-extra/gnome-color-manager 3.25.90: Color profile manager for the GNOME desktop
 gnome-extra/gnome-logs 3.25.90: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.24.0: GNOME power management service
