@@ -55,7 +55,7 @@ gnome-base/gnome-desktop 3.25.90: Libraries for the gnome desktop that are not p
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/gnome-session 3.25.90: Gnome session manager
 gnome-base/gnome-settings-daemon 3.25.90: Gnome Settings Daemon
-gnome-base/gnome-shell 3.25.4-r2 3.25.90 9999: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.25.4-r2 9999-r1: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.33.90: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secrets
@@ -152,4 +152,4 @@ x11-themes/gnome-backgrounds 3.25.4: A set of backgrounds packaged with the GNOM
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
 x11-wm/gala 9999: Pantheon's Window Manager
 x11-wm/metacity 3.25.2: GNOME default window manager
-x11-wm/mutter 3.25.4-r1 3.25.90-r1 9999: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.25.4-r1 9999: GNOME 3 compositing window manager based on Clutter
