@@ -49,7 +49,7 @@ dev-util/meld 3.17.3: A graphical diff and merge tool
 dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.26.0-r2: Simple low-level configuration system
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
-gnome-base/gdm 3.25.90: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gdm 3.25.90.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.25.90: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.25.90: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
