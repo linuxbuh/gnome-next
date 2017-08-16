@@ -45,7 +45,7 @@ dev-util/devhelp 3.25.2: An API documentation browser for GNOME
 dev-util/gdbus-codegen 6.6.6: GDBus if part of glibc
 dev-util/gtk-doc 1.26: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.26: Automake files from gtk-doc
-dev-util/meld 3.17.3: A graphical diff and merge tool
+dev-util/meld 3.17.4: A graphical diff and merge tool
 dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.26.0-r2: Simple low-level configuration system
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
@@ -139,7 +139,7 @@ x11-libs/gtk+ 3.22.18: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.3: A text widget implementing syntax highlighting and other features
 x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
-x11-libs/pango 1.40.9: Internationalized text layout and rendering library
+x11-libs/pango 1.40.10: Internationalized text layout and rendering library
 x11-libs/vte 0.48.3 0.49.1-r1: Library providing a virtual terminal emulator widget
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-terms/gnome-terminal 3.25.1: The Gnome Terminal
