@@ -16,6 +16,7 @@ app-text/evince 3.25.4: Simple document viewer for GNOME
 app-text/gspell 1.5.3: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
+dev-lang/sassc 3.4.5 9999: libsass command line driver
 dev-lang/spidermonkey 52.2.0_pre20170719-r1: Stand-alone JavaScript C++ library
 dev-lang/vala 0.37.2: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
@@ -62,6 +63,7 @@ gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secre
 gnome-base/libgtop 2.37.90: A library that provides top functionality to applications
 gnome-base/librsvg 2.40.18: Scalable Vector Graphics (SVG) rendering library
 gnome-base/nautilus 3.25.90: A file manager for the GNOME desktop
+gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.25.90: Evolution groupware backend
 gnome-extra/gnome-builder 3.25.2 3.25.90: Builder attempts to be an IDE for writing software for GNOME
