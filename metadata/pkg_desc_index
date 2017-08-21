@@ -12,7 +12,7 @@ app-i18n/ibus 1.5.15 1.5.16: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.7-r1: A geoinformation D-Bus service
 app-misc/tracker 1.13.0 1.99.2: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
-app-text/evince 3.25.4: Simple document viewer for GNOME
+app-text/evince 3.25.91: Simple document viewer for GNOME
 app-text/gspell 1.5.3: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
