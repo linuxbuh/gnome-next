@@ -90,6 +90,7 @@ media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
+net-irc/polari 3.25.91: An IRC client for Gnome
 net-libs/glib-networking 2.53.90: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.25.90: GNOME framework for accessing online accounts
 net-libs/libsoup 2.59.90.1: An HTTP library implementation in C
