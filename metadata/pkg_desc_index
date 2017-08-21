@@ -65,7 +65,7 @@ gnome-base/librsvg 2.40.18: Scalable Vector Graphics (SVG) rendering library
 gnome-base/nautilus 3.25.90: A file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/evolution-data-server 3.25.90: Evolution groupware backend
+gnome-extra/evolution-data-server 3.25.91: Evolution groupware backend
 gnome-extra/gnome-builder 3.25.2 3.25.90: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.25.90: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.25.90: Manage your online calendars with simple and modern interface
@@ -79,7 +79,7 @@ gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tr
 gnome-extra/nm-applet 1.8.2: GNOME applet for NetworkManager
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
-mail-client/evolution 3.25.90: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.25.91: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.25.90: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.25.1: Eye of GNOME plugins
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
