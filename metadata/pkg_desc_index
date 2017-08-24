@@ -51,7 +51,7 @@ dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.26.0-r2: Simple low-level configuration system
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.25.90.1: GNOME Display Manager for managing graphical display servers and user logins
-gnome-base/gnome-control-center 3.25.90: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.25.91: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.25.91.1: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/gnome-session 3.25.90: Gnome session manager
@@ -148,7 +148,7 @@ x11-misc/colord 1.3.4-r1: System service to accurately color manage input and ou
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
 x11-terms/gnome-terminal 3.25.1: The Gnome Terminal
 x11-terms/pantheon-terminal 9999: The terminal of the 21st century
-x11-themes/adwaita-icon-theme 3.25.4: GNOME default icon theme
+x11-themes/adwaita-icon-theme 3.25.91: GNOME default icon theme
 x11-themes/elementary-icon-theme 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 9999: The official elementary GTK theme
 x11-themes/elementary-wallpapers 9999: A set of wallpapers used by the elementary OS
