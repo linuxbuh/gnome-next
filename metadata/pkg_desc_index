@@ -86,7 +86,7 @@ media-libs/clutter 1.26.2: Clutter is a library for creating graphical user inte
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/fontforge 20161005-r1: postscript font editor and converter
-media-libs/grilo 0.3.3: A framework for easy media discovery and browsing
+media-libs/grilo 0.3.4: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/totem 3.24.0: Media player for GNOME
