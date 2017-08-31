@@ -42,6 +42,7 @@ dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util
 dev-libs/glib:utils - Install gtester-report utility to generate test report files for your software; build gresource utility with ELF support.
 dev-libs/gmime:smime - Enable experimental S/MIME support
 dev-libs/gobject-introspection:doctool - Install g-ir-doc-tool for generating documentation from introspected data
+dev-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
 dev-libs/libdbusmenu:gtk2 - Support GTK+ 2.x instead of GTK+ 3.x
 dev-libs/libdbusmenu:gtk3 - Support GTK+ 3.x
 dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
@@ -171,7 +172,6 @@ sys-fs/udisks:lvm - Add support for Logical Volume Management via sys-fs/lvm2.
 sys-fs/udisks:remote-access - Control whether connections from other clients over LAN are allowed
 sys-fs/udisks:systemd - Support sys-apps/systemd's logind
 x11-libs/gdk-pixbuf:X - Build and install the legacy gdk_pixbuf_xlib-2.0 library
-x11-libs/granite:demo - Build the Granite demo application (to present all available UI features provided by the library)
 x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
 x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
 x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing

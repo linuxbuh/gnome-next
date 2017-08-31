@@ -26,6 +26,7 @@ dev-libs/glib 2.53.6: The GLib library of C routines
 dev-libs/gmime 3.0.0: Utilities for creating and parsing messages using MIME
 dev-libs/gobject-introspection 1.53.5: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.53.5: Build infrastructure for GObject Introspection
+dev-libs/granite 9999: A development library for elementary development
 dev-libs/json-glib 1.2.8 1.3.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.25.3: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
@@ -136,7 +137,6 @@ www-client/epiphany 3.25.91: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/gdk-pixbuf 2.36.9: Image loading library for GTK+
-x11-libs/granite 9999: A development library for elementary development
 x11-libs/gtef 2.0.0: GTK+ Text Editor Framework
 x11-libs/gtk+ 3.22.19: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.3: A text widget implementing syntax highlighting and other features
