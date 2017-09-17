@@ -150,7 +150,7 @@ x11-misc/colord 1.3.4-r1: System service to accurately color manage input and ou
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
 x11-terms/gnome-terminal 3.26.0: The Gnome Terminal
 x11-terms/pantheon-terminal 9999: The terminal of the 21st century
-x11-themes/adwaita-icon-theme 3.25.91: GNOME default icon theme
+x11-themes/adwaita-icon-theme 3.26.0: GNOME default icon theme
 x11-themes/elementary-icon-theme 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
 x11-themes/elementary-theme 9999: The official elementary GTK theme
 x11-themes/elementary-wallpapers 9999: A set of wallpapers used by the elementary OS
