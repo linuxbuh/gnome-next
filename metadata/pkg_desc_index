@@ -48,7 +48,7 @@ dev-util/devhelp 3.26.0: An API documentation browser for GNOME
 dev-util/gdbus-codegen 6.6.6: GDBus if part of glibc
 dev-util/gtk-doc 1.26: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.26: Automake files from gtk-doc
-dev-util/meld 3.17.4: A graphical diff and merge tool
+dev-util/meld 3.18.0: A graphical diff and merge tool
 dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.26.0-r2: Simple low-level configuration system
 gnome-base/dconf-editor 3.23.4: Graphical tool for editing the dconf configuration database
@@ -138,7 +138,6 @@ sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real
 www-client/epiphany 3.26.0: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
-x11-libs/gdk-pixbuf 2.36.10: Image loading library for GTK+
 x11-libs/gtef 2.0.1: GTK+ Text Editor Framework
 x11-libs/gtk+ 3.22.21: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.4: A text widget implementing syntax highlighting and other features

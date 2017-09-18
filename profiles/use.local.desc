@@ -171,7 +171,6 @@ sys-fs/udisks:gptfdisk - Pull in sys-apps/gptfdisk for sgdisk command as used by
 sys-fs/udisks:lvm - Add support for Logical Volume Management via sys-fs/lvm2.
 sys-fs/udisks:remote-access - Control whether connections from other clients over LAN are allowed
 sys-fs/udisks:systemd - Support sys-apps/systemd's logind
-x11-libs/gdk-pixbuf:X - Build and install the legacy gdk_pixbuf_xlib-2.0 library
 x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
 x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
 x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
