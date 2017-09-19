@@ -19,7 +19,7 @@ SLOT="0"
 IUSE="nls"
 
 RDEPEND="
-	x11-libs/granite
+	dev-libs/granite
 	>=pantheon-base/switchboard-2"
 DEPEND="${RDEPEND}
 	$(vala_depend)
@@ -28,6 +28,8 @@ DEPEND="${RDEPEND}
 
 src_prepare() {
 	use nls || sed -i '/add_subdirectory (po)/d' CMakeLists.txt
+
+	addwrite /usr/share/glib-2.0/schemas/
 
 	cmake-utils_src_prepare
 	vala_src_prepare
