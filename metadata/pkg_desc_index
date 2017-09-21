@@ -77,9 +77,9 @@ gnome-extra/gnome-logs 3.26.0: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.25.90: GNOME power management service
 gnome-extra/gnome-shell-extensions 3.26.0: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.26.0: The Gnome System Monitor
-gnome-extra/gnome-tweak-tool 3.26.0: Tool to customize GNOME 3 options
+gnome-extra/gnome-tweak-tool 3.26.1: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
-gnome-extra/nm-applet 1.8.2: GNOME applet for NetworkManager
+gnome-extra/nm-applet 1.8.4: GNOME applet for NetworkManager
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
 mail-client/evolution 3.26.0: Integrated mail, addressbook and calendaring functionality
