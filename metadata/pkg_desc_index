@@ -60,7 +60,7 @@ gnome-base/gnome-session 3.26.0: Gnome session manager
 gnome-base/gnome-settings-daemon 3.26.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.26.0 9999: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.24.1: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.34.0: Virtual filesystem implementation for gio
+gnome-base/gvfs 1.34.1: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secrets
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
@@ -77,7 +77,7 @@ gnome-extra/gnome-logs 3.26.0: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.25.90: GNOME power management service
 gnome-extra/gnome-shell-extensions 3.26.0: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.26.0: The Gnome System Monitor
-gnome-extra/gnome-tweak-tool 3.26.1: Tool to customize GNOME 3 options
+gnome-extra/gnome-tweak-tool 3.26.2.1: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.8.4: GNOME applet for NetworkManager
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
@@ -156,5 +156,5 @@ x11-themes/elementary-wallpapers 9999: A set of wallpapers used by the elementar
 x11-themes/gnome-backgrounds 3.26.2: A set of backgrounds packaged with the GNOME desktop
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
 x11-wm/gala 9999: Pantheon's Window Manager
-x11-wm/metacity 3.25.2: GNOME default window manager
+x11-wm/metacity 3.26.0: GNOME default window manager
 x11-wm/mutter 3.26.0 9999: GNOME 3 compositing window manager based on Clutter
