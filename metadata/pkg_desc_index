@@ -31,6 +31,7 @@ dev-libs/granite 9999: A development library for elementary development
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.26.1: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
+dev-libs/libdazzle 3.26.1: libdazzle
 dev-libs/libdbusmenu 16.04.0-r2: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.9-r666: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgee 0.20.0: GObject-based interfaces and classes for commonly used data structures
