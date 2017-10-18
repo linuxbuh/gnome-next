@@ -69,6 +69,7 @@ gnome-base/librsvg 2.40.19: Scalable Vector Graphics (SVG) rendering library
 gnome-base/nautilus 3.26.0: A file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
+gnome-extra/cinnamon 3.4.6-r1: A fork of GNOME Shell with layout similar to GNOME 2
 gnome-extra/evolution-data-server 3.27.1: Evolution groupware backend
 gnome-extra/gnome-builder 3.26.1: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.25.92: A calculator application for GNOME
