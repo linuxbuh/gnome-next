@@ -29,7 +29,7 @@ dev-libs/gobject-introspection 1.54.1: Introspection system for GObject-based li
 dev-libs/gobject-introspection-common 1.54.1: Build infrastructure for GObject Introspection
 dev-libs/granite 9999: A development library for elementary development
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
-dev-libs/jsonrpc-glib 3.26.1: JSON RPC GLIB
+dev-libs/jsonrpc-glib 3.27.1: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/libdazzle 3.27.1: libdazzle
 dev-libs/libdbusmenu 16.04.0-r2: Library to pass menu structure across DBus
