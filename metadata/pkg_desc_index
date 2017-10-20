@@ -20,7 +20,7 @@ dev-lang/sassc 3.4.5 9999: libsass command line driver
 dev-lang/spidermonkey 52.2.0_pre20170719-r1: Stand-alone JavaScript C++ library
 dev-lang/vala 0.38.2: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
-dev-libs/atk 2.26.0: GTK+ & GNOME Accessibility Toolkit
+dev-libs/atk 2.27.1: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gdl 3.26.0: GNOME docking library
 dev-libs/gjs 1.50.1: Javascript bindings for GNOME
 dev-libs/glib 2.54.1: The GLib library of C routines
