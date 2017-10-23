@@ -55,12 +55,12 @@ gnome-base/dconf 0.27.1: Simple low-level configuration system
 gnome-base/dconf-editor 3.27.1: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.26.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.26.1: GNOME's main interface to configure various aspects of the desktop
-gnome-base/gnome-desktop 3.26.1: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-desktop 3.27.1: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/gnome-session 3.26.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.26.1: Gnome Settings Daemon
 gnome-base/gnome-shell 3.27.1 9999: Provides core UI functions for the GNOME 3 desktop
-gnome-base/gsettings-desktop-schemas 3.24.1: Collection of GSettings schemas for GNOME desktop
+gnome-base/gsettings-desktop-schemas 3.27.1: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.35.1: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secrets
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
