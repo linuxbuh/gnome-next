@@ -69,7 +69,15 @@ gnome-base/librsvg 2.40.19: Scalable Vector Graphics (SVG) rendering library
 gnome-base/nautilus 3.26.0: A file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/cinnamon 3.4.6-r1: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon 3.6.0-r1: A fork of GNOME Shell with layout similar to GNOME 2
+gnome-extra/cinnamon-control-center 3.6.1: Cinnamons's main interface to configure various aspects of the desktop
+gnome-extra/cinnamon-desktop 3.6.0: A collection of libraries and utilites used by Cinnamon
+gnome-extra/cinnamon-menus 3.6.0: Cinnamon's library for the Desktop Menu fd.o specification
+gnome-extra/cinnamon-screensaver 3.6.0: Screensaver for Cinnamon
+gnome-extra/cinnamon-session 3.6.0: Cinnamon session manager
+gnome-extra/cinnamon-settings-daemon 3.6.0: Cinnamon's settings daemon
+gnome-extra/cinnamon-translations 3.6.0: Translation data for Cinnamon
+gnome-extra/cjs 3.6.0: Linux Mint's fork of gjs for Cinnamon
 gnome-extra/evolution-data-server 3.27.1: Evolution groupware backend
 gnome-extra/gnome-builder 3.26.1: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.25.92: A calculator application for GNOME
@@ -81,6 +89,7 @@ gnome-extra/gnome-shell-extensions 3.27.1: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.26.0: The Gnome System Monitor
 gnome-extra/gnome-tweak-tool 3.26.2.1: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
+gnome-extra/nemo 3.6.2: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nm-applet 1.8.4: GNOME applet for NetworkManager
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
@@ -148,6 +157,7 @@ x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
 x11-libs/pango 1.40.12: Internationalized text layout and rendering library
 x11-libs/vte 0.50.1: Library providing a virtual terminal emulator widget
+x11-libs/xapps 1.0.4: Cross-desktop libraries and common resources
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
 x11-terms/gnome-terminal 3.26.1: The Gnome Terminal
@@ -160,4 +170,5 @@ x11-themes/gnome-backgrounds 3.26.2: A set of backgrounds packaged with the GNOM
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
 x11-wm/gala 9999: Pantheon's Window Manager
 x11-wm/metacity 3.26.0: GNOME default window manager
+x11-wm/muffin 3.6.0: Compositing window manager forked from Mutter for use with Cinnamon
 x11-wm/mutter 3.27.1 9999: GNOME 3 compositing window manager based on Clutter
