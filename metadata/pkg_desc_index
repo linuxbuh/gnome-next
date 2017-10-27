@@ -108,7 +108,7 @@ media-video/totem 3.26.0: Media player for GNOME
 net-irc/polari 3.26.1: An IRC client for Gnome
 net-libs/glib-networking 2.54.1: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.27.1: GNOME framework for accessing online accounts
-net-libs/libsoup 2.60.1: An HTTP library implementation in C
+net-libs/libsoup 2.60.2: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.4.11-r300: Open source web browser engine
