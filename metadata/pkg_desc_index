@@ -44,7 +44,7 @@ dev-libs/template-glib 3.26.1: JSON RPC GLIB
 dev-libs/vala-common 0.38.2: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
-dev-python/pygobject 3.26.0: GLib's GObject library bindings for Python
+dev-python/pygobject 3.26.1: GLib's GObject library bindings for Python
 dev-util/devhelp 3.26.0-r1: An API documentation browser for GNOME
 dev-util/gdbus-codegen 6.6.6: GDBus if part of glibc
 dev-util/gtk-doc 1.26: GTK+ Documentation Generator
@@ -106,7 +106,7 @@ media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function 
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/totem 3.26.0: Media player for GNOME
 net-irc/polari 3.26.1: An IRC client for Gnome
-net-libs/glib-networking 2.54.0: Network-related giomodules for glib
+net-libs/glib-networking 2.54.1: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.27.1: GNOME framework for accessing online accounts
 net-libs/libsoup 2.60.1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
