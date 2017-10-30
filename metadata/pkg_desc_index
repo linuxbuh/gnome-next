@@ -6,14 +6,14 @@ app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
 app-crypt/gcr 3.20.0-r2: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.5-r2: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.22.1: A text editor for the GNOME desktop
-app-editors/latexila 3.25.1: Integrated LaTeX environment for GNOME
+app-editors/latexila 3.26.1: Integrated LaTeX environment for GNOME
 app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
 app-i18n/ibus 1.5.15 1.5.16: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.7-r1: A geoinformation D-Bus service
 app-misc/tracker 1.13.0 2.0.1: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.26.0: Simple document viewer for GNOME
-app-text/gspell 1.6.0: Spell check library for GTK+ applications
+app-text/gspell 1.6.1: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/sassc 3.4.5 9999: libsass command line driver
@@ -23,8 +23,8 @@ dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for s
 dev-libs/atk 2.27.1: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gdl 3.26.0: GNOME docking library
 dev-libs/gjs 1.50.1: Javascript bindings for GNOME
-dev-libs/glib 2.54.1: The GLib library of C routines
-dev-libs/gmime 3.0.2: Utilities for creating and parsing messages using MIME
+dev-libs/glib 2.54.2: The GLib library of C routines
+dev-libs/gmime 3.0.3: Utilities for creating and parsing messages using MIME
 dev-libs/gobject-introspection 1.54.1: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.54.1: Build infrastructure for GObject Introspection
 dev-libs/granite 9999: A development library for elementary development
@@ -152,11 +152,11 @@ www-client/epiphany 3.27.1: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/gtef 2.0.1: GTK+ Text Editor Framework
-x11-libs/gtk+ 3.22.24: Gimp ToolKit +
+x11-libs/gtk+ 3.22.25: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.5: A text widget implementing syntax highlighting and other features
 x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
-x11-libs/pango 1.40.12: Internationalized text layout and rendering library
+x11-libs/pango 1.40.13: Internationalized text layout and rendering library
 x11-libs/vte 0.50.1: Library providing a virtual terminal emulator widget
 x11-libs/xapps 1.0.4: Cross-desktop libraries and common resources
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
