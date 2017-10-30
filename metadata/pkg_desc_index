@@ -96,7 +96,7 @@ gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shel
 mail-client/evolution 3.27.1: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.26.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.1: Eye of GNOME plugins
-media-gfx/gnome-screenshot 3.25.0: Screenshot utility for GNOME
+media-gfx/gnome-screenshot 3.26.0: Screenshot utility for GNOME
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
