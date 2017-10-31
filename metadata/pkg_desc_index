@@ -1,5 +1,5 @@
-app-accessibility/at-spi2-atk 2.26.0: Gtk module for bridging AT-SPI to Atk
-app-accessibility/at-spi2-core 2.26.0: D-Bus accessibility specifications and registration daemon
+app-accessibility/at-spi2-atk 2.26.1: Gtk module for bridging AT-SPI to Atk
+app-accessibility/at-spi2-core 2.26.2: D-Bus accessibility specifications and registration daemon
 app-arch/file-roller 3.26.1: Archive manager for GNOME
 app-arch/gcab 0.7-r1: Library and tool for working with Microsoft Cabinet (CAB) files
 app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
@@ -53,7 +53,7 @@ dev-util/meld 3.18.0: A graphical diff and merge tool
 dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.27.1: Simple low-level configuration system
 gnome-base/dconf-editor 3.27.1: Graphical tool for editing the dconf configuration database
-gnome-base/gdm 3.26.1: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gdm 3.26.2: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.26.1: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.27.1: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
@@ -87,7 +87,7 @@ gnome-extra/gnome-logs 3.27.1: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.25.90: GNOME power management service
 gnome-extra/gnome-shell-extensions 3.27.1: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.26.0: The Gnome System Monitor
-gnome-extra/gnome-tweak-tool 3.26.2.1: Tool to customize GNOME 3 options
+gnome-extra/gnome-tweak-tool 3.26.3: Tool to customize GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
 gnome-extra/nemo 3.6.2: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nm-applet 1.8.4: GNOME applet for NetworkManager
@@ -105,7 +105,7 @@ media-libs/grilo 0.3.4: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3 9999: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/totem 3.26.0: Media player for GNOME
-net-irc/polari 3.26.1: An IRC client for Gnome
+net-irc/polari 3.26.2: An IRC client for Gnome
 net-libs/glib-networking 2.54.1: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.27.1: GNOME framework for accessing online accounts
 net-libs/libsoup 2.60.2: An HTTP library implementation in C
@@ -157,11 +157,11 @@ x11-libs/gtksourceview 3.24.5: A text widget implementing syntax highlighting an
 x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
 x11-libs/pango 1.40.13: Internationalized text layout and rendering library
-x11-libs/vte 0.50.1: Library providing a virtual terminal emulator widget
+x11-libs/vte 0.50.2: Library providing a virtual terminal emulator widget
 x11-libs/xapps 1.0.4: Cross-desktop libraries and common resources
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
-x11-terms/gnome-terminal 3.26.1: The Gnome Terminal
+x11-terms/gnome-terminal 3.26.2: The Gnome Terminal
 x11-terms/pantheon-terminal 9999: The terminal of the 21st century
 x11-themes/adwaita-icon-theme 3.26.0: GNOME default icon theme
 x11-themes/elementary-icon-theme 9999: Elementary icon theme is designed to be smooth, sexy, clear, and efficient
