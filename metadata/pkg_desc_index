@@ -58,7 +58,7 @@ gnome-base/gnome-control-center 3.26.2: GNOME's main interface to configure vari
 gnome-base/gnome-desktop 3.27.1: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
 gnome-base/gnome-session 3.26.1: Gnome session manager
-gnome-base/gnome-settings-daemon 3.26.1: Gnome Settings Daemon
+gnome-base/gnome-settings-daemon 3.26.2: Gnome Settings Daemon
 gnome-base/gnome-shell 3.27.1 9999: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.27.1: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.35.1: Virtual filesystem implementation for gio
