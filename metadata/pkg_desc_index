@@ -94,7 +94,7 @@ gnome-extra/nm-applet 1.8.6: GNOME applet for NetworkManager
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
 mail-client/evolution 3.27.1: Integrated mail, addressbook and calendaring functionality
-media-gfx/eog 3.26.1: The Eye of GNOME image viewer
+media-gfx/eog 3.26.2: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.1: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.26.0: Screenshot utility for GNOME
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
