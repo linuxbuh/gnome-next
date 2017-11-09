@@ -18,7 +18,7 @@ app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/sassc 3.4.5 9999: libsass command line driver
 dev-lang/spidermonkey 52.2.0_pre20170719-r1: Stand-alone JavaScript C++ library
-dev-lang/vala 0.38.2: Compiler for the GObject type system
+dev-lang/vala 0.38.3: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.27.1: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gdl 3.26.0: GNOME docking library
@@ -41,7 +41,7 @@ dev-libs/libgweather 3.26.0: Library to access weather information from online s
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/libsigc++ 2.99.9: Typesafe callback system for standard C++
 dev-libs/template-glib 3.26.1: JSON RPC GLIB
-dev-libs/vala-common 0.38.2: Build infrastructure for packages that use Vala
+dev-libs/vala-common 0.38.3: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
 dev-python/pygobject 3.26.1: GLib's GObject library bindings for Python
