@@ -56,7 +56,7 @@ gnome-base/dconf-editor 3.27.1: Graphical tool for editing the dconf configurati
 gnome-base/gdm 3.26.2.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.26.2: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.27.1: Libraries for the gnome desktop that are not part of the UI
-gnome-base/gnome-keyring 3.20.1: Password and keyring managing daemon
+gnome-base/gnome-keyring 3.27.2: Password and keyring managing daemon
 gnome-base/gnome-session 3.26.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.26.2: Gnome Settings Daemon
 gnome-base/gnome-shell 3.27.1 9999: Provides core UI functions for the GNOME 3 desktop
