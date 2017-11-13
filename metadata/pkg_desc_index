@@ -78,7 +78,7 @@ gnome-extra/cinnamon-session 3.6.0: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 3.6.0: Cinnamon's settings daemon
 gnome-extra/cinnamon-translations 3.6.0: Translation data for Cinnamon
 gnome-extra/cjs 3.6.0: Linux Mint's fork of gjs for Cinnamon
-gnome-extra/evolution-data-server 3.27.1: Evolution groupware backend
+gnome-extra/evolution-data-server 3.27.2: Evolution groupware backend
 gnome-extra/gnome-builder 3.26.2: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.26.0: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.26.2: Manage your online calendars with simple and modern interface
@@ -93,7 +93,7 @@ gnome-extra/nemo 3.6.2: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/nm-applet 1.8.6: GNOME applet for NetworkManager
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
 gnome-extra/zenity 3.24.0: Tool to display dialogs from the commandline and shell scripts
-mail-client/evolution 3.27.1: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.27.2: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.26.2: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.1: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.26.0: Screenshot utility for GNOME
