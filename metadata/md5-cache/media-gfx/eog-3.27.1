@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install postinst postrm preinst prepare test
+DEPEND=>=dev-libs/glib-2.42.0:2[dbus] >=dev-libs/libpeas-0.7.4:=[gtk] >=gnome-base/gnome-desktop-2.91.2:3= >=gnome-base/gsettings-desktop-schemas-2.91.92 >=x11-libs/gtk+-3.19.11:3[introspection,X] >=x11-misc/shared-mime-info-0.20 >=x11-libs/gdk-pixbuf-2.30.0:2[jpeg?,tiff?] x11-libs/libX11 exif? ( >=media-libs/libexif-0.6.14 ) introspection? ( >=dev-libs/gobject-introspection-0.9.3:= ) jpeg? ( virtual/jpeg:0 ) lcms? ( media-libs/lcms:2 ) svg? ( >=gnome-base/librsvg-2.36.2:2 ) xmp? ( media-libs/exempi:2 ) >=dev-util/gtk-doc-am-1.16 >=dev-util/intltool-0.50.1 dev-util/itstool sys-devel/gettext virtual/pkgconfig >=app-portage/elt-patches-20170422 app-arch/xz-utils >=sys-apps/sed-4 dev-util/desktop-file-utils x11-misc/shared-mime-info >=dev-util/meson-0.40.0 >=dev-util/ninja-1.7.2
+DESCRIPTION=The Eye of GNOME image viewer
+EAPI=6
+HOMEPAGE=https://wiki.gnome.org/Apps/EyeOfGnome
+IUSE=debug +exif +introspection +jpeg lcms +svg tiff xmp
+KEYWORDS=~alpha amd64 ~arm ~ia64 ~ppc ~ppc64 ~sparc x86 ~x86-fbsd
+LICENSE=GPL-2+
+RDEPEND=>=dev-libs/glib-2.42.0:2[dbus] >=dev-libs/libpeas-0.7.4:=[gtk] >=gnome-base/gnome-desktop-2.91.2:3= >=gnome-base/gsettings-desktop-schemas-2.91.92 >=x11-libs/gtk+-3.19.11:3[introspection,X] >=x11-misc/shared-mime-info-0.20 >=x11-libs/gdk-pixbuf-2.30.0:2[jpeg?,tiff?] x11-libs/libX11 exif? ( >=media-libs/libexif-0.6.14 ) introspection? ( >=dev-libs/gobject-introspection-0.9.3:= ) jpeg? ( virtual/jpeg:0 ) lcms? ( media-libs/lcms:2 ) svg? ( >=gnome-base/librsvg-2.36.2:2 ) xmp? ( media-libs/exempi:2 )
+REQUIRED_USE=exif? ( jpeg )
+SLOT=1
+SRC_URI=mirror://gnome/sources/eog/3.27/eog-3.27.1.tar.xz
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	227b041a120d309fdefbebb3b8c1dfa9	gnome.org	5e4cc5af3f1b17bdee155bf02e8c2df4	gnome2	6e4acb9c9da2cfa25f2dfedb93bb4a43	gnome2-utils	4d211d7614f303710fca59db6ec12c88	libtool	0081a71a261724730ec4c248494f044d	ltprune	2770eed66a9b8ef944714cd0e968182e	meson	0946ddca90e9c2d3e4687bb097dd9ed3	multilib	97f470f374f2e94ccab04a2fb21d811e	multiprocessing	6f5991c7101863d0b29df63990ad852e	ninja-utils	ebb2eaddc6331c4fa000b8eb8f6fe074	python-utils-r1	c9de01becf9df3f8c10aeec3dc693f5d	toolchain-funcs	185a06792159ca143528e7010368e8af	versionator	c80ccf29e90adea7c5cae94b42eb76d0	xdg	6cd76cc914c1a759dee032778487b57f	xdg-utils	f2c8335407f0b935b0a96d4adf23ef25
+_md5_=922c380b40867118a00fe0b139bc777a
