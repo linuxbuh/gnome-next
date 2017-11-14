@@ -151,6 +151,7 @@ sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real
 www-client/epiphany 3.27.2: GNOME webbrowser based on Webkit
 x11-libs/bamf 9999: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
+x11-libs/gdk-pixbuf 2.36.11: Image loading library for GTK+
 x11-libs/gtef 2.0.1: GTK+ Text Editor Framework
 x11-libs/gtk+ 3.22.26: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.5: A text widget implementing syntax highlighting and other features
