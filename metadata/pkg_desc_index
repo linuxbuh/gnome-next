@@ -157,7 +157,7 @@ x11-libs/gtk+ 3.22.26: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.5: A text widget implementing syntax highlighting and other features
 x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
-x11-libs/pango 1.40.13: Internationalized text layout and rendering library
+x11-libs/pango 1.40.14: Internationalized text layout and rendering library
 x11-libs/vte 0.51.1: Library providing a virtual terminal emulator widget
 x11-libs/xapps 1.0.4: Cross-desktop libraries and common resources
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
