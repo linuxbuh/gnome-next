@@ -114,6 +114,7 @@ mail-client/evolution:weather - Enable optional weather calendar support
 media-gfx/eog-plugins:flickr - Enable uploading to Flickr
 media-gfx/eog-plugins:map - Enable world map display using media-libs/libchamplain
 media-gfx/eog-plugins:picasa - Enable uploading to Google's Picasa Web Albums
+media-gfx/simple-scan:colord - Support color management using x11-misc/colord
 media-libs/clutter:egl - Enable EGL backend.
 media-libs/clutter:gtk - Use gdk-pixbuf from x11-libs/gtk+ as image rendering backend
 media-libs/fontforge:truetype-debugger - Enable truetype debugger in fontforge
