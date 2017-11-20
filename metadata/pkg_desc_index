@@ -25,13 +25,13 @@ dev-libs/gdl 3.26.0: GNOME docking library
 dev-libs/gjs 1.51.2: Javascript bindings for GNOME
 dev-libs/glib 2.54.2: The GLib library of C routines
 dev-libs/gmime 3.0.3: Utilities for creating and parsing messages using MIME
-dev-libs/gobject-introspection 1.54.1: Introspection system for GObject-based libraries
-dev-libs/gobject-introspection-common 1.54.1: Build infrastructure for GObject Introspection
+dev-libs/gobject-introspection 1.55.0: Introspection system for GObject-based libraries
+dev-libs/gobject-introspection-common 1.55.0: Build infrastructure for GObject Introspection
 dev-libs/granite 9999: A development library for elementary development
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.27.1: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.27.1: libdazzle
+dev-libs/libdazzle 3.27.2: libdazzle
 dev-libs/libdbusmenu 16.04.0-r2: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.9-r666: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgee 0.20.0: GObject-based interfaces and classes for commonly used data structures
@@ -40,7 +40,7 @@ dev-libs/libgusb 0.2.11-r1: GObject wrapper for libusb
 dev-libs/libgweather 3.26.0: Library to access weather information from online services
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/libsigc++ 2.99.9: Typesafe callback system for standard C++
-dev-libs/template-glib 3.26.1: JSON RPC GLIB
+dev-libs/template-glib 3.27.2: JSON RPC GLIB
 dev-libs/vala-common 0.38.3: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
