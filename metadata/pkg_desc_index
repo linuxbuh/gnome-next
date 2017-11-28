@@ -166,6 +166,7 @@ x11-themes/elementary-theme 9999: The official elementary GTK theme
 x11-themes/elementary-wallpapers 9999: A set of wallpapers used by the elementary OS
 x11-themes/gnome-backgrounds 3.26.2: A set of backgrounds packaged with the GNOME desktop
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
+x11-themes/plano-theme 9999: plano theme for GNOME, Xfce and more.
 x11-wm/gala 9999: Pantheon's Window Manager
 x11-wm/metacity 3.26.0: GNOME default window manager
 x11-wm/mutter 3.27.1 9999: GNOME 3 compositing window manager based on Clutter
