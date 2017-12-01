@@ -35,7 +35,7 @@ dev-libs/libdazzle 3.27.2: libdazzle
 dev-libs/libdbusmenu 16.04.0-r2: Library to pass menu structure across DBus
 dev-libs/libgdata 0.17.9-r666: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgee 0.20.0: GObject-based interfaces and classes for commonly used data structures
-dev-libs/libgit2-glib 0.26.0-r2: Git library for GLib
+dev-libs/libgit2-glib 0.26.2: Git library for GLib
 dev-libs/libgusb 0.2.11-r1: GObject wrapper for libusb
 dev-libs/libgweather 3.27.1: Library to access weather information from online services
 dev-libs/libpeas 1.22.0: A GObject plugins library
