@@ -24,7 +24,7 @@ dev-libs/atk 2.27.1: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gdl 3.26.0: GNOME docking library
 dev-libs/gjs 1.51.2: Javascript bindings for GNOME
 dev-libs/glib 2.54.2 2.55.0: The GLib library of C routines
-dev-libs/gmime 3.0.4: Utilities for creating and parsing messages using MIME
+dev-libs/gmime 3.0.5: Utilities for creating and parsing messages using MIME
 dev-libs/gobject-introspection 1.55.0: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.55.0: Build infrastructure for GObject Introspection
 dev-libs/granite 9999: A development library for elementary development
