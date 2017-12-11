@@ -12,7 +12,7 @@ app-misc/geoclue 2.4.7-r1: A geoinformation D-Bus service
 app-misc/tracker 1.13.0 2.0.2: A tagging metadata database, search tool and indexer
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.26.0: Simple document viewer for GNOME
-app-text/gspell 1.7.1: Spell check library for GTK+ applications
+app-text/gspell 1.6.1: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/sassc 3.4.5 9999: libsass command line driver
@@ -65,7 +65,7 @@ gnome-base/gvfs 1.35.2: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secrets
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
-gnome-base/librsvg 2.40.19 2.41.2: Scalable Vector Graphics (SVG) rendering library
+gnome-base/librsvg 2.40.19: Scalable Vector Graphics (SVG) rendering library
 gnome-base/nautilus 3.27.2: A file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
