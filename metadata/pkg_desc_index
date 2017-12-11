@@ -102,7 +102,7 @@ net-dns/libidn 1.33-r3: Internationalized Domain Names (IDN) implementation
 net-irc/polari 3.26.2: An IRC client for Gnome
 net-libs/glib-networking 2.54.1 2.55.1: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.27.1: GNOME framework for accessing online accounts
-net-libs/libsoup 2.60.2: An HTTP library implementation in C
+net-libs/libsoup 2.61.1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.4.11-r300 2.19.1: Open source web browser engine
@@ -138,7 +138,7 @@ pantheon-extra/pantheon-calculator 9999: A tiny, simple calculator written in GT
 sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/accountsservice 0.6.43-r2: D-Bus interfaces for querying and manipulating user account information
 sys-apps/baobab 3.27.1: Disk usage browser for GNOME
-sys-apps/gnome-disk-utility 3.27.2: Disk Utility for GNOME using udisks
+sys-apps/gnome-disk-utility 3.27.3: Disk Utility for GNOME using udisks
 sys-devel/gdb 8.0-r1: GNU debugger
 sys-fs/udisks 2.6.5-r1 2.7.1-r1: Daemon providing interfaces to work with storage devices
 sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real and virtual OSes
