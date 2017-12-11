@@ -17,7 +17,7 @@ app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/sassc 3.4.5 9999: libsass command line driver
 dev-lang/spidermonkey 52.2.0_pre20170719-r1: Stand-alone JavaScript C++ library
-dev-lang/vala 0.38.3 0.39.1: Compiler for the GObject type system
+dev-lang/vala 0.38.3 0.39.2: Compiler for the GObject type system
 dev-libs/appstream 0.10.6-r100: Cross-distro effort for providing metadata for software in the Linux ecosystem
 dev-libs/atk 2.27.1: GTK+ & GNOME Accessibility Toolkit
 dev-libs/gdl 3.26.0: GNOME docking library
@@ -40,10 +40,10 @@ dev-libs/libgweather 3.26.1 3.27.1-r1: Library to access weather information fro
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/libsigc++ 2.99.9: Typesafe callback system for standard C++
 dev-libs/template-glib 3.27.2: JSON RPC GLIB
-dev-libs/vala-common 0.38.3 0.39.1: Build infrastructure for packages that use Vala
+dev-libs/vala-common 0.38.3 0.39.2: Build infrastructure for packages that use Vala
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
-dev-python/pygobject 3.26.1: GLib's GObject library bindings for Python
+dev-python/pygobject 3.26.1 3.27.0: GLib's GObject library bindings for Python
 dev-util/devhelp 3.26.1: An API documentation browser for GNOME
 dev-util/gdbus-codegen 6.6.6: GDBus if part of glibc
 dev-util/gtk-doc 1.26: GTK+ Documentation Generator
@@ -61,7 +61,7 @@ gnome-base/gnome-session 3.26.1: Gnome session manager
 gnome-base/gnome-settings-daemon 3.26.2: Gnome Settings Daemon
 gnome-base/gnome-shell 3.27.1 9999: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.27.1: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.35.2: Virtual filesystem implementation for gio
+gnome-base/gvfs 1.35.3: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r2: Compatibility library for accessing secrets
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
@@ -70,7 +70,7 @@ gnome-base/nautilus 3.27.2: A file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 9: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/cinnamon 3.6.6-r2: A fork of GNOME Shell with layout similar to GNOME 2
-gnome-extra/evolution-data-server 3.27.2: Evolution groupware backend
+gnome-extra/evolution-data-server 3.27.3: Evolution groupware backend
 gnome-extra/gnome-builder 3.27.2: Builder attempts to be an IDE for writing software for GNOME
 gnome-extra/gnome-calculator 3.27.2: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.27.2: Manage your online calendars with simple and modern interface
@@ -84,7 +84,7 @@ gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tr
 gnome-extra/nm-applet 1.8.6: GNOME applet for NetworkManager
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
 gnome-extra/zenity 3.26.0: Tool to display dialogs from the commandline and shell scripts
-mail-client/evolution 3.27.2: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.27.3: Integrated mail, addressbook and calendaring functionality
 media-gfx/eog 3.27.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.1: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.26.0: Screenshot utility for GNOME
