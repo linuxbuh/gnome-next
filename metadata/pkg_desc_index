@@ -6,7 +6,6 @@ app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
 app-crypt/gcr 3.20.0-r2: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.5-r2: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.22.1: A text editor for the GNOME desktop
-app-editors/latexila 3.25.1: Integrated LaTeX environment for GNOME
 app-editors/scratch 9999: Scratch is a text editor written for the Pantheon desktop
 app-i18n/ibus 1.5.15 1.5.16: Intelligent Input Bus for Linux / Unix OS
 app-misc/geoclue 2.4.7-r1: A geoinformation D-Bus service
@@ -37,7 +36,7 @@ dev-libs/libgdata 0.17.9-r666: GLib-based library for accessing online service A
 dev-libs/libgee 0.20.0: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libgit2-glib 0.26.2: Git library for GLib
 dev-libs/libgusb 0.2.11-r1: GObject wrapper for libusb
-dev-libs/libgweather 3.27.1-r1: Library to access weather information from online services
+dev-libs/libgweather 3.26.1 3.27.1-r1: Library to access weather information from online services
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/libsigc++ 2.99.9: Typesafe callback system for standard C++
 dev-libs/template-glib 3.27.2: JSON RPC GLIB

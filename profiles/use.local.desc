@@ -3,8 +3,6 @@
 # * generated automatically using pmaint *
 
 app-arch/file-roller:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit
-app-editors/latexila:latexmk - Install dev-tex/latexmk (used by default for the build tools)
-app-editors/latexila:rubber - Install dev-tex/rubber (can be used for the build tools)
 app-editors/scratch:contractor - Build the Contractor extension (to share your files with Contractor)
 app-editors/scratch:files - Build the File Manager plugin (to browse files and folders)
 app-editors/scratch:pastebin - Build the Pastebin extension (to share files with pastebin service)
