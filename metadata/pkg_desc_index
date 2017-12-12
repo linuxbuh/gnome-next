@@ -1,5 +1,5 @@
 app-accessibility/at-spi2-atk 2.26.1: Gtk module for bridging AT-SPI to Atk
-app-accessibility/at-spi2-core 2.27.1: D-Bus accessibility specifications and registration daemon
+app-accessibility/at-spi2-core 2.26.2: D-Bus accessibility specifications and registration daemon
 app-arch/file-roller 3.26.2: Archive manager for GNOME
 app-arch/gcab 0.7-r1: Library and tool for working with Microsoft Cabinet (CAB) files
 app-arch/gnome-autoar 0.2.2: Automatic archives creating and extracting library
