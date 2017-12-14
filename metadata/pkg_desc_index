@@ -104,7 +104,7 @@ net-libs/gnome-online-accounts 3.27.1: GNOME framework for accessing online acco
 net-libs/libsoup 2.61.1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
-net-libs/webkit-gtk 2.4.11-r300 2.19.1: Open source web browser engine
+net-libs/webkit-gtk 2.4.11-r300 2.19.3: Open source web browser engine
 net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-misc/networkmanager 1.6.2 1.8.0-r2 1.8.2-r1 1.9.2 1.9.3 1.10.0 1.10.2: A set of co-operative tools that make networking simple and straightforward
 net-print/cups-filters 1.16.0-r1: Cups PDF filters
