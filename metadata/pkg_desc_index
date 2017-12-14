@@ -53,11 +53,11 @@ dev-util/sysprof 3.26.1: System-wide Linux Profiler
 dev-vcs/gitg 3.26.0: git repository viewer for GNOME
 gnome-base/dconf 0.27.1: Simple low-level configuration system
 gnome-base/dconf-editor 3.27.3: Graphical tool for editing the dconf configuration database
-gnome-base/gdm 3.26.2.1: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gdm 3.27.3: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome-control-center 3.26.2: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.27.2: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.27.2: Password and keyring managing daemon
-gnome-base/gnome-session 3.26.1: Gnome session manager
+gnome-base/gnome-session 3.27.3: Gnome session manager
 gnome-base/gnome-settings-daemon 3.26.2: Gnome Settings Daemon
 gnome-base/gnome-shell 3.27.1 9999: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.27.1: Collection of GSettings schemas for GNOME desktop
@@ -99,7 +99,7 @@ media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/totem 3.26.0: Media player for GNOME
 net-dns/libidn 1.33-r3: Internationalized Domain Names (IDN) implementation
 net-irc/polari 3.26.2: An IRC client for Gnome
-net-libs/glib-networking 2.54.1 2.55.1: Network-related giomodules for glib
+net-libs/glib-networking 2.54.1: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.27.1: GNOME framework for accessing online accounts
 net-libs/libsoup 2.61.1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
