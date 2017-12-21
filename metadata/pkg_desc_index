@@ -6,7 +6,7 @@ app-text/gspell 1.6.1: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-libs/gdl 3.26.0: GNOME docking library
-dev-libs/gmime 3.0.5: Utilities for creating and parsing messages using MIME
+dev-libs/gmime 3.2.0: Utilities for creating and parsing messages using MIME
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.27.1: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
