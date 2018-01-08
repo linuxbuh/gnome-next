@@ -8,7 +8,6 @@ dev-libs/libdbusmenu:gtk3 - Support GTK+ 3.x
 dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
 dev-libs/libpeas:glade - Install the glade catalog
 dev-libs/libpeas:python - Build support for loading dev-lang/python plugins
-dev-util/devhelp:gedit - Install plugin for app-editors/gedit
 gnome-base/gnome-keyring:ssh-agent - Use GNOME Keyring to unlock SSH keys. Recommended unless you are using ECDSA or Ed25519 keys.
 gnome-base/librsvg:tools - Build svg viewer tool
 gnome-extra/nm-applet:modemmanager - Enable support for mobile broadband devices using net-misc/modemmanager
