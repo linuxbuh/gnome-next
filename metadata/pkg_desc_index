@@ -35,7 +35,7 @@ media-libs/grilo 0.3.4: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 net-libs/glib-networking 2.54.1: Network-related giomodules for glib
-net-libs/libsoup 2.61.1: An HTTP library implementation in C
+net-libs/libsoup 2.61.2: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.4.11-r300 2.19.3: Open source web browser engine
