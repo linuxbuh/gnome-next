@@ -1,4 +1,4 @@
-app-arch/gcab 0.7-r1: Library and tool for working with Microsoft Cabinet (CAB) files
+app-arch/gcab 1.0: Library and tool for working with Microsoft Cabinet (CAB) files
 app-crypt/gcr 3.27.4: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.5-r2: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.22.1: A text editor for the GNOME desktop
