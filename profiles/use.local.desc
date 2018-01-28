@@ -12,6 +12,11 @@ gnome-base/gnome-keyring:ssh-agent - Use GNOME Keyring to unlock SSH keys. Recom
 gnome-base/librsvg:tools - Build svg viewer tool
 gnome-extra/nm-applet:modemmanager - Enable support for mobile broadband devices using net-misc/modemmanager
 gnome-extra/nm-applet:teamd - Enable teamd configuration editor
+gnome-extra/zeitgeist:datahub - Use build datahub for passive event injection
+gnome-extra/zeitgeist:downloads-monitor - Monitor the XDG_DOWNLOAD_DIRECTORY
+gnome-extra/zeitgeist:fts - Enable the full text search extension
+gnome-extra/zeitgeist:sql-debug - Enable SQL debugging
+gnome-extra/zeitgeist:telepathy - Enable telepathy framework as data source
 media-gfx/eog-plugins:flickr - Enable uploading to Flickr
 media-gfx/eog-plugins:map - Enable world map display using media-libs/libchamplain
 media-gfx/eog-plugins:picasa - Enable uploading to Google's Picasa Web Albums
