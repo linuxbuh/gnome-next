@@ -47,6 +47,7 @@ sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yaho
 sys-apps/accountsservice 0.6.43-r2: D-Bus interfaces for querying and manipulating user account information
 sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real and virtual OSes
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
+x11-libs/gtk+ 2.24.31-r2: Gimp ToolKit +
 x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality

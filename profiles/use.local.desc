@@ -52,6 +52,9 @@ net-misc/networkmanager:wext - Enable support for the deprecated Wext (Wireless 
 net-misc/networkmanager:wifi - Enable support for wifi and 802.1x security using net-wireless/wpa_supplicant
 sys-apps/accountsservice:elogind - Use sys-auth/elogind instead of sys-auth/consolekit for session tracking
 sys-apps/accountsservice:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
+x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
+x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
+x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
 x11-libs/libwnck:tools - Install wnckprop-3 and wnck-urgency-monitor-3 command-line tools
 x11-misc/colord:argyllcms - Enable ArgyllCMS sensor
 x11-misc/colord:extra-print-profiles - Generate extra print profiles. Warning: significant build time and memory requirements.
