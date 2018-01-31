@@ -2,6 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-libs/appstream-glib:stemmer - Add word stemming via dev-libs/snowball-stemmer.
 dev-libs/gmime:smime - Enable experimental S/MIME support
 dev-libs/libdbusmenu:gtk2 - Support GTK+ 2.x instead of GTK+ 3.x
 dev-libs/libdbusmenu:gtk3 - Support GTK+ 3.x
