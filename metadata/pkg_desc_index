@@ -42,7 +42,6 @@ net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.4.11-r300 2.19.6: Open source web browser engine
 net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
-net-misc/networkmanager 1.6.2 1.8.0-r2 1.8.2-r1: A set of co-operative tools that make networking simple and straightforward
 net-wireless/gnome-bluetooth 3.26.1: Bluetooth graphical utilities integrated with GNOME
 sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/accountsservice 0.6.43-r2: D-Bus interfaces for querying and manipulating user account information
