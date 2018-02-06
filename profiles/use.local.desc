@@ -40,6 +40,8 @@ net-misc/modemmanager:qmi - Enable support for the QMI modem protocol used by de
 net-misc/modemmanager:qmi-newest - Avoid deprecated QMI commands. Warning: may cause incompatibility with older devices.
 sys-apps/accountsservice:elogind - Use sys-auth/elogind instead of sys-auth/consolekit for session tracking
 sys-apps/accountsservice:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
+sys-auth/polkit:elogind - Use sys-auth/elogind instead of sys-auth/consolekit for session tracking
+sys-auth/polkit:systemd - Use sys-apps/systemd instead of sys-auth/consolekit for session tracking
 x11-libs/gtk+:broadway - Enable the GDK Broadway backend.
 x11-libs/gtk+:cloudprint - Enable printing via Google Cloud Print.
 x11-libs/gtk+:colord - Use x11-misc/colord for color management in printing
