@@ -1,7 +1,7 @@
 app-arch/gcab 1.0: Library and tool for working with Microsoft Cabinet (CAB) files
 app-crypt/gcr 3.27.4: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.5-r2: GObject library for accessing the freedesktop.org Secret Service API
-app-editors/gedit 3.22.1: A text editor for the GNOME desktop
+app-editors/gedit 3.27.90: A text editor for the GNOME desktop
 app-text/gspell 1.6.1: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 app-text/yelp-tools 3.27.90: Collection of tools for building and converting documentation
