@@ -4,9 +4,6 @@
 
 dev-libs/appstream-glib:stemmer - Add word stemming via dev-libs/snowball-stemmer.
 dev-libs/gmime:smime - Enable experimental S/MIME support
-dev-libs/libdbusmenu:gtk2 - Support GTK+ 2.x instead of GTK+ 3.x
-dev-libs/libdbusmenu:gtk3 - Support GTK+ 3.x
-dev-libs/libdbusmenu:introspection - Use dev-libs/gobject-introspection for introspection
 dev-libs/libpeas:glade - Install the glade catalog
 dev-libs/libpeas:python - Build support for loading dev-lang/python plugins
 gnome-base/gnome-keyring:ssh-agent - Use GNOME Keyring to unlock SSH keys. Recommended unless you are using ECDSA or Ed25519 keys.
