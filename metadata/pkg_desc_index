@@ -40,6 +40,7 @@ media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in 
 media-libs/grilo 0.3.4: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.4.3: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
+media-video/cheese 3.26.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.54.1: Network-related giomodules for glib
 net-libs/libsoup 2.61.90: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
