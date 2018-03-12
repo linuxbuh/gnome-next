@@ -101,7 +101,7 @@ net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.19.92: Open source web browser engine
 net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
-net-wireless/gnome-bluetooth 3.27.92: Bluetooth graphical utilities integrated with GNOME
+net-wireless/gnome-bluetooth 3.28.0: Bluetooth graphical utilities integrated with GNOME
 sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/accountsservice 0.6.43-r2: D-Bus interfaces for querying and manipulating user account information
 sys-auth/polkit 0.113-r5: Policy framework for controlling privileges for system-wide services
