@@ -94,7 +94,7 @@ media-plugins/gst-plugins-x 0.10.36-r1: plugin for gstreamer
 media-plugins/gst-plugins-ximagesrc 0.10.31-r2: plugin for gstreamer
 media-plugins/gst-plugins-xvid 0.10.23-r1: GStreamer plugin for XviD (MPEG-4) video encoding/decoding support
 media-plugins/gst-plugins-xvideo 0.10.36-r1: plugin for gstreamer
-media-video/cheese 3.26.0: A cheesy program to take pictures and videos from your webcam
+media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.56.0: Network-related giomodules for glib
 net-libs/libsoup 2.61.91: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
