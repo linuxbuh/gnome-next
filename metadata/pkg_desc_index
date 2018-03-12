@@ -2,12 +2,13 @@ app-arch/gcab 1.1: Library and tool for working with Microsoft Cabinet (CAB) fil
 app-crypt/gcr 3.27.92: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.5-r2: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.27.92: A text editor for the GNOME desktop
+app-editors/gedit-plugins 3.27.92: Official plugins for gedit
 app-text/gspell 1.6.1: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 app-text/yelp-tools 3.27.90: Collection of tools for building and converting documentation
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-libs/appstream-glib 0.7.5: Provides GObjects and helper methods to read and write AppStream metadata
-dev-libs/gdl 3.26.0: GNOME docking library
+dev-libs/gdl 3.28.0: GNOME docking library
 dev-libs/gmime 3.2.0: Utilities for creating and parsing messages using MIME
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.27.91: JSON RPC GLIB
@@ -18,7 +19,7 @@ dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.27.90: JSON RPC GLIB
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
-dev-util/devhelp 3.27.90: An API documentation browser for GNOME
+dev-util/devhelp 3.28.0: An API documentation browser for GNOME
 dev-util/meld 3.18.0: A graphical diff and merge tool
 gnome-base/dconf 0.27.1: Simple low-level configuration system
 gnome-base/gnome-keyring 3.27.92: Password and keyring managing daemon
@@ -94,7 +95,7 @@ media-plugins/gst-plugins-ximagesrc 0.10.31-r2: plugin for gstreamer
 media-plugins/gst-plugins-xvid 0.10.23-r1: GStreamer plugin for XviD (MPEG-4) video encoding/decoding support
 media-plugins/gst-plugins-xvideo 0.10.36-r1: plugin for gstreamer
 media-video/cheese 3.26.0: A cheesy program to take pictures and videos from your webcam
-net-libs/glib-networking 2.55.90: Network-related giomodules for glib
+net-libs/glib-networking 2.56.0: Network-related giomodules for glib
 net-libs/libsoup 2.61.91: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
