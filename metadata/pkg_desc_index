@@ -11,17 +11,17 @@ dev-libs/appstream-glib 0.7.5: Provides GObjects and helper methods to read and 
 dev-libs/gdl 3.28.0: GNOME docking library
 dev-libs/gmime 3.2.0: Utilities for creating and parsing messages using MIME
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
-dev-libs/jsonrpc-glib 3.27.91: JSON RPC GLIB
+dev-libs/jsonrpc-glib 3.28.0: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.27.92: libdazzle
+dev-libs/libdazzle 3.28.0: libdazzle
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libpeas 1.22.0: A GObject plugins library
-dev-libs/template-glib 3.27.90: JSON RPC GLIB
+dev-libs/template-glib 3.28.0: JSON RPC GLIB
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
 dev-util/devhelp 3.28.0: An API documentation browser for GNOME
 dev-util/meld 3.18.0: A graphical diff and merge tool
-gnome-base/dconf 0.27.1: Simple low-level configuration system
+gnome-base/dconf 0.28.0: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.0.1: Password and keyring managing daemon
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
