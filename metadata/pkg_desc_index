@@ -20,7 +20,7 @@ dev-libs/template-glib 3.28.0: JSON RPC GLIB
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
 dev-util/devhelp 3.28.0: An API documentation browser for GNOME
-dev-util/meld 3.18.0: A graphical diff and merge tool
+dev-util/meld 3.19.0: A graphical diff and merge tool
 gnome-base/dconf 0.28.0: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.0.2: Password and keyring managing daemon
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
