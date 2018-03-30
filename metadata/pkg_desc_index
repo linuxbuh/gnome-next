@@ -63,7 +63,6 @@ media-plugins/gst-plugins-libmms 0.10.23-r1: plugin for gstreamer
 media-plugins/gst-plugins-libnice 0.1.13 0.1.13-r100: GStreamer plugin for ICE (RFC 5245) support
 media-plugins/gst-plugins-libpng 0.10.31-r1: GStreamer encoder/decoder for PNG images
 media-plugins/gst-plugins-libvisual 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-mad 1.10.5: MP3 decoder plugin for GStreamer
 media-plugins/gst-plugins-meta 0.10-r11 1.8.3 1.10.5: Meta ebuild to pull in gst plugins for apps
 media-plugins/gst-plugins-modplug 0.10.23-r1: plugin for gstreamer
 media-plugins/gst-plugins-mpeg2enc 0.10.23-r1: GStreamer plugin for MPEG-1/2 video encoding
