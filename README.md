@@ -1,7 +1,6 @@
 Unofficial GNOME overlay
 [![Build Status](https://travis-ci.org/Heather/gentoo-gnome.png?branch=master)](https://travis-ci.org/Heather/gentoo-gnome)
 [![Twitter][]](http://www.twitter.com/Cynede)
-[![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-orange.svg)](http://heather.github.io/donate-bitcoin/)
 ------------------------
 
 Versions
@@ -13,33 +12,31 @@ Versions
 Communication
 -------------
 
- - Gentoo discord server: https://discord.gg/KEphgqH
- - issues: https://github.com/Heather/gentoo-gnome/issues
+ - [Gentoo discord server](https://discord.gg/KEphgqH)
+ - [issues](https://github.com/Heather/gentoo-gnome/issues)
 
-Major differences with main tree
+Major differences with the main tree
 -------------------------
 
- - if you want to use last vala versions, mask old vala version to see limitations (currently the only way to use new vala is to port everything to this overlay...)
- - removed gdbus-codegen (I have no idea why it was split but it's a pain to keep)
+ - To use the latest versions of vala, mask the old vala version to see the limitations. Currently, the only way to use the new vala is to port everything to this overlay.
+ - gdbus-codegen was removed. (`666` version is just used for compatibility with tree packages)
 
 Information
 -----------
-
- - use `compare.py` script to update this overlay on top of official
- - `list.py` to list packages inside overlay with versions
- - official gnome overlay: http://git.overlays.gentoo.org/gitweb/?p=proj/gnome.git;a=summary
- - contributors are still welcome.
- - For bugs use GitHub issues https://github.com/Heather/gentoo-gnome/issues?state=open
- - Please use `pull --rebase` to resolve conflicts or set `branch.autosetuprebase = always`
- - this script removes implemented upstream things from this overlay https://github.com/Heather/gentoo-gnome/blob/master/compare.py
+ - `list.py` lists packages inside the overlay and their versions.
+ - The official [gnome overlay](http://git.overlays.gentoo.org/gitweb/?p=proj/gnome.git;a=summary).
+ - Contributions are welcome.
+ - For bugs, use [GitHub issues](https://github.com/Heather/gentoo-gnome/issues?state=open).
+ - Use `pull --rebase` to resolve conflicts or set `branch.autosetuprebase = always`.
+ - [This script](https://github.com/Heather/gentoo-gnome/blob/master/compare.py) removes features implemented upstream from this overlay.
 
 Pantheon
 --------
 
- - I used this fix for Super_L key: http://elementaryos.stackexchange.com/questions/1946/have-application-menu-open-up-with-only-windows-key/2083#2083
- - It loads stuff from /usr/share/gnome/autoload either (not sure if I should remove plank from there)
+ - [This fix](http://elementaryos.stackexchange.com/questions/1946/have-application-menu-open-up-with-only-windows-key/2083#2083) was used for the Super_L key.
+ - Entries from `/usr/share/gnome/autoload` are loaded.
 
-and here is `.xinitrc`
+Here is an example `.xinitrc`:
 
 ``` shell
 #!/bin/sh
@@ -66,7 +63,7 @@ plank &
 exec gala
 ```
 
-Plank to autostart in GNOME
+Autostarting Plank in GNOME
 ---------------------------
 
 add `/usr/share/gnome/autostart/plank.desktop`
@@ -80,7 +77,7 @@ OnlyShowIn=GNOME;
 X-GNOME-Autostart-Phase=Application
 ```
 
-same way you can add `conky -d`
+Likewise, `conky -d` can be added.
 
 Branches
 --------
