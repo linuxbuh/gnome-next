@@ -14,13 +14,13 @@ dev-libs/gmime 3.2.0: Utilities for creating and parsing messages using MIME
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.28.0: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.28.0: libdazzle
+dev-libs/libdazzle 3.28.1: libdazzle
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.28.0: JSON RPC GLIB
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
-dev-util/devhelp 3.28.1: An API documentation browser for GNOME
+dev-util/devhelp 3.29.1: An API documentation browser for GNOME
 dev-util/meld 3.19.0: A graphical diff and merge tool
 gnome-base/dconf 0.28.0: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.0.2: Password and keyring managing daemon
@@ -31,7 +31,7 @@ gnome-extra/nm-applet 1.8.10: GNOME applet for NetworkManager
 gnome-extra/yelp-xsl 3.28.0: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
 media-fonts/cantarell 0.101: Default fontset for GNOME Shell
-media-gfx/eog 3.28.0: The Eye of GNOME image viewer
+media-gfx/eog 3.28.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.2: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.26.0: Screenshot utility for GNOME
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
@@ -96,10 +96,10 @@ media-plugins/gst-plugins-xvid 0.10.23-r1: GStreamer plugin for XviD (MPEG-4) vi
 media-plugins/gst-plugins-xvideo 0.10.36-r1: plugin for gstreamer
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.56.0-r1: Network-related giomodules for glib
-net-libs/libsoup 2.62.0: An HTTP library implementation in C
+net-libs/libsoup 2.62.1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
-net-libs/webkit-gtk 2.19.92: Open source web browser engine
+net-libs/webkit-gtk 2.20.1: Open source web browser engine
 net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-wireless/gnome-bluetooth 3.28.0: Bluetooth graphical utilities integrated with GNOME
 sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yahoo! Place Finder service
