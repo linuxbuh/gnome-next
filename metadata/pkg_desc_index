@@ -96,7 +96,7 @@ media-plugins/gst-plugins-xvid 0.10.23-r1: GStreamer plugin for XviD (MPEG-4) vi
 media-plugins/gst-plugins-xvideo 0.10.36-r1: plugin for gstreamer
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.56.0-r1: Network-related giomodules for glib
-net-libs/libsoup 2.62.1: An HTTP library implementation in C
+net-libs/libsoup 2.63.1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.20.1: Open source web browser engine
