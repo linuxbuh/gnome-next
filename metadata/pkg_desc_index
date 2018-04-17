@@ -14,7 +14,7 @@ dev-libs/gmime 3.2.0: Utilities for creating and parsing messages using MIME
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.28.0: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.28.1: libdazzle
+dev-libs/libdazzle 3.29.1: libdazzle
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.28.0: JSON RPC GLIB
@@ -95,7 +95,7 @@ media-plugins/gst-plugins-ximagesrc 0.10.31-r2: plugin for gstreamer
 media-plugins/gst-plugins-xvid 0.10.23-r1: GStreamer plugin for XviD (MPEG-4) video encoding/decoding support
 media-plugins/gst-plugins-xvideo 0.10.36-r1: plugin for gstreamer
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
-net-libs/glib-networking 2.56.0-r1: Network-related giomodules for glib
+net-libs/glib-networking 2.57.1: Network-related giomodules for glib
 net-libs/libsoup 2.63.1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
