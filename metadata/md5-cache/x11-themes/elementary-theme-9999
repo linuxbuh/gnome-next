@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=x11-themes/vanilla-dmz-aa-xcursors media-fonts/droid gtk? ( x11-libs/gtk+:2 x11-themes/gtk-engines-murrine ) gtk3? ( x11-libs/gtk+:3 x11-themes/gtk-engines-unico ) icons? ( x11-themes/elementary-icon-theme x11-themes/hicolor-icon-theme ) wallpapers? ( x11-themes/elementary-wallpapers )
 RESTRICT=binchecks mirror strip
 SLOT=0
-_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782
+_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
 _md5_=57d75fa5a288cbbd7dd2a2b0ce596fc0
