@@ -107,7 +107,7 @@ sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yaho
 sys-apps/accountsservice 0.6.43-r2: D-Bus interfaces for querying and manipulating user account information
 sys-auth/polkit 0.113-r5: Policy framework for controlling privileges for system-wide services
 sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real and virtual OSes
-x11-libs/cairo 1.15.10: A vector graphics library with cross-device output support
+x11-libs/cairo 1.15.12: A vector graphics library with cross-device output support
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
