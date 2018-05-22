@@ -20,7 +20,7 @@ dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.28.0: JSON RPC GLIB
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.26.0: Python binding to at-spi library
-dev-util/devhelp 3.29.1: An API documentation browser for GNOME
+dev-util/devhelp 3.29.2: An API documentation browser for GNOME
 dev-util/meld 3.19.0: A graphical diff and merge tool
 gnome-base/dconf 0.28.0: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.2: Password and keyring managing daemon
@@ -97,7 +97,7 @@ media-plugins/gst-plugins-xvid 0.10.23-r1: GStreamer plugin for XviD (MPEG-4) vi
 media-plugins/gst-plugins-xvideo 0.10.36-r1: plugin for gstreamer
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.57.2: Network-related giomodules for glib
-net-libs/libsoup 2.63.1: An HTTP library implementation in C
+net-libs/libsoup 2.63.2: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.21.1: Open source web browser engine
@@ -105,7 +105,6 @@ net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-wireless/gnome-bluetooth 3.28.0: Bluetooth graphical utilities integrated with GNOME
 sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/accountsservice 0.6.43-r2: D-Bus interfaces for querying and manipulating user account information
-sys-auth/polkit 0.113-r5: Policy framework for controlling privileges for system-wide services
 sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real and virtual OSes
 x11-libs/cairo 1.15.12: A vector graphics library with cross-device output support
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
