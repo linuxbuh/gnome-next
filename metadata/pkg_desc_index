@@ -100,7 +100,7 @@ net-libs/glib-networking 2.57.2: Network-related giomodules for glib
 net-libs/libsoup 2.63.2: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
-net-libs/webkit-gtk 2.21.1: Open source web browser engine
+net-libs/webkit-gtk 2.4.11-r300 2.21.1: Open source web browser engine
 net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-wireless/gnome-bluetooth 3.28.0: Bluetooth graphical utilities integrated with GNOME
 sci-geosciences/geocode-glib 3.25.4.1: GLib geocoding library that uses the Yahoo! Place Finder service
