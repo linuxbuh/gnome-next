@@ -27,7 +27,6 @@ gnome-base/gnome-keyring 3.28.2: Password and keyring managing daemon
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.42.2: Scalable Vector Graphics (SVG) rendering library
-gnome-extra/nm-applet 1.8.10: GNOME applet for NetworkManager
 gnome-extra/sushi 3.28.3: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp-xsl 3.28.0: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
