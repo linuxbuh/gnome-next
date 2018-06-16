@@ -79,7 +79,6 @@ media-plugins/gst-plugins-pulse 0.10.31-r2: GStreamer plugin for the PulseAudio 
 media-plugins/gst-plugins-raw1394 0.10.31-r1: GStreamer plugin to capture firewire video
 media-plugins/gst-plugins-resindvd 0.10.23-r1: plugin for gstreamer
 media-plugins/gst-plugins-rtmp 0.10.23-r1: GStreamer plugin for supporting RTMP sources
-media-plugins/gst-plugins-schroedinger 0.10.23-r1: plugin for gstreamer
 media-plugins/gst-plugins-shout2 0.10.31-r1: GStreamer plugin to send data to an icecast server
 media-plugins/gst-plugins-soundtouch 0.10.23-r1: GStreamer elements for beats-per-minute detection and pitch controlling
 media-plugins/gst-plugins-soup 0.10.31-r2: GStreamer plugin for HTTP client sources
