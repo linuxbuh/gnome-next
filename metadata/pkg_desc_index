@@ -3,7 +3,7 @@ app-crypt/gcr 3.28.0: Libraries for cryptographic UIs and accessing PKCS#11 modu
 app-crypt/libsecret 0.18.6: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.28.1: A text editor for the GNOME desktop
 app-editors/gedit-plugins 3.28.1: Official plugins for gedit
-app-text/gspell 1.6.1: Spell check library for GTK+ applications
+app-text/gspell 1.8.1: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r1: Spell checking widget for GTK
 app-text/yelp-tools 3.28.0: Collection of tools for building and converting documentation
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
@@ -20,7 +20,7 @@ dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.28.0: JSON RPC GLIB
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.29.1: Python binding to at-spi library
-dev-util/devhelp 3.29.2: An API documentation browser for GNOME
+dev-util/devhelp 3.29.3: An API documentation browser for GNOME
 dev-util/meld 3.19.0: A graphical diff and merge tool
 gnome-base/dconf 0.28.0: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.2: Password and keyring managing daemon
