@@ -19,7 +19,7 @@ dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used d
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.28.0: JSON RPC GLIB
 dev-libs/wayland 1.14.0: Wayland protocol libraries
-dev-python/pyatspi 2.26.0: Python binding to at-spi library
+dev-python/pyatspi 2.29.1: Python binding to at-spi library
 dev-util/devhelp 3.29.2: An API documentation browser for GNOME
 dev-util/meld 3.19.0: A graphical diff and merge tool
 gnome-base/dconf 0.28.0: Simple low-level configuration system
