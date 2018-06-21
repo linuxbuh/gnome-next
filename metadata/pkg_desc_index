@@ -41,59 +41,6 @@ media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in 
 media-libs/grilo 0.3.4: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.5.0: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
-media-plugins/gst-plugins-alsa 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-annodex 0.10.31-r1: GStreamer plugin for annodex stream manipulation
-media-plugins/gst-plugins-assrender 0.10.23-r1: GStreamer plugin for ASS/SSA rendering with effects support
-media-plugins/gst-plugins-cdparanoia 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-dts 0.10.23-r1: GStreamer plugin for MPEG-1/2 video encoding
-media-plugins/gst-plugins-dv 0.10.31-r1: GStreamer plugin to demux and decode DV
-media-plugins/gst-plugins-dvb 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-faac 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-faad 0.10.23-r2: plugin for gstreamer
-media-plugins/gst-plugins-flac 0.10.31-r1: GStreamer encoder/decoder/tagger for FLAC
-media-plugins/gst-plugins-gconf 0.10.31-r1: GStreamer plugin for wrapping GConf audio/video settings
-media-plugins/gst-plugins-gdkpixbuf 0.10.31-r1: plugin for gstreamer
-media-plugins/gst-plugins-gio 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-gl 0.10.3-r1: GStreamer OpenGL plugins
-media-plugins/gst-plugins-gnomevfs 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-gsm 0.10.23-r1: GStreamer plugin for GSM audio decoding/encoding
-media-plugins/gst-plugins-ivorbis 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-jack 0.10.31-r1: plugin for gstreamer
-media-plugins/gst-plugins-jpeg 0.10.31-r1: GStreamer encoder/decoder for JPEG format
-media-plugins/gst-plugins-ladspa 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-libmms 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-libnice 0.1.13 0.1.13-r100: GStreamer plugin for ICE (RFC 5245) support
-media-plugins/gst-plugins-libpng 0.10.31-r1: GStreamer encoder/decoder for PNG images
-media-plugins/gst-plugins-libvisual 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-meta 0.10-r11 1.8.3 1.10.5: Meta ebuild to pull in gst plugins for apps
-media-plugins/gst-plugins-modplug 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-mpeg2enc 0.10.23-r1: GStreamer plugin for MPEG-1/2 video encoding
-media-plugins/gst-plugins-mplex 0.10.23-r1: GStreamer plugin for MPEG/DVD/SVCD/VCD video/audio multiplexing
-media-plugins/gst-plugins-musepack 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-neon 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-ofa 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-ogg 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-opus 0.10.23-r1: GStreamer plugin for Opus audio codec support
-media-plugins/gst-plugins-oss 0.10.31-r1: GStreamer plugin for OSS (Open Sound System) support
-media-plugins/gst-plugins-pango 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-pulse 0.10.31-r2: GStreamer plugin for the PulseAudio sound server
-media-plugins/gst-plugins-raw1394 0.10.31-r1: GStreamer plugin to capture firewire video
-media-plugins/gst-plugins-resindvd 0.10.23-r1: plugin for gstreamer
-media-plugins/gst-plugins-rtmp 0.10.23-r1: GStreamer plugin for supporting RTMP sources
-media-plugins/gst-plugins-shout2 0.10.31-r1: GStreamer plugin to send data to an icecast server
-media-plugins/gst-plugins-soundtouch 0.10.23-r1: GStreamer elements for beats-per-minute detection and pitch controlling
-media-plugins/gst-plugins-soup 0.10.31-r2: GStreamer plugin for HTTP client sources
-media-plugins/gst-plugins-speex 0.10.31-r1: GStreamer plugin to allow encoding and decoding of speex
-media-plugins/gst-plugins-taglib 0.10.31-r1: GStreamer taglib based tag handler
-media-plugins/gst-plugins-theora 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-v4l2 0.10.31-r1: plugin for gstreamer
-media-plugins/gst-plugins-vorbis 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-vp8 0.10.23-r3: GStreamer decoder for vpx video format
-media-plugins/gst-plugins-wavpack 0.10.31-r1: GStreamer encoder/decoder for wavpack audio format
-media-plugins/gst-plugins-x 0.10.36-r1: plugin for gstreamer
-media-plugins/gst-plugins-ximagesrc 0.10.31-r2: plugin for gstreamer
-media-plugins/gst-plugins-xvid 0.10.23-r1: GStreamer plugin for XviD (MPEG-4) video encoding/decoding support
-media-plugins/gst-plugins-xvideo 0.10.36-r1: plugin for gstreamer
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.57.2: Network-related giomodules for glib
 net-libs/libsoup 2.63.2: An HTTP library implementation in C

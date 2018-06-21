@@ -27,11 +27,6 @@ media-libs/clutter:egl - Enable EGL backend.
 media-libs/clutter:gtk - Use gdk-pixbuf from x11-libs/gtk+ as image rendering backend
 media-libs/grilo:network - Enable network access for media discovery using net-libs/libsoup
 media-libs/grilo:playlist - Enable support for playlists through dev-libs/totem-pl-parser
-media-plugins/gst-plugins-gl:libvisual - Enable visualization effects via media-libs/libvisual
-media-plugins/gst-plugins-meta:http - Enable http streaming via net-libs/libsoup
-media-plugins/gst-plugins-meta:libvisual - Enable visualization effects via media-libs/libvisual
-media-plugins/gst-plugins-meta:opus - Enable Opus audio codec support
-media-plugins/gst-plugins-meta:vpx - Enables vp8 codec support using libvpx, required to play some HTML5 videos
 net-libs/glib-networking:gnome - Extract HTTP/HTTPS/SOCKS proxy configuration stored using GSettings
 net-libs/glib-networking:libproxy - Use net-libs/libproxy for getting the HTTP/HTTPS/SOCKS proxy configuration
 net-libs/libsoup:gssapi - Enable GSSAPI support
