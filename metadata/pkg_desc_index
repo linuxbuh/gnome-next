@@ -28,6 +28,9 @@ gnome-base/gnome-keyring 3.28.2: Password and keyring managing daemon
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.43.2: Scalable Vector Graphics (SVG) rendering library
+gnome-extra/cinnamon-desktop 3.8.1: A collection of libraries and utilites used by Cinnamon
+gnome-extra/cinnamon-settings-daemon 3.8.4: Cinnamon's settings daemon
+gnome-extra/nemo 3.8.5: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/sushi 3.28.3: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp-xsl 3.28.0: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
@@ -58,3 +61,4 @@ x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
 x11-themes/gnome-themes-extra 3.28: Standard Themes for GNOME Applications
+x11-wm/muffin 3.8.2: Compositing window manager forked from Mutter for use with Cinnamon
