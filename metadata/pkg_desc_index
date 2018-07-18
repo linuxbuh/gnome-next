@@ -13,9 +13,9 @@ dev-libs/appstream-glib 0.7.5: Provides GObjects and helper methods to read and 
 dev-libs/gdl 3.28.0: GNOME docking library
 dev-libs/gmime 3.2.0: Utilities for creating and parsing messages using MIME
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
-dev-libs/jsonrpc-glib 3.29.3: JSON RPC GLIB
+dev-libs/jsonrpc-glib 3.29.4: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.29.3: libdazzle
+dev-libs/libdazzle 3.29.4: libdazzle
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.28.0: JSON RPC GLIB
@@ -45,7 +45,7 @@ media-gfx/gnome-screenshot 3.26.0: Screenshot utility for GNOME
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
 media-libs/clutter-gst 3.0.24: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
-media-libs/grilo 0.3.4: A framework for easy media discovery and browsing
+media-libs/grilo 0.3.5: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.5.0: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
