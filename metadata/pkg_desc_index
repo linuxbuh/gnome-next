@@ -58,6 +58,7 @@ net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-wireless/gnome-bluetooth 3.28.1: Bluetooth graphical utilities integrated with GNOME
 sci-geosciences/geocode-glib 3.26.0: GLib geocoding library that uses the Yahoo! Place Finder service
 sys-apps/accountsservice 0.6.43-r2: D-Bus interfaces for querying and manipulating user account information
+sys-auth/polkit 0.114: Policy framework for controlling privileges for system-wide services
 sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real and virtual OSes
 x11-libs/cairo 1.15.12: A vector graphics library with cross-device output support
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
