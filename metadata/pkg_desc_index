@@ -50,7 +50,7 @@ media-libs/libepoxy 1.5.0: Epoxy is a library for handling OpenGL function point
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.57.3: Network-related giomodules for glib
-net-libs/libsoup 2.63.2: An HTTP library implementation in C
+net-libs/libsoup 2.63.90: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
 net-libs/webkit-gtk 2.4.11-r300 2.21.5: Open source web browser engine
