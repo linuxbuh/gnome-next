@@ -23,7 +23,7 @@ dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.29.90: Python binding to at-spi library
 dev-util/devhelp 3.30.0: An API documentation browser for GNOME
 dev-util/meld 3.19.0: A graphical diff and merge tool
-gnome-base/dconf 0.29.1: Simple low-level configuration system
+gnome-base/dconf 0.28.0: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.2: Password and keyring managing daemon
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
