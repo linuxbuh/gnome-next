@@ -49,11 +49,11 @@ media-libs/grilo 0.3.6: A framework for easy media discovery and browsing
 media-libs/libepoxy 1.5.0: Epoxy is a library for handling OpenGL function pointer management for you
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
-net-libs/glib-networking 2.57.90: Network-related giomodules for glib
+net-libs/glib-networking 2.57.92: Network-related giomodules for glib
 net-libs/libsoup 2.63.91: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r1: GLib bindings for the Telepathy D-Bus protocol
-net-libs/webkit-gtk 2.4.11-r300 2.21.5: Open source web browser engine
+net-libs/webkit-gtk 2.4.11-r300 2.21.92: Open source web browser engine
 net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-wireless/gnome-bluetooth 3.28.1: Bluetooth graphical utilities integrated with GNOME
 sci-geosciences/geocode-glib 3.26.0: GLib geocoding library that uses the Yahoo! Place Finder service
