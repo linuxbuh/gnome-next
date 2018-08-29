@@ -27,7 +27,7 @@ gnome-base/dconf 0.29.2: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.2: Password and keyring managing daemon
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
-gnome-base/librsvg 2.44.0: Scalable Vector Graphics (SVG) rendering library
+gnome-base/librsvg 2.44.1: Scalable Vector Graphics (SVG) rendering library
 gnome-extra/cinnamon-control-center 3.8.1: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 3.8.1: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 3.8.2: Cinnamon's library for the Desktop Menu fd.o specification
@@ -62,7 +62,7 @@ sys-auth/polkit 0.114: Policy framework for controlling privileges for system-wi
 sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real and virtual OSes
 x11-libs/cairo 1.15.12: A vector graphics library with cross-device output support
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
-x11-libs/gtk+ 3.23.2: Gimp ToolKit +
+x11-libs/gtk+ 3.23.3: Gimp ToolKit +
 x11-libs/libwnck 3.24.1: A window navigation construction kit
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
