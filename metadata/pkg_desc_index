@@ -15,7 +15,7 @@ dev-libs/gmime 3.2.0: Utilities for creating and parsing messages using MIME
 dev-libs/json-glib 1.4.2: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.29.91: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.29.91: libdazzle
+dev-libs/libdazzle 3.29.92: libdazzle
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.28.0: JSON RPC GLIB
