@@ -38,7 +38,7 @@ gnome-extra/nemo 3.8.5: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/sushi 3.28.3: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp-xsl 3.28.0: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0-r1: Service to log activities and present to other apps
-media-fonts/cantarell 0.101: Default fontset for GNOME Shell
+media-fonts/cantarell 0.110: Default fontset for GNOME Shell
 media-gfx/eog 3.28.3: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.3: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.26.0: Screenshot utility for GNOME
