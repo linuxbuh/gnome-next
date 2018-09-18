@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Meta package for GNOME 3, merge this package to install
+EAPI=6
+HOMEPAGE=https://www.gnome.org/
+KEYWORDS=~amd64 ~ppc ~ppc64 ~x86
+LICENSE=metapackage
+PDEPEND=>=gnome-base/gvfs-1.38.0
+RDEPEND=>=gnome-base/gdm-3.30.0 >=gnome-base/gnome-keyring-3.28.2 >=gnome-base/gnome-session-3.30.0 >=gnome-extra/evolution-data-server-3.30.0
+SLOT=2.0
+_md5_=aad2483225b101d83dad5fabb9f08f9e
