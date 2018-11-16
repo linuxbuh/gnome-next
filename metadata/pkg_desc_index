@@ -38,7 +38,7 @@ gnome-extra/cinnamon-screensaver 3.8.2: Screensaver for Cinnamon
 gnome-extra/cinnamon-session 3.8.2: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 3.8.4: Cinnamon's settings daemon
 gnome-extra/nemo 3.8.5: A file manager for Cinnamon, forked from Nautilus
-gnome-extra/sushi 3.30.0: A quick previewer for Nautilus, the GNOME file manager
+gnome-extra/sushi 3.31.2: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp-xsl 3.30.1: XSL stylesheets for yelp
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
 media-gfx/eog 3.31.1: The Eye of GNOME image viewer
