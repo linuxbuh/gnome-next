@@ -23,7 +23,7 @@ dev-libs/template-glib 3.30.0: JSON RPC GLIB
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.30.0: Python binding to at-spi library
 dev-util/devhelp 3.30.1: An API documentation browser for GNOME
-dev-util/gtk-doc 1.28-r1: GTK+ Documentation Generator
+dev-util/gtk-doc 1.28-r2: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.28-r1: Automake files from gtk-doc
 dev-util/meld 3.19.0: A graphical diff and merge tool
 gnome-base/dconf 0.30.1: Simple low-level configuration system
