@@ -30,7 +30,7 @@ gnome-base/dconf 0.30.1: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.2-r1: Password and keyring managing daemon
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
 gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
-gnome-base/librsvg 2.44.9: Scalable Vector Graphics (SVG) rendering library
+gnome-base/librsvg 2.45.0: Scalable Vector Graphics (SVG) rendering library
 gnome-extra/cinnamon-control-center 3.8.1: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 3.8.1: A collection of libraries and utilites used by Cinnamon
 gnome-extra/cinnamon-menus 3.8.2: Cinnamon's library for the Desktop Menu fd.o specification
