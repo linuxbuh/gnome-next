@@ -26,7 +26,7 @@ dev-python/pyatspi 2.30.0: Python binding to at-spi library
 dev-util/devhelp 3.30.1: An API documentation browser for GNOME
 dev-util/gtk-doc 1.28-r2: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.28-r1: Automake files from gtk-doc
-dev-util/meld 3.19.0: A graphical diff and merge tool
+dev-util/meld 3.19.1: A graphical diff and merge tool
 gnome-base/dconf 0.30.1: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.2-r1: Password and keyring managing daemon
 gnome-base/libgnomekbd 3.26.0: Gnome keyboard configuration library
@@ -55,7 +55,6 @@ net-libs/glib-networking 2.59.1: Network-related giomodules for glib
 net-libs/libsoup 2.65.1-r1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
-net-libs/webkit-gtk 2.22.2: Open source web browser engine
 net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-wireless/gnome-bluetooth 3.28.1: Bluetooth graphical utilities integrated with GNOME
 sci-geosciences/geocode-glib 3.26.0: GLib geocoding library that uses the Yahoo! Place Finder service
