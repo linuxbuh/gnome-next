@@ -12,7 +12,7 @@ dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindi
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-libs/appstream-glib 0.7.5: Provides GObjects and helper methods to read and write AppStream metadata
 dev-libs/gdl 3.28.0: GNOME docking library
-dev-libs/gmime 3.2.0: Utilities for creating and parsing messages using MIME
+dev-libs/gmime 3.2.3: Utilities for creating and parsing messages using MIME
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.30.1: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
