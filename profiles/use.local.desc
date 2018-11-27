@@ -12,6 +12,8 @@ dev-libs/appstream-glib:stemmer - Add word stemming via dev-libs/snowball-stemme
 dev-libs/gmime:smime - Enable experimental S/MIME support
 dev-libs/libpeas:glade - Install the glade catalog
 dev-libs/libpeas:python - Build support for loading dev-lang/python plugins
+dev-libs/totem-pl-parser:archive - Enables support for accessing media files in archives transparently via app-arch/libarchive
+dev-libs/totem-pl-parser:quvi - Use media-libs/libquvi for parsing video links
 dev-util/gtk-doc:highlight - Enable source code highlighting
 dev-util/gtk-doc:vim - Enable source code highlighting through app-editors/vim
 gnome-base/gnome-keyring:ssh-agent - Use GNOME Keyring to unlock SSH keys. Recommended unless you are using ECDSA or Ed25519 keys.
