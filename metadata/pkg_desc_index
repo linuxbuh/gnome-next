@@ -1,7 +1,7 @@
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
 app-arch/gcab 1.1: Library and tool for working with Microsoft Cabinet (CAB) files
 app-crypt/gcr 3.28.0-r1: Libraries for cryptographic UIs and accessing PKCS#11 modules
-app-crypt/libsecret 0.18.6-r2: GObject library for accessing the freedesktop.org Secret Service API
+app-crypt/libsecret 0.18.7: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.31.3: A text editor for the GNOME desktop
 app-editors/gedit-plugins 3.30.1: Official plugins for gedit
 app-text/enchant 1.6.1-r1: Spellchecker wrapping library
