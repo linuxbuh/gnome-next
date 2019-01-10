@@ -3,7 +3,7 @@ app-arch/gcab 1.1: Library and tool for working with Microsoft Cabinet (CAB) fil
 app-crypt/gcr 3.28.0-r1: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.7: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.31.3: A text editor for the GNOME desktop
-app-editors/gedit-plugins 3.30.1: Official plugins for gedit
+app-editors/gedit-plugins 3.31.4: Official plugins for gedit
 app-text/enchant 1.6.1-r1: Spellchecker wrapping library
 app-text/gspell 1.8.1: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.9-r2: Spell checking widget for GTK
@@ -18,7 +18,7 @@ dev-libs/granite 5.2.1: Elementary OS library that extends Gtk+
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.30.1: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.31.1: Companion library to GObject and Gtk+
+dev-libs/libdazzle 3.31.4: Companion library to GObject and Gtk+
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.30.0: JSON RPC GLIB
