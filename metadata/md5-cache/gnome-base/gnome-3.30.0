@@ -7,4 +7,4 @@ LICENSE=metapackage
 PDEPEND=>=gnome-base/gvfs-1.38.0
 RDEPEND=>=gnome-base/gdm-3.30.0 >=gnome-base/gnome-keyring-3.28.2 >=gnome-base/gnome-session-3.30.0 >=gnome-extra/evolution-data-server-3.30.0
 SLOT=2.0
-_md5_=aad2483225b101d83dad5fabb9f08f9e
+_md5_=d4a7097d37a7814c04f9bc3d3f961cd0

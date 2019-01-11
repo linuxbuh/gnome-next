@@ -10,4 +10,4 @@ RESTRICT=test
 SLOT=0
 SRC_URI=mirror://gnome/sources/gtk-doc/1.28/gtk-doc-1.28.tar.xz
 _eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	gnome.org	5e4cc5af3f1b17bdee155bf02e8c2df4	versionator	2352c3fc97241f6a02042773c8287748
-_md5_=c90a7617bcf2c41de5bfacec9b8abaa0
+_md5_=110cbc57b2235770273b91f971008dd3

@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND=>=x11-libs/gtk+-2:2 >=x11-libs/gtk+-3.20:3 >=x11-libs/gdk-pixbuf-2:2 x11-themes/gtk-engines-murrine
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=400a866e1eb0ec675083d4a7e66d31c8
+_md5_=2f5bec991ef48cdcf4296593d7756fba

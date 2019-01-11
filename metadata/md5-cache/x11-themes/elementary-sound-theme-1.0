@@ -8,4 +8,4 @@ LICENSE=Free
 SLOT=0
 SRC_URI=https://github.com/elementary/sound-theme/archive/1.0.tar.gz -> elementary-sound-theme-1.0.tar.gz
 _eclasses_=meson	2780db7405ab6249571d07667ab97ba1	multilib	b2f01ad412baf81650c23fcf0975fa33	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	python-utils-r1	12114a2a9aab35b93efc037a196b3234	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
-_md5_=0dd3f1e1848f656199e40633df828f84
+_md5_=7940aba3e080a1d28858f46b025d92e5

@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=gnome-extra/gnome-shell-extensions >=gnome-base/gnome-shell-3.10
 SLOT=0
 _eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=4a600f91631c6bccfc677be328dce0ef
+_md5_=ca240660eebf2e4eb082cde752a55e92
