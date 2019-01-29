@@ -6,8 +6,6 @@ app-editors/gedit-plugins:charmap - Insert special characters just by clicking o
 app-editors/gedit-plugins:git - Shows document changes related to git's HEAD
 app-editors/gedit-plugins:terminal - Embed a terminal in the bottom pane
 app-editors/gedit-plugins:zeitgeist - Build the plugin to inject events to zeitgeist
-app-text/enchant:aspell - Adds support for app-text/aspell spell checker
-app-text/enchant:hunspell - Adds support for app-text/hunspell spell checker
 dev-libs/appstream-glib:stemmer - Add word stemming via dev-libs/snowball-stemmer.
 dev-libs/gmime:smime - Enable experimental S/MIME support
 dev-libs/libpeas:glade - Install the glade catalog
