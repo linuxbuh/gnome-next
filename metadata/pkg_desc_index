@@ -1,11 +1,10 @@
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
-app-arch/gcab 1.1: Library and tool for working with Microsoft Cabinet (CAB) files
 app-crypt/gcr 3.28.1: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.7: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.31.3: A text editor for the GNOME desktop
 app-editors/gedit-plugins 3.31.4: Official plugins for gedit
 app-text/enchant 1.6.1-r1: Spellchecker wrapping library
-app-text/gtkspell 3.0.9-r2: Spell checking widget for GTK
+app-text/gtkspell 3.0.9-r3: Spell checking widget for GTK
 app-text/yelp-tools 3.28.0: Collection of tools for building and converting documentation
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
