@@ -3,7 +3,6 @@ app-crypt/gcr 3.28.1: Libraries for cryptographic UIs and accessing PKCS#11 modu
 app-crypt/libsecret 0.18.7: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.31.3-r1: A text editor for the GNOME desktop
 app-editors/gedit-plugins 3.31.4: Official plugins for gedit
-app-text/gtkspell 3.0.9-r3: Spell checking widget for GTK
 app-text/yelp-tools 3.28.0: Collection of tools for building and converting documentation
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
