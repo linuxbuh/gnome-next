@@ -53,7 +53,6 @@ net-libs/glib-networking 2.59.2: Network-related giomodules for glib
 net-libs/libsoup 2.65.1-r1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
-net-misc/modemmanager 1.6.8-r2: Modem and mobile broadband management libraries
 net-wireless/gnome-bluetooth 3.28.1: Bluetooth graphical utilities integrated with GNOME
 pantheon-base/applications-menu 2.4.0 2.4.1: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/cerbere 0.2.4: A simple service to relaunch pantheon applications
