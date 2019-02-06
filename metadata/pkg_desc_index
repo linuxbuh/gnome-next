@@ -1,9 +1,9 @@
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
 app-crypt/gcr 3.28.1: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.7: GObject library for accessing the freedesktop.org Secret Service API
-app-editors/gedit 3.31.3-r1: A text editor for the GNOME desktop
-app-editors/gedit-plugins 3.31.4: Official plugins for gedit
-app-text/yelp-tools 3.28.0: Collection of tools for building and converting documentation
+app-editors/gedit 3.31.90: A text editor for the GNOME desktop
+app-editors/gedit-plugins 3.31.90: Official plugins for gedit
+app-text/yelp-tools 3.31.90: Collection of tools for building and converting documentation
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-libs/appstream 0.10.6-r1: Cross-distro effort for providing metadata for software in the Linux ecosystem
@@ -14,7 +14,7 @@ dev-libs/granite 5.2.1: Elementary OS library that extends Gtk+
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.30.1: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.31.4: Companion library to GObject and Gtk+
+dev-libs/libdazzle 3.31.90: Companion library to GObject and Gtk+
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.30.0: JSON RPC GLIB
@@ -25,9 +25,9 @@ dev-util/devhelp 3.30.1: An API documentation browser for GNOME
 dev-util/glade 3.22.0: A user interface designer for GTK+ and GNOME
 dev-util/gtk-doc 1.28-r2: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.28-r1: Automake files from gtk-doc
-gnome-base/dconf 0.31.1: Simple low-level configuration system
+gnome-base/dconf 0.31.2: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.2-r1: Password and keyring managing daemon
-gnome-base/libgtop 2.38.0: A library that provides top functionality to applications
+gnome-base/libgtop 2.39.90: A library that provides top functionality to applications
 gnome-base/librsvg 2.45.4: Scalable Vector Graphics (SVG) rendering library
 gnome-extra/cinnamon-control-center 3.8.1: Cinnamons's main interface to configure various aspects of the desktop
 gnome-extra/cinnamon-desktop 3.8.1: A collection of libraries and utilites used by Cinnamon
@@ -37,10 +37,10 @@ gnome-extra/cinnamon-session 3.8.2: Cinnamon session manager
 gnome-extra/cinnamon-settings-daemon 3.8.4: Cinnamon's settings daemon
 gnome-extra/nemo 3.8.5: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/sushi 3.31.2: A quick previewer for Nautilus, the GNOME file manager
-gnome-extra/yelp-xsl 3.30.1: XSL stylesheets for yelp
+gnome-extra/yelp-xsl 3.31.90: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.1: Service to log activities and present to other apps
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
-media-gfx/eog 3.31.3: The Eye of GNOME image viewer
+media-gfx/eog 3.31.90: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.3: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.30.0: Screenshot utility for GNOME
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
@@ -49,7 +49,7 @@ media-libs/grilo 0.3.7: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-sound/gnome-music 3.30.2: Music management for Gnome
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
-net-libs/glib-networking 2.59.2: Network-related giomodules for glib
+net-libs/glib-networking 2.59.90: Network-related giomodules for glib
 net-libs/libsoup 2.65.1-r1: An HTTP library implementation in C
 net-libs/rest 0.8.1: Helper library for RESTful services
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
