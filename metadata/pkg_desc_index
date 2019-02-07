@@ -29,13 +29,6 @@ gnome-base/dconf 0.31.2: Simple low-level configuration system
 gnome-base/gnome-keyring 3.28.2-r1: Password and keyring managing daemon
 gnome-base/libgtop 2.39.90: A library that provides top functionality to applications
 gnome-base/librsvg 2.45.4: Scalable Vector Graphics (SVG) rendering library
-gnome-extra/cinnamon-control-center 3.8.1: Cinnamons's main interface to configure various aspects of the desktop
-gnome-extra/cinnamon-desktop 3.8.1: A collection of libraries and utilites used by Cinnamon
-gnome-extra/cinnamon-menus 3.8.2: Cinnamon's library for the Desktop Menu fd.o specification
-gnome-extra/cinnamon-screensaver 3.8.2: Screensaver for Cinnamon
-gnome-extra/cinnamon-session 3.8.2: Cinnamon session manager
-gnome-extra/cinnamon-settings-daemon 3.8.4: Cinnamon's settings daemon
-gnome-extra/nemo 3.8.5: A file manager for Cinnamon, forked from Nautilus
 gnome-extra/sushi 3.31.2: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp-xsl 3.31.90: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.1: Service to log activities and present to other apps
@@ -44,6 +37,7 @@ media-gfx/eog 3.31.90: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.3: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.30.0: Screenshot utility for GNOME
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
+media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/grilo 0.3.7: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
@@ -120,5 +114,4 @@ x11-themes/elementary-sound-theme 1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 5.2.0: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 5.3: Wallpapers for elementary OS
 x11-themes/gnome-themes-extra 3.28: Standard Themes for GNOME Applications
-x11-wm/muffin 3.8.2: Compositing window manager forked from Mutter for use with Cinnamon
 xfce-extra/tumbler 0.2.1: Tumbler is a D-Bus service for applications to request thumbnails
