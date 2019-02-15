@@ -41,6 +41,7 @@ media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/grilo 0.3.7: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
+media-sound/gnome-music 3.30.2: Music management for Gnome
 media-video/cheese 3.28.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.59.90: Network-related giomodules for glib
 net-libs/libsoup 2.65.1-r1: An HTTP library implementation in C
