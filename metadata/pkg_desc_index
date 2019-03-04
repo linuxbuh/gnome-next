@@ -1,6 +1,5 @@
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
 app-crypt/gcr 3.28.1: Libraries for cryptographic UIs and accessing PKCS#11 modules
-app-crypt/libsecret 0.18.7: GObject library for accessing the freedesktop.org Secret Service API
 app-editors/gedit 3.31.90: A text editor for the GNOME desktop
 app-editors/gedit-plugins 3.31.90: Official plugins for gedit
 app-text/yelp-tools 3.31.90: Collection of tools for building and converting documentation
@@ -26,7 +25,7 @@ dev-util/glade 3.22.0: A user interface designer for GTK+ and GNOME
 dev-util/gtk-doc 1.28-r2: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.28-r1: Automake files from gtk-doc
 gnome-base/dconf 0.31.2: Simple low-level configuration system
-gnome-base/gnome-keyring 3.31.90: Password and keyring managing daemon
+gnome-base/gnome-keyring 3.31.91: Password and keyring managing daemon
 gnome-base/libgtop 2.39.91: A library that provides top functionality to applications
 gnome-base/librsvg 2.45.5: Scalable Vector Graphics (SVG) rendering library
 gnome-extra/sushi 3.31.2: A quick previewer for Nautilus, the GNOME file manager
