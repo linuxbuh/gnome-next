@@ -42,7 +42,7 @@ media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in 
 media-libs/grilo 0.3.7: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
-net-libs/glib-networking 2.60.0.1: Network-related giomodules for glib
+net-libs/glib-networking 2.60.1: Network-related giomodules for glib
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
 net-wireless/gnome-bluetooth 3.32.1: Bluetooth graphical utilities integrated with GNOME
 pantheon-base/applications-menu 2.4.0 2.4.1: A lightweight and stylish app launcher for Pantheon and other DEs
