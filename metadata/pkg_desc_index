@@ -36,6 +36,7 @@ media-fonts/cantarell 0.111: Default fontset for GNOME Shell
 media-gfx/eog 3.32.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.3: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.32.0: Screenshot utility for GNOME
+media-gfx/gthumb 3.7.2: Image viewer and browser for Gnome
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
 media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
@@ -43,7 +44,7 @@ media-libs/cogl 1.22.4: A library for using 3D graphics hardware to draw pretty 
 media-libs/grilo 0.3.7: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
-net-libs/glib-networking 2.60.1: Network-related giomodules for glib
+net-libs/glib-networking 2.60.2: Network-related giomodules for glib
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
 net-wireless/gnome-bluetooth 3.32.1: Bluetooth graphical utilities integrated with GNOME
 pantheon-base/applications-menu 2.4.0 2.4.1: A lightweight and stylish app launcher for Pantheon and other DEs
@@ -101,7 +102,7 @@ sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real
 x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/cairo 1.15.12: A vector graphics library with cross-device output support
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
-x11-libs/libwnck 3.31.4: A window navigation construction kit
+x11-libs/libwnck 3.32.0: A window navigation construction kit
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-misc/plank 0.11.4: The dock for elementary Pantheon, stupidly simple
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
