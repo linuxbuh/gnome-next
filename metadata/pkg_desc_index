@@ -39,6 +39,7 @@ media-libs/clutter 1.26.2: Clutter is a library for creating graphical user inte
 media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/cogl 1.22.4: A library for using 3D graphics hardware to draw pretty pictures
+media-libs/graphene 1.9.2: A thin layer of types for graphic libraries
 media-libs/grilo 0.3.7: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
