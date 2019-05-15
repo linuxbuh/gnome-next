@@ -1,6 +1,6 @@
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
 app-crypt/gcr 3.28.1: Libraries for cryptographic UIs and accessing PKCS#11 modules
-app-editors/gedit-plugins 3.32.0: Official plugins for gedit
+app-editors/gedit-plugins 3.32.2: Official plugins for gedit
 app-text/yelp-tools 3.32.0: Collection of tools for building and converting documentation
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
