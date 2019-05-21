@@ -33,7 +33,7 @@ gnome-extra/sushi 3.32.0: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp-xsl 3.32.1: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.1: Service to log activities and present to other apps
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
-media-gfx/eog 3.32.1: The Eye of GNOME image viewer
+media-gfx/eog 3.33.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.3: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.32.0: Screenshot utility for GNOME
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
