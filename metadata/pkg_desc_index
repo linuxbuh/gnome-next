@@ -20,7 +20,7 @@ dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.32.0: JSON RPC GLIB
 dev-libs/totem-pl-parser 3.26.3: Playlist parsing library
 dev-libs/wayland 1.14.0: Wayland protocol libraries
-dev-python/pyatspi 2.33.1: Python binding to at-spi library
+dev-python/pyatspi 2.33.2: Python binding to at-spi library
 dev-util/devhelp 3.32.0: An API documentation browser for GNOME
 dev-util/glade 3.22.0: A user interface designer for GTK+ and GNOME
 dev-util/gtk-doc 1.30: GTK+ Documentation Generator
