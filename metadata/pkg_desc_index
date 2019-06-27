@@ -10,10 +10,10 @@ dev-libs/gdl 3.28.0: GNOME docking library
 dev-libs/gmime 3.2.3: Utilities for creating and parsing messages using MIME
 dev-libs/granite 5.2.1: Elementary OS library that extends Gtk+
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
-dev-libs/jsonrpc-glib 3.32.0: JSON RPC GLIB
+dev-libs/jsonrpc-glib 3.33.3: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.33.1: Companion library to GObject and Gtk+
-dev-libs/libgdata 0.17.9-r2: GLib-based library for accessing online service APIs using the GData protocol
+dev-libs/libdazzle 3.33.3: Companion library to GObject and Gtk+
+dev-libs/libgdata 0.17.10: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libical 3.0.5-r1: An implementation of basic iCAL protocols
 dev-libs/libpeas 1.22.0: A GObject plugins library
@@ -21,27 +21,30 @@ dev-libs/template-glib 3.32.0: JSON RPC GLIB
 dev-libs/totem-pl-parser 3.26.3: Playlist parsing library
 dev-libs/wayland 1.14.0: Wayland protocol libraries
 dev-python/pyatspi 2.33.2: Python binding to at-spi library
+dev-python/pygobject 3.32.2: Python bindings for GObject Introspection
 dev-util/devhelp 3.32.0: An API documentation browser for GNOME
 dev-util/glade 3.22.0: A user interface designer for GTK+ and GNOME
 dev-util/gtk-doc 1.30: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.30: Automake files from gtk-doc
+dev-util/sysprof 3.33.3: System-wide Linux Profiler
 gnome-base/dconf 0.32.0: Simple low-level configuration system
 gnome-base/gnome-keyring 3.31.91: Password and keyring managing daemon
 gnome-base/gnome-menus 3.32.0: Library for the Desktop Menu fd.o specification
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.45.6: Scalable Vector Graphics (SVG) rendering library
-gnome-extra/sushi 3.32.0: A quick previewer for Nautilus, the GNOME file manager
+gnome-extra/sushi 3.32.1: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp-xsl 3.32.1: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.1: Service to log activities and present to other apps
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
 media-gfx/eog 3.33.2: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.3: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.32.0: Screenshot utility for GNOME
+media-gfx/gthumb 3.8.0: Image viewer and browser for Gnome
 media-libs/clutter 1.26.2: Clutter is a library for creating graphical user interfaces
 media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/cogl 1.22.4: A library for using 3D graphics hardware to draw pretty pictures
-media-libs/graphene 1.9.2: A thin layer of types for graphic libraries
+media-libs/graphene 1.9.4: A thin layer of types for graphic libraries
 media-libs/grilo 0.3.7: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
