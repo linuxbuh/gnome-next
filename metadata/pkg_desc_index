@@ -105,6 +105,7 @@ sys-libs/libosinfo 1.0.0-r2: GObject library for managing information about real
 x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/cairo 1.15.12: A vector graphics library with cross-device output support
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
+x11-libs/gtk+ 2.24.32-r666: Gimp ToolKit +
 x11-libs/libwnck 3.32.0: A window navigation construction kit
 x11-misc/colord 1.3.4-r1: System service to accurately color manage input and output devices
 x11-misc/plank 0.11.4: The dock for elementary Pantheon, stupidly simple
