@@ -35,7 +35,7 @@ gnome-extra/sushi 3.32.1: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp-xsl 3.32.1: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.1: Service to log activities and present to other apps
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
-media-gfx/eog 3.33.2: The Eye of GNOME image viewer
+media-gfx/eog 3.33.3: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.3: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.32.0: Screenshot utility for GNOME
 media-gfx/gthumb 3.8.0: Image viewer and browser for Gnome
@@ -44,8 +44,9 @@ media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/cogl 1.22.4: A library for using 3D graphics hardware to draw pretty pictures
 media-libs/graphene 1.9.4: A thin layer of types for graphic libraries
-media-libs/grilo 0.3.7: A framework for easy media discovery and browsing
+media-libs/grilo 0.3.8: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
+media-plugins/grilo-plugins 0.3.9: A collection of plugins for the Grilo framework
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
 net-libs/glib-networking 2.61.1: Network-related giomodules for glib
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
