@@ -7,6 +7,9 @@ app-editors/gedit-plugins:git - Shows document changes related to git's HEAD
 app-editors/gedit-plugins:terminal - Embed a terminal in the bottom pane
 app-editors/gedit-plugins:zeitgeist - Build the plugin to inject events to zeitgeist
 dev-libs/appstream-glib:stemmer - Add word stemming via dev-libs/snowball-stemmer.
+dev-libs/folks:telepathy - Load contacts from the Telepathy framework
+dev-libs/folks:tracker - Load contacts from app-misc/tracker index
+dev-libs/folks:utils - Build the folks-inspect utility
 dev-libs/gmime:smime - Enable experimental S/MIME support
 dev-libs/libpeas:glade - Install the glade catalog
 dev-libs/libpeas:python - Build support for loading dev-lang/python plugins
