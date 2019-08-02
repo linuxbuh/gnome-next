@@ -13,7 +13,7 @@ dev-libs/granite 5.2.1: Elementary OS library that extends Gtk+
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.33.3: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.33.3: Companion library to GObject and Gtk+
+dev-libs/libdazzle 3.33.4: Companion library to GObject and Gtk+
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libical 3.0.5-r2: An implementation of basic iCAL protocols
 dev-libs/libpeas 1.22.0: A GObject plugins library
