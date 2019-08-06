@@ -16,11 +16,11 @@ dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export
 dev-libs/libdazzle 3.33.4: Companion library to GObject and Gtk+
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libical 3.0.5-r2: An implementation of basic iCAL protocols
-dev-libs/libpeas 1.22.0: A GObject plugins library
+dev-libs/libpeas 1.23.90: A GObject plugins library
 dev-libs/template-glib 3.32.0: JSON RPC GLIB
 dev-libs/totem-pl-parser 3.26.3: Playlist parsing library
 dev-libs/wayland 1.14.0: Wayland protocol libraries
-dev-python/pyatspi 2.33.2: Python binding to at-spi library
+dev-python/pyatspi 2.33.90: Python binding to at-spi library
 dev-python/pygobject 3.32.2: Python bindings for GObject Introspection
 dev-util/devhelp 3.32.0: An API documentation browser for GNOME
 dev-util/glade 3.22.0: A user interface designer for GTK+ and GNOME
@@ -49,7 +49,7 @@ media-libs/grilo 0.3.9: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-plugins/grilo-plugins 0.3.9: A collection of plugins for the Grilo framework
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
-net-libs/glib-networking 2.61.2: Network-related giomodules for glib
+net-libs/glib-networking 2.61.90: Network-related giomodules for glib
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
 net-wireless/gnome-bluetooth 3.33.90: Bluetooth graphical utilities integrated with GNOME
 pantheon-base/applications-menu 2.4.0 2.4.1: A lightweight and stylish app launcher for Pantheon and other DEs
