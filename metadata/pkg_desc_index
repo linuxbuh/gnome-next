@@ -16,11 +16,11 @@ dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export
 dev-libs/libdazzle 3.33.4: Companion library to GObject and Gtk+
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libical 3.0.5-r2: An implementation of basic iCAL protocols
-dev-libs/libpeas 1.23.90: A GObject plugins library
+dev-libs/libpeas 1.22.0: A GObject plugins library
 dev-libs/template-glib 3.32.0: JSON RPC GLIB
 dev-libs/totem-pl-parser 3.26.3: Playlist parsing library
 dev-libs/wayland 1.14.0: Wayland protocol libraries
-dev-python/pyatspi 2.33.90: Python binding to at-spi library
+dev-python/pyatspi 2.33.2: Python binding to at-spi library
 dev-python/pygobject 3.32.2: Python bindings for GObject Introspection
 dev-util/devhelp 3.32.0: An API documentation browser for GNOME
 dev-util/glade 3.22.0: A user interface designer for GTK+ and GNOME
