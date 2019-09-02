@@ -25,11 +25,11 @@ RDEPEND="
 	>=dev-libs/libxml2-2.9.1-r4:2[${MULTILIB_USEDEP}]
 	>=dev-libs/libcroco-0.6.8-r1[${MULTILIB_USEDEP}]
 	>=x11-libs/gdk-pixbuf-2.30.7:2[introspection?,${MULTILIB_USEDEP}]
-	>=dev-lang/rust-1.31.1[${MULTILIB_USEDEP}]
 	introspection? ( >=dev-libs/gobject-introspection-0.10.8:= )
 	tools? ( >=x11-libs/gtk+-3.10.0:3 )
 "
 DEPEND="${RDEPEND}
+	>=dev-lang/rust-1.31.1[${MULTILIB_USEDEP}]
 	dev-libs/gobject-introspection-common
 	dev-libs/vala-common
 	>=dev-util/gtk-doc-am-1.13
@@ -80,7 +80,6 @@ multilib_src_configure() {
 		--disable-static \
 		--disable-tools \
 		$(multilib_native_use_enable introspection) \
-		$(multilib_native_use_with tools gtk3) \
 		$(multilib_native_use_enable vala) \
 		--enable-pixbuf-loader \
 		"${myconf[@]}"
