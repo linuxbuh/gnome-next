@@ -60,7 +60,7 @@ dev-util/gtk-doc-am 1.30: Automake files from gtk-doc
 dev-util/meson 0.47.2: Open source build system
 dev-util/sysprof 3.33.4: System-wide Linux Profiler
 dev-vcs/gitg 3.32.1: git repository viewer for GNOME
-gnome-base/dconf 0.33.1: Simple low-level configuration system
+gnome-base/dconf 0.33.1 0.33.2: Simple low-level configuration system
 gnome-base/dconf-editor 3.33.4: Graphical tool for editing the dconf configuration database
 gnome-base/gdm 3.33.4: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome 3.32.0: Meta package for GNOME 3, merge this package to install
