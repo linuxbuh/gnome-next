@@ -209,7 +209,7 @@ x11-themes/elementary-icons-theme 4.3.1 5.0 5.0.2: An original set of vector ico
 x11-themes/elementary-sound-theme 1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 5.2.0 5.2.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 5.3: Wallpapers for elementary OS
-x11-themes/gnome-backgrounds 3.32.0: A set of backgrounds packaged with the GNOME desktop
+x11-themes/gnome-backgrounds 3.34.0: A set of backgrounds packaged with the GNOME desktop
 x11-themes/gnome-themes-extra 3.28: Standard Themes for GNOME Applications
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
 x11-themes/plano-theme 9999: plano theme for GNOME, Xfce and more.
