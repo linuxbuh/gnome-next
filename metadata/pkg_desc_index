@@ -101,7 +101,7 @@ gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shel
 mail-client/evolution 3.33.90: Integrated mail, addressbook and calendaring functionality
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
 media-gfx/eog 3.33.3: The Eye of GNOME image viewer
-media-gfx/eog-plugins 3.26.3: Eye of GNOME plugins
+media-gfx/eog-plugins 3.26.4: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.33.90: Screenshot utility for GNOME
 media-gfx/gthumb 3.8.0: Image viewer and browser for Gnome
 media-gfx/inkscape 0.92.4: SVG based generic vector-drawing program
