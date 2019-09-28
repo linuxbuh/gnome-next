@@ -118,7 +118,7 @@ media-plugins/grilo-plugins 0.3.9: A collection of plugins for the Grilo framewo
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
 media-video/pipewire 0.2.5: Multimedia processing graphs
 net-dns/libidn 1.33-r3: Internationalized Domain Names (IDN) implementation
-net-irc/polari 3.32.1: An IRC client for Gnome
+net-irc/polari 3.34.0: An IRC client for Gnome
 net-libs/glib-networking 2.61.90: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.32.0: GNOME framework for accessing online accounts
 net-libs/libpsl 0.20.1: C library to handle the Public Suffix List
