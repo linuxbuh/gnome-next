@@ -63,6 +63,7 @@ gnome-base/gvfs 1.41.90: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r3: Compatibility library for accessing secrets
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.45.90 2.45.92: Scalable Vector Graphics (SVG) rendering library
+gnome-base/nautilus 3.34.0: Default file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 10.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.34.0: Evolution groupware backend
@@ -74,10 +75,10 @@ gnome-extra/gnome-power-manager 3.32.0: GNOME power management service
 gnome-extra/gnome-shell-extensions 3.34.0: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.32.1: The Gnome System Monitor
 gnome-extra/gnome-todo 3.28.1: Personal task manager
-gnome-extra/gnome-tweaks 3.32.0: Tool to customize GNOME 3 options
+gnome-extra/gnome-tweaks 3.34.0: Customize advanced GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.8.22: GNOME applet for NetworkManager
-gnome-extra/sushi 3.33.90: A quick previewer for Nautilus, the GNOME file manager
+gnome-extra/sushi 3.34.0: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp 3.32.2: Help browser for GNOME
 gnome-extra/yelp-xsl 3.33.4: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.1: Service to log activities and present to other apps
