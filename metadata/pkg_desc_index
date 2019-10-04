@@ -10,7 +10,7 @@ app-editors/gedit-plugins 3.32.2: Official plugins for gedit
 app-misc/tracker 2.2.2: A tagging metadata database, search tool and indexer
 app-misc/tracker-miners 2.2.2: Collection of data extractors for Tracker/Nepomuk
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
-app-text/evince 3.32.0: Simple document viewer for GNOME
+app-text/evince 3.34.0: Simple document viewer for GNOME
 app-text/gspell 1.8.1-r1: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.10: Spell checking widget for GTK
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
