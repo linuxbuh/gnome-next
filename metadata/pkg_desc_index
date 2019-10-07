@@ -49,7 +49,7 @@ dev-util/sysprof 3.33.4: System-wide Linux Profiler
 dev-vcs/gitg 3.32.1: git repository viewer for GNOME
 gnome-base/dconf 0.33.1 0.33.2: Simple low-level configuration system
 gnome-base/dconf-editor 3.33.4: Graphical tool for editing the dconf configuration database
-gnome-base/gdm 3.33.4: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/gdm 3.34.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome 3.32.0: Meta package for GNOME 3, merge this package to install
 gnome-base/gnome-control-center 3.34.0: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.33.90: Libraries for the gnome desktop that are not part of the UI
@@ -63,7 +63,7 @@ gnome-base/gvfs 1.41.90: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r3: Compatibility library for accessing secrets
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.45.90 2.45.92: Scalable Vector Graphics (SVG) rendering library
-gnome-base/nautilus 3.34.0: Default file manager for the GNOME desktop
+gnome-base/nautilus 3.34.1: Default file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 10.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.34.0: Evolution groupware backend
