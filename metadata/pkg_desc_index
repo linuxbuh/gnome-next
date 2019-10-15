@@ -2,7 +2,7 @@ app-accessibility/at-spi2-atk 2.33.2: Gtk module for bridging AT-SPI to Atk
 app-accessibility/at-spi2-core 2.33.2: D-Bus accessibility specifications and registration daemon
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
 app-arch/gnome-autoar 0.2.3: Automatic archives creating and extracting library
-app-crypt/gcr 3.28.1: Libraries for cryptographic UIs and accessing PKCS#11 modules
+app-crypt/gcr 3.34.0: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.8: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
 app-editors/gedit 3.32.2-r1: A text editor for the GNOME desktop
