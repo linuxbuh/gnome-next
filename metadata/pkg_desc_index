@@ -62,7 +62,7 @@ gnome-base/gsettings-desktop-schemas 3.33.1: Collection of GSettings schemas for
 gnome-base/gvfs 1.42.1: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r3: Compatibility library for accessing secrets
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
-gnome-base/librsvg 2.45.92 2.46.3: Scalable Vector Graphics (SVG) rendering library
+gnome-base/librsvg 2.45.92 2.47.1: Scalable Vector Graphics (SVG) rendering library
 gnome-base/nautilus 3.34.1: Default file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 10.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
