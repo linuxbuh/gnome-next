@@ -37,7 +37,7 @@ dev-libs/libical 3.0.6-r1: An implementation of basic iCAL protocols
 dev-libs/libpeas 1.22.0 1.24.0: A GObject plugins library
 dev-libs/libsigc++ 2.99.11: Typesafe callback system for standard C++
 dev-libs/template-glib 3.32.0: JSON RPC GLIB
-dev-libs/totem-pl-parser 3.26.3: Playlist parsing library
+dev-libs/totem-pl-parser 3.26.4: Playlist parsing library
 dev-python/pyatspi 2.33.2: Python binding to at-spi library
 dev-python/pygobject 3.32.2: Python bindings for GObject Introspection
 dev-util/devhelp 3.32.0: An API documentation browser for GNOME
