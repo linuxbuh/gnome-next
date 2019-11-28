@@ -101,7 +101,7 @@ media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-plugins/grilo-plugins 0.3.9: A collection of plugins for the Grilo framework
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
 net-irc/polari 3.34.0: An IRC client for Gnome
-net-libs/glib-networking 2.61.90: Network-related giomodules for glib
+net-libs/glib-networking 2.63.2: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.32.0: GNOME framework for accessing online accounts
 net-libs/libsoup 2.67.3: An HTTP library implementation in C
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
