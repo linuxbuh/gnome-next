@@ -1,7 +1,7 @@
 app-accessibility/at-spi2-atk 2.33.2: Gtk module for bridging AT-SPI to Atk
 app-accessibility/at-spi2-core 2.33.2: D-Bus accessibility specifications and registration daemon
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
-app-arch/gnome-autoar 0.2.3: Automatic archives creating and extracting library
+app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
 app-crypt/gcr 3.34.0: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.8: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
@@ -28,7 +28,7 @@ dev-libs/gobject-introspection-common 1.60.2: Build infrastructure for GObject I
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.33.3: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
-dev-libs/libdazzle 3.34.1: Experimental new features for GTK+ and GLib
+dev-libs/libdazzle 3.35.2: Experimental new features for GTK+ and GLib
 dev-libs/libgdata 0.17.10: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libgusb 0.2.11-r1: GObject wrapper for libusb
@@ -45,7 +45,7 @@ dev-util/gdbus-codegen 2.63.2: GDBus code and documentation generator
 dev-util/glib-utils 2.63.2: Build utilities for GLib using projects
 dev-util/gtk-doc 1.30: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.30: Automake files from gtk-doc
-dev-util/sysprof 3.33.4: System-wide Linux Profiler
+dev-util/sysprof 3.35.2: System-wide Linux Profiler
 dev-vcs/gitg 3.32.1: git repository viewer for GNOME
 gnome-base/dconf 0.34.0: Simple low-level configuration system
 gnome-base/dconf-editor 3.33.4: Graphical tool for editing the dconf configuration database
