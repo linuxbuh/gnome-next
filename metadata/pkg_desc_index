@@ -21,7 +21,7 @@ dev-libs/atk 2.33.3: GTK+ & GNOME Accessibility Toolkit
 dev-libs/folks 0.13.1-r1: Library for aggregating people from multiple sources
 dev-libs/gdl 3.28.0: GNOME docking library
 dev-libs/gjs 1.63.2: Javascript bindings for GNOME
-dev-libs/glib 2.63.2: The GLib library of C routines
+dev-libs/glib 2.63.3: The GLib library of C routines
 dev-libs/gmime 3.2.5: Utilities for creating and parsing messages using MIME
 dev-libs/gobject-introspection 1.63.1: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.63.1: Build infrastructure for GObject Introspection
@@ -41,8 +41,8 @@ dev-libs/totem-pl-parser 3.26.4: Playlist parsing library
 dev-python/pyatspi 2.33.2: Python binding to at-spi library
 dev-python/pygobject 3.32.2: Python bindings for GObject Introspection
 dev-util/devhelp 3.32.0: An API documentation browser for GNOME
-dev-util/gdbus-codegen 2.63.2: GDBus code and documentation generator
-dev-util/glib-utils 2.63.2: Build utilities for GLib using projects
+dev-util/gdbus-codegen 2.63.3: GDBus code and documentation generator
+dev-util/glib-utils 2.63.3: Build utilities for GLib using projects
 dev-util/gtk-doc 1.30: GTK+ Documentation Generator
 dev-util/gtk-doc-am 1.30: Automake files from gtk-doc
 dev-util/sysprof 3.35.2: System-wide Linux Profiler
