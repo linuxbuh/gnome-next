@@ -82,7 +82,7 @@ gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tr
 gnome-extra/nm-applet 1.8.22: GNOME applet for NetworkManager
 gnome-extra/sushi 3.34.0: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp 3.32.2: Help browser for GNOME
-gnome-extra/yelp-xsl 3.33.4: XSL stylesheets for yelp
+gnome-extra/yelp-xsl 3.34.2: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.1: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
 gui-libs/libhandy 0.0.11: Library with GTK widgets for mobile phones
