@@ -5,8 +5,8 @@ app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
 app-crypt/gcr 3.34.0: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.8: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
-app-editors/gedit 3.32.2-r1: A text editor for the GNOME desktop
-app-editors/gedit-plugins 3.32.2: Official plugins for gedit
+app-editors/gedit 3.35.1: A text editor for the GNOME desktop
+app-editors/gedit-plugins 3.35.1: Official plugins for gedit
 app-misc/tracker 2.2.2: A tagging metadata database, search tool and indexer
 app-misc/tracker-miners 2.2.2: Collection of data extractors for Tracker/Nepomuk
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
@@ -16,7 +16,6 @@ app-text/gtkspell 3.0.10: Spell checking widget for GTK
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/rust-std-bin 1.34.2 1.37.0: std libraries for rust
-dev-libs/amtk 5.0.0: AMTK
 dev-libs/atk 2.33.3: GTK+ & GNOME Accessibility Toolkit
 dev-libs/folks 0.13.1-r1: Library for aggregating people from multiple sources
 dev-libs/gdl 3.28.0: GNOME docking library
@@ -83,9 +82,10 @@ gnome-extra/nm-applet 1.8.22: GNOME applet for NetworkManager
 gnome-extra/sushi 3.34.0: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp 3.32.2: Help browser for GNOME
 gnome-extra/yelp-xsl 3.34.2: XSL stylesheets for yelp
-gnome-extra/zeitgeist 1.0.1: Service to log activities and present to other apps
+gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
 gui-libs/libhandy 0.0.11: Library with GTK widgets for mobile phones
+gui-libs/tepl 4.3.1: GtkSourceView-based text editors and IDE helper library
 mail-client/evolution 3.34.2: Integrated mail, addressbook and calendaring functionality
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
 media-gfx/eog 3.33.3: The Eye of GNOME image viewer
@@ -168,7 +168,7 @@ sys-apps/gnome-disk-utility 3.35.2: Disk Utility for GNOME using udisks
 x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/gtk+ 2.24.32-r666 3.24.13: Gimp ToolKit +
-x11-libs/gtksourceview 3.24.11 4.3.1: A text widget implementing syntax highlighting and other features
+x11-libs/gtksourceview 3.24.11 4.4.0: A text widget implementing syntax highlighting and other features
 x11-libs/libwnck 3.32.0: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
 x11-libs/vte 0.59.0 0.59.0-r1: Library providing a virtual terminal emulator widget
