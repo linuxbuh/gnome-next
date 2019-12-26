@@ -22,7 +22,7 @@ dev-libs/gdl 3.28.0: GNOME docking library
 dev-libs/gjs 1.63.2: Javascript bindings for GNOME
 dev-libs/glib 2.63.3: The GLib library of C routines
 dev-libs/gmime 3.2.5: Utilities for creating and parsing messages using MIME
-dev-libs/gobject-introspection 1.63.1: Introspection system for GObject-based libraries
+dev-libs/gobject-introspection 1.63.1-r1: Introspection system for GObject-based libraries
 dev-libs/gobject-introspection-common 1.63.1: Build infrastructure for GObject Introspection
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.33.3: JSON RPC GLIB
