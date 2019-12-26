@@ -64,7 +64,7 @@ gnome-base/librsvg 2.45.92 2.47.1: Scalable Vector Graphics (SVG) rendering libr
 gnome-base/nautilus 3.35.2: Default file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 10.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/evolution-data-server 3.34.2: Evolution groupware backend
+gnome-extra/evolution-data-server 3.35.2: Evolution groupware backend
 gnome-extra/gnome-boxes 3.35.2: Simple GNOME 3 application to access remote or virtual systems
 gnome-extra/gnome-calculator 3.35.2: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.35.2: Manage your online calendars with simple and modern interface
@@ -84,7 +84,7 @@ gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
 gui-libs/libhandy 0.0.11: Library with GTK widgets for mobile phones
 gui-libs/tepl 4.3.1: GtkSourceView-based text editors and IDE helper library
-mail-client/evolution 3.34.2: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.35.2: Integrated mail, addressbook and calendaring functionality
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
 media-gfx/eog 3.35.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.4: Eye of GNOME plugins
