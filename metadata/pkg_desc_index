@@ -82,7 +82,7 @@ gnome-extra/yelp 3.32.2: Help browser for GNOME
 gnome-extra/yelp-xsl 3.34.2: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
-gui-libs/libhandy 0.0.11: Library with GTK widgets for mobile phones
+gui-libs/libhandy 0.0.12: Library with GTK widgets for mobile phones
 gui-libs/tepl 4.3.1: GtkSourceView-based text editors and IDE helper library
 mail-client/evolution 3.35.2: Integrated mail, addressbook and calendaring functionality
 media-fonts/cantarell 0.111: Default fontset for GNOME Shell
@@ -98,6 +98,7 @@ media-libs/graphene 1.9.4: A thin layer of types for graphic libraries
 media-libs/grilo 0.3.10: A framework for easy media discovery and browsing
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-plugins/grilo-plugins 0.3.10: A collection of plugins for the Grilo framework
+media-sound/gnome-music 3.35.2: Music management for Gnome
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
 net-irc/polari 3.35.2: An IRC client for Gnome
 net-libs/glib-networking 2.63.2-r1: Network-related giomodules for glib
@@ -162,6 +163,7 @@ pantheon-extra/pantheon-videos 2.6.2: A tiny, simple calculator written in GTK+ 
 pantheon-extra/shortcut-overlay 1.0.1: A native OS-wide shortcut overlay to be launched by Gala
 sys-apps/baobab 3.32.0: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.35.2: Disk Utility for GNOME using udisks
+sys-process/gnome-usage 3.33.2: A nice way to view information about use of system resources.
 x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/gtk+ 2.24.32-r666 3.24.13: Gimp ToolKit +
