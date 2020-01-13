@@ -111,8 +111,6 @@ media-gfx/inkscape:wpg - Enable support for WordPerfect Graphics
 media-libs/cogl:gles2 - Enable OpenGL ES 2.0 support
 media-libs/cogl:kms - Enable KMS support.
 media-libs/cogl:pango - Build cogl-pango library for x11-libs/pango integration
-media-libs/grilo:network - Enable network access for media discovery using net-libs/libsoup
-media-libs/grilo:playlist - Enable support for playlists through dev-libs/totem-pl-parser
 media-plugins/grilo-plugins:chromaprint - Enable Chromaprint support
 media-plugins/grilo-plugins:daap - Enable dmap support through net-libs/libdmapsharing
 media-plugins/grilo-plugins:flickr - Enable Flickr support
