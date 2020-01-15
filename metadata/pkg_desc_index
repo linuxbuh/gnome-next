@@ -3,7 +3,7 @@ app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for swi
 app-arch/file-roller 3.35.1: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
 app-crypt/gcr 3.34.0: Libraries for cryptographic UIs and accessing PKCS#11 modules
-app-crypt/libsecret 0.18.8: GObject library for accessing the freedesktop.org Secret Service API
+app-crypt/libsecret 0.18.8 0.20.0: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
 app-editors/gedit 3.35.1: A text editor for the GNOME desktop
 app-editors/gedit-plugins 3.35.1: Official plugins for gedit
