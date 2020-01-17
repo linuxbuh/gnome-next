@@ -33,7 +33,7 @@ dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used d
 dev-libs/libgusb 0.2.11-r1: GObject wrapper for libusb
 dev-libs/libgweather 3.34.0: Location and timezone database and weather-lookup library
 dev-libs/libical 3.0.7-r1: An implementation of basic iCAL protocols
-dev-libs/libpeas 1.22.0 1.24.1: A GObject plugins library
+dev-libs/libpeas 1.25.3: A GObject plugins library
 dev-libs/libsigc++ 2.99.11: Typesafe callback system for standard C++
 dev-libs/template-glib 3.32.0: JSON RPC GLIB
 dev-libs/totem-pl-parser 3.26.4: Playlist parsing library
