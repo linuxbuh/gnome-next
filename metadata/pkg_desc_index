@@ -12,7 +12,7 @@ app-misc/tracker 2.3.1: A tagging metadata database, search tool and indexer
 app-misc/tracker-miners 2.3.1: Collection of data extractors for Tracker/Nepomuk
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.35.1: Simple document viewer for GNOME
-app-text/gspell 1.8.1-r1: Spell check library for GTK+ applications
+app-text/gspell 1.8.3: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.10: Spell checking widget for GTK
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
