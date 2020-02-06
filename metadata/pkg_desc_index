@@ -3,7 +3,6 @@ app-accessibility/at-spi2-core 2.35.1: D-Bus accessibility specifications and re
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
 app-arch/file-roller 3.35.1: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
-app-crypt/gcr 3.34.0: Libraries for cryptographic UIs and accessing PKCS#11 modules
 app-crypt/libsecret 0.18.8 0.20.0: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
 app-editors/gedit 3.35.1: A text editor for the GNOME desktop
@@ -50,7 +49,7 @@ dev-vcs/gitg 3.32.1: git repository viewer for GNOME
 gnome-base/dconf 0.35.1: Simple low-level configuration system
 gnome-base/gdm 3.34.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome 6.6.6: Meta package for GNOME 3, merge this package to install
-gnome-base/gnome-control-center 3.35.2: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.35.90: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.34.3: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.35.1: Password and keyring managing daemon
 gnome-base/gnome-menus 3.32.0: Library for the Desktop Menu fd.o specification
@@ -103,7 +102,7 @@ media-video/cheese 3.32.0: A cheesy program to take pictures and videos from you
 net-irc/polari 3.35.2: An IRC client for Gnome
 net-libs/glib-networking 2.63.3: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.35.3: GNOME framework for accessing online accounts
-net-libs/libsoup 2.68.3: HTTP client/server library for GNOME
+net-libs/libsoup 2.69.90: HTTP client/server library for GNOME
 net-libs/telepathy-glib 0.24.1-r2: GLib bindings for the Telepathy D-Bus protocol
 pantheon-base/applications-menu 2.4.0 2.4.1: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/cerbere 0.2.4: A simple service to relaunch pantheon applications
