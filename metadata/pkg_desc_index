@@ -1,7 +1,7 @@
 app-accessibility/at-spi2-atk 2.34.1: Gtk module for bridging AT-SPI to Atk
 app-accessibility/at-spi2-core 2.35.1: D-Bus accessibility specifications and registration daemon
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
-app-arch/file-roller 3.35.1: Archive manager for GNOME
+app-arch/file-roller 3.35.90: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
 app-crypt/libsecret 0.18.8 0.20.0: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
@@ -61,10 +61,10 @@ gnome-base/gvfs 1.43.2: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r3: Compatibility library for accessing secrets
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.47.3: Scalable Vector Graphics (SVG) rendering library
-gnome-base/nautilus 3.35.2: Default file manager for the GNOME desktop
+gnome-base/nautilus 3.35.90: Default file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 10.1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/evolution-data-server 3.35.3: Evolution groupware backend
+gnome-extra/evolution-data-server 3.35.90: Evolution groupware backend
 gnome-extra/gnome-boxes 3.35.2: Simple GNOME 3 application to access remote or virtual systems
 gnome-extra/gnome-calculator 3.35.2: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.35.2: Manage your online calendars with simple and modern interface
@@ -84,7 +84,7 @@ gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
 gui-libs/libhandy 0.0.12: Library with GTK widgets for mobile phones
 gui-libs/tepl 4.3.1: GtkSourceView-based text editors and IDE helper library
-mail-client/evolution 3.35.3: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.35.90: Integrated mail, addressbook and calendaring functionality
 media-fonts/cantarell 0.201: Default fontset for GNOME Shell
 media-gfx/eog 3.35.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.4: Eye of GNOME plugins
