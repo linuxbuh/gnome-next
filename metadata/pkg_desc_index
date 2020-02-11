@@ -29,7 +29,7 @@ dev-libs/jsonrpc-glib 3.33.3: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/libdazzle 3.35.3: Experimental new features for GTK+ and GLib
 dev-libs/libgdata 0.17.10: GLib-based library for accessing online service APIs using the GData protocol
-dev-libs/libgee 0.20.1: GObject-based interfaces and classes for commonly used data structures
+dev-libs/libgee 0.20.3: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libgusb 0.2.11-r1: GObject wrapper for libusb
 dev-libs/libgweather 3.34.0: Location and timezone database and weather-lookup library
 dev-libs/libical 3.0.7-r1: An implementation of basic iCAL protocols
