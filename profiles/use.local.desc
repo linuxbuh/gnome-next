@@ -47,8 +47,6 @@ dev-libs/libpeas:glade - Install the glade catalog
 dev-libs/libpeas:python - Build support for loading dev-lang/python plugins
 dev-libs/totem-pl-parser:archive - Enables support for accessing media files in archives transparently via app-arch/libarchive
 dev-libs/totem-pl-parser:quvi - Use media-libs/libquvi for parsing video links
-dev-util/gtk-doc:highlight - Enable source code highlighting
-dev-util/gtk-doc:vim - Enable source code highlighting through app-editors/vim
 dev-util/sysprof:elogind - Build the sysprofd daemon service, required to run the UI without root permissions. Relies on sys-auth/elogind for sd-bus API.
 dev-util/sysprof:systemd - Build the sysprofd daemon service, required to run the UI without root permissions. Relies on sys-apps/systemd for sd-bus API.
 dev-vcs/gitg:glade - Install a glade catalog file
@@ -102,12 +100,6 @@ media-gfx/gthumb:colord - Use x11-misc/colord for color management
 media-gfx/gthumb:http - Enable webservice integration through net-libs/libsoup
 media-gfx/gthumb:json - Compile code that uses the libjson-glib library
 media-gfx/gthumb:slideshow - Enable slideshow plugin
-media-gfx/inkscape:cdr - Enable support for CorelDRAW Diagrams
-media-gfx/inkscape:dia - pull in app-office/dia for dia import extension
-media-gfx/inkscape:inkjar - Enable support for OpenOffice.org SVG jar files
-media-gfx/inkscape:latex - pull in dependencies for LaTeX formulas
-media-gfx/inkscape:visio - Enable support for Microsoft Visio Diagrams
-media-gfx/inkscape:wpg - Enable support for WordPerfect Graphics
 media-libs/cogl:gles2 - Enable OpenGL ES 2.0 support
 media-libs/cogl:kms - Enable KMS support.
 media-libs/cogl:pango - Build cogl-pango library for x11-libs/pango integration
