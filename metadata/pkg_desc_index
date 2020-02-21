@@ -5,7 +5,7 @@ app-arch/file-roller 3.35.90: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
 app-crypt/libsecret 0.18.8 0.20.0: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
-app-editors/gedit 3.35.1-r1: A text editor for the GNOME desktop
+app-editors/gedit 3.35.1-r2: A text editor for the GNOME desktop
 app-editors/gedit-plugins 3.35.1-r2: Official plugins for gedit
 app-misc/tracker 2.3.1: A tagging metadata database, search tool and indexer
 app-misc/tracker-miners 2.3.1: Collection of data extractors for Tracker/Nepomuk
