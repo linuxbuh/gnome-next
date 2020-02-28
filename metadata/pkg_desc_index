@@ -54,7 +54,7 @@ gnome-base/gnome-session 3.35.3: Gnome session manager
 gnome-base/gnome-settings-daemon 3.35.91: Gnome Settings Daemon
 gnome-base/gnome-shell 3.35.91: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.35.91: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.43.91: Virtual filesystem implementation for gio
+gnome-base/gvfs 1.43.92: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r3: Compatibility library for accessing secrets
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.47.3: Scalable Vector Graphics (SVG) rendering library
