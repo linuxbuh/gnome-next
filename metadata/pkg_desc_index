@@ -15,7 +15,7 @@ app-text/gspell 1.8.3: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.10: Spell checking widget for GTK
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
-dev-lang/rust-std-bin 1.34.2 1.37.0: std libraries for rust
+dev-lang/rust-std-bin 1.37.0 1.39.0 1.41.1: std libraries for rust
 dev-libs/atk 2.35.1: GTK+ & GNOME Accessibility Toolkit
 dev-libs/folks 0.13.1-r1: Library for aggregating people from multiple sources
 dev-libs/gdl 3.28.0: GNOME docking library
