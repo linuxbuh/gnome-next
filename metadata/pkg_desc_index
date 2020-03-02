@@ -1,7 +1,7 @@
 app-accessibility/at-spi2-atk 2.34.1: Gtk module for bridging AT-SPI to Atk
 app-accessibility/at-spi2-core 2.35.1: D-Bus accessibility specifications and registration daemon
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
-app-arch/file-roller 3.35.91: Archive manager for GNOME
+app-arch/file-roller 3.35.92: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
 app-crypt/libsecret 0.18.8 0.20.1: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
@@ -35,18 +35,17 @@ dev-libs/libical 3.0.7-r1: An implementation of basic iCAL protocols
 dev-libs/libpeas 1.25.3-r1: A GObject plugins library
 dev-libs/libsigc++ 2.99.11: Typesafe callback system for standard C++
 dev-libs/template-glib 3.32.0: JSON RPC GLIB
-dev-libs/totem-pl-parser 3.26.4: Playlist parsing library
 dev-python/pyatspi 2.35.1: Python client bindings for D-Bus AT-SPI
 dev-util/devhelp 3.35.90: An API documentation browser for GNOME
 dev-util/gdbus-codegen 2.63.6-r1: GDBus code and documentation generator
 dev-util/glib-utils 2.63.6: Build utilities for GLib using projects
 dev-util/gtk-doc-am 1.30: Automake files from gtk-doc
-dev-util/sysprof 3.35.2: System-wide Linux Profiler
+dev-util/sysprof 3.35.92: System-wide Linux Profiler
 dev-vcs/gitg 3.32.1: git repository viewer for GNOME
 gnome-base/dconf 0.35.1: Simple low-level configuration system
 gnome-base/gdm 3.34.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome 6.6.6: Meta package for GNOME 3, merge this package to install
-gnome-base/gnome-control-center 3.35.91: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.35.92: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.35.91: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.35.90: Password and keyring managing daemon
 gnome-base/gnome-menus 3.32.0: Library for the Desktop Menu fd.o specification
@@ -63,14 +62,14 @@ gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 10.1-r1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
 gnome-extra/evolution-data-server 3.35.92: Evolution groupware backend
 gnome-extra/gnome-boxes 3.35.2: Simple GNOME 3 application to access remote or virtual systems
-gnome-extra/gnome-calculator 3.35.90: A calculator application for GNOME
-gnome-extra/gnome-calendar 3.35.2: Manage your online calendars with simple and modern interface
+gnome-extra/gnome-calculator 3.35.92: A calculator application for GNOME
+gnome-extra/gnome-calendar 3.35.92: Manage your online calendars with simple and modern interface
 gnome-extra/gnome-color-manager 3.32.0: Color profile manager for the GNOME desktop
 gnome-extra/gnome-contacts 3.34: GNOME contact management application
 gnome-extra/gnome-logs 3.34.0-r1: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.32.0: GNOME power management service
 gnome-extra/gnome-shell-extensions 3.35.91: JavaScript extensions for GNOME Shell
-gnome-extra/gnome-system-monitor 3.35.90: The Gnome System Monitor
+gnome-extra/gnome-system-monitor 3.35.92: The Gnome System Monitor
 gnome-extra/gnome-todo 3.28.1: Personal task manager
 gnome-extra/gnome-tweaks 3.34.0-r1: Customize advanced GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
@@ -165,10 +164,10 @@ x11-libs/gtksourceview 3.24.11 4.4.0: A text widget implementing syntax highligh
 x11-libs/libwnck 3.32.0: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
 x11-libs/pango 1.44.7: Internationalized text layout and rendering library
-x11-libs/vte 0.59.0 0.59.0-r1: Library providing a virtual terminal emulator widget
+x11-libs/vte 0.59.92: Library providing a virtual terminal emulator widget
 x11-misc/plank 0.11.4: The dock for elementary Pantheon, stupidly simple
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
-x11-terms/gnome-terminal 3.35.1: The Gnome Terminal
+x11-terms/gnome-terminal 3.35.92: The Gnome Terminal
 x11-terms/pantheon-terminal 5.3.2 5.3.3: The terminal of the 21st century
 x11-themes/adapta-backgrounds 0.5.3.1: A set of backgrounds
 x11-themes/adwaita-icon-theme 3.35.92: GNOME default icon theme

@@ -45,8 +45,6 @@ dev-libs/libgdata:gnome-online-accounts - Enable net-libs/gnome-online-accounts 
 dev-libs/libgweather:glade - Installs catalog files for dev-util/glade
 dev-libs/libpeas:glade - Install the glade catalog
 dev-libs/libpeas:python - Build support for loading dev-lang/python plugins
-dev-libs/totem-pl-parser:archive - Enables support for accessing media files in archives transparently via app-arch/libarchive
-dev-libs/totem-pl-parser:quvi - Use media-libs/libquvi for parsing video links
 dev-util/sysprof:elogind - Build the sysprofd daemon service, required to run the UI without root permissions. Relies on sys-auth/elogind for sd-bus API.
 dev-util/sysprof:systemd - Build the sysprofd daemon service, required to run the UI without root permissions. Relies on sys-apps/systemd for sd-bus API.
 dev-vcs/gitg:glade - Install a glade catalog file
