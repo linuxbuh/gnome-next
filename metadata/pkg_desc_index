@@ -79,7 +79,6 @@ gnome-extra/yelp 3.32.2: Help browser for GNOME
 gnome-extra/yelp-xsl 3.34.2: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
-gui-libs/libhandy 0.0.12: Library with GTK widgets for mobile phones
 gui-libs/tepl 4.4.0: GtkSourceView-based text editors and IDE helper library
 mail-client/evolution 3.36.0: Integrated mail, addressbook and calendaring functionality
 media-fonts/cantarell 0.201: Default fontset for GNOME Shell
