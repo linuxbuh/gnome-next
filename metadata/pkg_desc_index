@@ -47,21 +47,21 @@ gnome-base/dconf 0.35.1: Simple low-level configuration system
 gnome-base/gdm 3.34.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome 6.6.6: Meta package for GNOME 3, merge this package to install
 gnome-base/gnome-control-center 3.35.92: GNOME's main interface to configure various aspects of the desktop
-gnome-base/gnome-desktop 3.35.91: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-desktop 3.36.0: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.35.90: Password and keyring managing daemon
 gnome-base/gnome-menus 3.32.0: Library for the Desktop Menu fd.o specification
 gnome-base/gnome-session 3.35.3: Gnome session manager
 gnome-base/gnome-settings-daemon 3.35.92: Gnome Settings Daemon
-gnome-base/gnome-shell 3.35.92: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gnome-shell 3.36.1: Provides core UI functions for the GNOME 3 desktop
 gnome-base/gsettings-desktop-schemas 3.35.91: Collection of GSettings schemas for GNOME desktop
-gnome-base/gvfs 1.44.0: Virtual filesystem implementation for gio
+gnome-base/gvfs 1.44.1: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r3: Compatibility library for accessing secrets
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.48.0: Scalable Vector Graphics (SVG) rendering library
-gnome-base/nautilus 3.36.0: Default file manager for the GNOME desktop
+gnome-base/nautilus 3.37.1: Default file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 10.1-r1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/evolution-data-server 3.36.0: Evolution groupware backend
+gnome-extra/evolution-data-server 3.36.1: Evolution groupware backend
 gnome-extra/gnome-boxes 3.35.2: Simple GNOME 3 application to access remote or virtual systems
 gnome-extra/gnome-calculator 3.35.92: A calculator application for GNOME
 gnome-extra/gnome-calendar 3.35.92: Manage your online calendars with simple and modern interface
@@ -69,7 +69,7 @@ gnome-extra/gnome-color-manager 3.32.0: Color profile manager for the GNOME desk
 gnome-extra/gnome-contacts 3.34: GNOME contact management application
 gnome-extra/gnome-logs 3.34.0-r1: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.32.0: GNOME power management service
-gnome-extra/gnome-shell-extensions 3.35.92: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions 3.36.1: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-system-monitor 3.35.92: The Gnome System Monitor
 gnome-extra/gnome-todo 3.28.1: Personal task manager
 gnome-extra/gnome-tweaks 3.34.0-r1: Customize advanced GNOME 3 options
@@ -80,7 +80,7 @@ gnome-extra/yelp-xsl 3.34.2: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
 gui-libs/tepl 4.4.0: GtkSourceView-based text editors and IDE helper library
-mail-client/evolution 3.36.0: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.36.1: Integrated mail, addressbook and calendaring functionality
 media-fonts/cantarell 0.201: Default fontset for GNOME Shell
 media-gfx/eog 3.35.91: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.4-r1: Eye of GNOME plugins
@@ -159,7 +159,7 @@ sys-apps/gnome-disk-utility 3.35.2: Disk Utility for GNOME using udisks
 sys-process/gnome-usage 3.33.2: A nice way to view information about use of system resources.
 x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
-x11-libs/gtk+ 2.24.32-r666 3.24.14: Gimp ToolKit +
+x11-libs/gtk+ 2.24.32-r666: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.11 4.6.0: A text widget implementing syntax highlighting and other features
 x11-libs/libwnck 3.32.0: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
@@ -180,4 +180,4 @@ x11-themes/gnome-themes-extra 3.28: Standard Themes for GNOME Applications
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
 x11-themes/plano-theme 9999: plano theme for GNOME, Xfce and more.
 x11-wm/gala 9999: Pantheon's Window Manager
-x11-wm/mutter 3.35.92: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.36.0: GNOME 3 compositing window manager based on Clutter
