@@ -46,14 +46,14 @@ dev-vcs/gitg 3.32.1: git repository viewer for GNOME
 gnome-base/dconf 0.35.1: Simple low-level configuration system
 gnome-base/gdm 3.34.1: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome 6.6.6: Meta package for GNOME 3, merge this package to install
-gnome-base/gnome-control-center 3.35.92: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-control-center 3.36.0: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-desktop 3.36.0: Libraries for the gnome desktop that are not part of the UI
 gnome-base/gnome-keyring 3.35.90: Password and keyring managing daemon
 gnome-base/gnome-menus 3.32.0: Library for the Desktop Menu fd.o specification
 gnome-base/gnome-session 3.35.3: Gnome session manager
-gnome-base/gnome-settings-daemon 3.35.92: Gnome Settings Daemon
+gnome-base/gnome-settings-daemon 3.36.0: Gnome Settings Daemon
 gnome-base/gnome-shell 3.36.1: Provides core UI functions for the GNOME 3 desktop
-gnome-base/gsettings-desktop-schemas 3.35.91: Collection of GSettings schemas for GNOME desktop
+gnome-base/gsettings-desktop-schemas 3.36.0: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.44.1: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r3: Compatibility library for accessing secrets
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
