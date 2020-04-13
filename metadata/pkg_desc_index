@@ -11,7 +11,6 @@ app-misc/tracker 2.3.1: A tagging metadata database, search tool and indexer
 app-misc/tracker-miners 2.3.1: Collection of data extractors for Tracker/Nepomuk
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
 app-text/evince 3.35.92: Simple document viewer for GNOME
-app-text/gspell 1.8.3: Spell check library for GTK+ applications
 app-text/gtkspell 3.0.10: Spell checking widget for GTK
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
@@ -91,8 +90,8 @@ media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in 
 media-libs/cogl 1.22.4: A library for using 3D graphics hardware to draw pretty pictures
 media-libs/graphene 1.9.4: A thin layer of types for graphic libraries
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
-media-plugins/grilo-plugins 0.3.10: A collection of plugins for the Grilo framework
-media-sound/gnome-music 3.35.2: Music management for Gnome
+media-plugins/grilo-plugins 0.3.11: A collection of plugins for the Grilo framework
+media-sound/gnome-music 3.36.1: Music management for Gnome
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
 net-irc/polari 3.35.2: An IRC client for Gnome
 net-libs/glib-networking 2.64.0: Network-related giomodules for glib
