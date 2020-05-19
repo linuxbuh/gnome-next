@@ -1,27 +1,19 @@
 app-accessibility/at-spi2-atk 2.34.1: Gtk module for bridging AT-SPI to Atk
-app-accessibility/at-spi2-core 2.35.1: D-Bus accessibility specifications and registration daemon
 app-accessibility/caribou 0.4.21-r1: Input assistive technology intended for switch and pointer users
-app-arch/file-roller 3.35.92: Archive manager for GNOME
+app-arch/file-roller 3.36.2: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
-app-crypt/libsecret 0.18.8 0.20.1: GObject library for accessing the freedesktop.org Secret Service API
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
-app-editors/gedit 3.36.0: A text editor for the GNOME desktop
-app-editors/gedit-plugins 3.36.0: Official plugins for gedit
-app-misc/tracker 2.3.1: A tagging metadata database, search tool and indexer
-app-misc/tracker-miners 2.3.1: Collection of data extractors for Tracker/Nepomuk
+app-editors/gedit 3.36.2: A text editor for the GNOME desktop
+app-editors/gedit-plugins 3.36.2: Official plugins for gedit
 app-office/footnote 9999: Beautiful, fast, and simple note taking app in the style of elementary
-app-text/evince 3.35.92: Simple document viewer for GNOME
+app-text/evince 3.36.1: Simple document viewer for GNOME
 app-text/gtkspell 3.0.10: Spell checking widget for GTK
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
 dev-db/sqlheavy 0.1.1: GObject SQLite wrapper
 dev-lang/rust-std-bin 1.37.0 1.39.0 1.41.1: std libraries for rust
-dev-libs/atk 2.35.1: GTK+ & GNOME Accessibility Toolkit
 dev-libs/folks 0.13.1-r1: Library for aggregating people from multiple sources
 dev-libs/gdl 3.28.0: GNOME docking library
-dev-libs/gjs 1.63.3 1.65.1: Javascript bindings for GNOME
-dev-libs/glib 2.64.1: The GLib library of C routines
-dev-libs/gobject-introspection 1.64.0: Introspection system for GObject-based libraries
-dev-libs/gobject-introspection-common 1.64.0: Build infrastructure for GObject Introspection
+dev-libs/gjs 1.65.2: Javascript bindings for GNOME
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.33.3: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
@@ -29,76 +21,74 @@ dev-libs/libdazzle 3.36.0: Experimental new features for GTK+ and GLib
 dev-libs/libgdata 0.17.12: GLib-based library for accessing online service APIs using the GData protocol
 dev-libs/libgee 0.20.3: GObject-based interfaces and classes for commonly used data structures
 dev-libs/libgusb 0.2.11-r1: GObject wrapper for libusb
-dev-libs/libgweather 3.34.0: Location and timezone database and weather-lookup library
+dev-libs/libgweather 3.36.0: Location and timezone database and weather-lookup library
 dev-libs/libical 3.0.7-r1: An implementation of basic iCAL protocols
 dev-libs/libpeas 1.26.0: A GObject plugins library
 dev-libs/libsigc++ 2.99.11: Typesafe callback system for standard C++
 dev-libs/template-glib 3.32.0: JSON RPC GLIB
 dev-libs/wayland-protocols 1.19: Wayland protocol files
-dev-python/pyatspi 2.35.1: Python client bindings for D-Bus AT-SPI
-dev-util/devhelp 3.35.90: An API documentation browser for GNOME
+dev-python/pygobject 3.36.1: Python bindings for GObject Introspection
+dev-util/devhelp 3.36.2: An API documentation browser for GNOME
 dev-util/gdbus-codegen 2.64.1: GDBus code and documentation generator
 dev-util/glib-utils 2.64.1: Build utilities for GLib using projects
 dev-util/gtk-doc-am 1.30: Automake files from gtk-doc
 dev-util/sysprof 3.36.0: System-wide Linux Profiler
 dev-util/sysprof-capture 3.36.0: Static library for sysprof capture data generation
 dev-vcs/gitg 3.32.1: git repository viewer for GNOME
-gnome-base/dconf 0.35.1: Simple low-level configuration system
-gnome-base/gdm 3.34.1: GNOME Display Manager for managing graphical display servers and user logins
+gnome-base/dconf 0.36.0: Simple low-level configuration system
+gnome-base/gdm 3.36.2: GNOME Display Manager for managing graphical display servers and user logins
 gnome-base/gnome 6.6.6: Meta package for GNOME 3, merge this package to install
-gnome-base/gnome-control-center 3.36.0: GNOME's main interface to configure various aspects of the desktop
-gnome-base/gnome-desktop 3.36.0: Libraries for the gnome desktop that are not part of the UI
-gnome-base/gnome-keyring 3.35.90: Password and keyring managing daemon
-gnome-base/gnome-menus 3.32.0: Library for the Desktop Menu fd.o specification
-gnome-base/gnome-session 3.35.3: Gnome session manager
-gnome-base/gnome-settings-daemon 3.36.0: Gnome Settings Daemon
-gnome-base/gnome-shell 3.36.1: Provides core UI functions for the GNOME 3 desktop
-gnome-base/gsettings-desktop-schemas 3.36.0: Collection of GSettings schemas for GNOME desktop
+gnome-base/gnome-control-center 3.36.2: GNOME's main interface to configure various aspects of the desktop
+gnome-base/gnome-desktop 3.36.2: Libraries for the gnome desktop that are not part of the UI
+gnome-base/gnome-keyring 3.36.0: Password and keyring managing daemon
+gnome-base/gnome-menus 3.36.0: Library for the Desktop Menu fd.o specification
+gnome-base/gnome-session 3.36.0: Gnome session manager
+gnome-base/gnome-settings-daemon 3.36.1: Gnome Settings Daemon
+gnome-base/gnome-shell 3.36.2: Provides core UI functions for the GNOME 3 desktop
+gnome-base/gsettings-desktop-schemas 3.36.1: Collection of GSettings schemas for GNOME desktop
 gnome-base/gvfs 1.44.1: Virtual filesystem implementation for gio
 gnome-base/libgnome-keyring 3.12.0-r3: Compatibility library for accessing secrets
 gnome-base/libgtop 2.40.0: A library that provides top functionality to applications
 gnome-base/librsvg 2.48.4: Scalable Vector Graphics (SVG) rendering library
-gnome-base/nautilus 3.37.1: Default file manager for the GNOME desktop
+gnome-base/nautilus 3.37.1.1: Default file manager for the GNOME desktop
 gnome-extra/budgie-desktop 9999: Desktop Environment based on GNOME 3
 gnome-extra/chrome-gnome-shell 10.1-r1: GNOME Shell integration for Chrome/Chromium, Firefox, Vivaldi, Opera browsers
-gnome-extra/evolution-data-server 3.36.1: Evolution groupware backend
+gnome-extra/evolution-data-server 3.36.2: Evolution groupware backend
 gnome-extra/gnome-boxes 3.35.2: Simple GNOME 3 application to access remote or virtual systems
-gnome-extra/gnome-calculator 3.35.92: A calculator application for GNOME
-gnome-extra/gnome-calendar 3.36.0: Manage your online calendars with simple and modern interface
-gnome-extra/gnome-color-manager 3.32.0: Color profile manager for the GNOME desktop
+gnome-extra/gnome-calculator 3.36.0: A calculator application for GNOME
+gnome-extra/gnome-calendar 3.36.1: Manage your online calendars with simple and modern interface
+gnome-extra/gnome-color-manager 3.36.0: Color profile manager for the GNOME desktop
 gnome-extra/gnome-contacts 3.34: GNOME contact management application
-gnome-extra/gnome-logs 3.34.0-r1: Log messages and event viewer
+gnome-extra/gnome-logs 3.36.0: Log messages and event viewer
 gnome-extra/gnome-power-manager 3.32.0: GNOME power management service
-gnome-extra/gnome-shell-extensions 3.36.1: JavaScript extensions for GNOME Shell
+gnome-extra/gnome-shell-extensions 3.36.2: JavaScript extensions for GNOME Shell
 gnome-extra/gnome-software 3.36.0: Gnome install & update software
-gnome-extra/gnome-system-monitor 3.35.92: The Gnome System Monitor
+gnome-extra/gnome-system-monitor 3.36.0: The Gnome System Monitor
 gnome-extra/gnome-todo 3.28.1: Personal task manager
 gnome-extra/gnome-tweaks 3.34.0-r1: Customize advanced GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
+gnome-extra/nm-applet 1.16.0: GNOME applet for NetworkManager
 gnome-extra/sushi 3.34.0: A quick previewer for Nautilus, the GNOME file manager
-gnome-extra/yelp 3.32.2: Help browser for GNOME
-gnome-extra/yelp-xsl 3.34.2: XSL stylesheets for yelp
+gnome-extra/yelp 3.36.0: Help browser for GNOME
+gnome-extra/yelp-xsl 3.36.0: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
 gui-libs/tepl 4.4.0: GtkSourceView-based text editors and IDE helper library
-mail-client/evolution 3.36.1: Integrated mail, addressbook and calendaring functionality
+mail-client/evolution 3.36.2: Integrated mail, addressbook and calendaring functionality
 media-fonts/cantarell 0.201: Default fontset for GNOME Shell
-media-gfx/eog 3.35.91: The Eye of GNOME image viewer
+media-gfx/eog 3.37.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.4-r1: Eye of GNOME plugins
-media-gfx/gnome-screenshot 3.34.0: Screenshot utility for GNOME
-media-gfx/gthumb 3.8.3: Image viewer and browser for Gnome
+media-gfx/gnome-screenshot 3.37.1: Screenshot utility for GNOME
+media-gfx/gthumb 3.10.0: Image viewer and browser for Gnome
 media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
-media-libs/cogl 1.22.4: A library for using 3D graphics hardware to draw pretty pictures
 media-libs/graphene 1.9.4: A thin layer of types for graphic libraries
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-plugins/grilo-plugins 0.3.11: A collection of plugins for the Grilo framework
 media-sound/gnome-music 3.36.1: Music management for Gnome
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
 net-irc/polari 3.35.2: An IRC client for Gnome
-net-libs/glib-networking 2.64.0: Network-related giomodules for glib
-net-libs/gnome-online-accounts 3.35.90: GNOME framework for accessing online accounts
-net-libs/libsoup 2.69.90: HTTP client/server library for GNOME
+net-libs/gnome-online-accounts 3.36.0: GNOME framework for accessing online accounts
 pantheon-base/applications-menu 2.4.0 2.4.1: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/cerbere 0.2.4: A simple service to relaunch pantheon applications
 pantheon-base/pantheon-files 4.0 4.1.1: A simple, powerful, sexy file manager for the Pantheon desktop
@@ -156,7 +146,7 @@ pantheon-extra/pantheon-screenshot 1.6.0: Elementary Screenshot Tool
 pantheon-extra/pantheon-videos 2.6.2: A tiny, simple calculator written in GTK+ and Vala
 pantheon-extra/shortcut-overlay 1.0.1: A native OS-wide shortcut overlay to be launched by Gala
 sys-apps/baobab 3.32.0: Disk usage browser for GNOME
-sys-apps/gnome-disk-utility 3.35.2: Disk Utility for GNOME using udisks
+sys-apps/gnome-disk-utility 3.36.0: Disk Utility for GNOME using udisks
 sys-process/gnome-usage 3.33.2: A nice way to view information about use of system resources.
 x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
@@ -165,20 +155,20 @@ x11-libs/gtksourceview 3.24.11 4.6.0: A text widget implementing syntax highligh
 x11-libs/libwnck 3.32.0: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
 x11-libs/pango 1.44.7: Internationalized text layout and rendering library
-x11-libs/vte 0.60.0: Library providing a virtual terminal emulator widget
+x11-libs/vte 0.60.2: Library providing a virtual terminal emulator widget
 x11-misc/plank 0.11.4: The dock for elementary Pantheon, stupidly simple
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
-x11-terms/gnome-terminal 3.36.0.1: The Gnome Terminal
+x11-terms/gnome-terminal 3.36.2: The Gnome Terminal
 x11-terms/pantheon-terminal 5.3.2 5.3.3: The terminal of the 21st century
 x11-themes/adapta-backgrounds 0.5.3.1: A set of backgrounds
-x11-themes/adwaita-icon-theme 3.35.92: GNOME default icon theme
+x11-themes/adwaita-icon-theme 3.36.1: GNOME default icon theme
 x11-themes/elementary-icons-theme 4.3.1 5.0 5.0.2: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 5.2.0 5.2.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 5.3: Wallpapers for elementary OS
-x11-themes/gnome-backgrounds 3.35.91: A set of backgrounds packaged with the GNOME desktop
+x11-themes/gnome-backgrounds 3.36.0: A set of backgrounds packaged with the GNOME desktop
 x11-themes/gnome-themes-extra 3.28: Standard Themes for GNOME Applications
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
 x11-themes/plano-theme 9999: plano theme for GNOME, Xfce and more.
 x11-wm/gala 9999: Pantheon's Window Manager
-x11-wm/mutter 3.36.0: GNOME 3 compositing window manager based on Clutter
+x11-wm/mutter 3.36.2: GNOME 3 compositing window manager based on Clutter
