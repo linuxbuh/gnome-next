@@ -82,6 +82,7 @@ media-gfx/gnome-screenshot 3.37.1: Screenshot utility for GNOME
 media-gfx/gthumb 3.10.0: Image viewer and browser for Gnome
 media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
+media-libs/gexiv2 0.12.1: GObject-based wrapper around the Exiv2 library
 media-libs/graphene 1.9.4: A thin layer of types for graphic libraries
 media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-plugins/grilo-plugins 0.3.11: A collection of plugins for the Grilo framework
