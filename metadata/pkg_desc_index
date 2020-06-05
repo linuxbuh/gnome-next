@@ -161,12 +161,12 @@ x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like fu
 x11-terms/gnome-terminal 3.36.2: The Gnome Terminal
 x11-terms/pantheon-terminal 5.3.2 5.3.3: The terminal of the 21st century
 x11-themes/adapta-backgrounds 0.5.3.1: A set of backgrounds
-x11-themes/adwaita-icon-theme 3.36.1: GNOME default icon theme
+x11-themes/adwaita-icon-theme 3.37.2: GNOME default icon theme
 x11-themes/elementary-icons-theme 4.3.1 5.0 5.0.2: An original set of vector icons designed specifically for elementary OS
 x11-themes/elementary-sound-theme 1.0: A set of system sounds for elementary OS
 x11-themes/elementary-theme 5.2.0 5.2.1: The Gtk+ Stylesheet for elementary OS
 x11-themes/elementary-wallpapers 5.3: Wallpapers for elementary OS
-x11-themes/gnome-backgrounds 3.36.0: A set of backgrounds packaged with the GNOME desktop
+x11-themes/gnome-backgrounds 3.37.2: A set of backgrounds packaged with the GNOME desktop
 x11-themes/gnome-themes-extra 3.28: Standard Themes for GNOME Applications
 x11-themes/korora-shell-theme 9999: a Korora tweaked Gnome shell theme
 x11-themes/plano-theme 9999: plano theme for GNOME, Xfce and more.
