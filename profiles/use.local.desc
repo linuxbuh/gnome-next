@@ -18,6 +18,10 @@ app-text/evince:xps - Enable XPS viewer using app-text/libgxps
 dev-libs/folks:telepathy - Load contacts from the Telepathy framework
 dev-libs/folks:tracker - Load contacts from app-misc/tracker index
 dev-libs/folks:utils - Build the folks-inspect utility
+dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus service to manage settings saving
+dev-libs/glib:mime - Pull in shared MIME database that many glib-based applications require at runtime to detect or open files. Warning: do not disable this flag unless installing on a headless server.
+dev-libs/glib:systemtap - Build support for profiling and tracing using dev-util/systemtap
+dev-libs/glib:utils - Install gtester-report utility to generate test report files for your software; build gresource utility with ELF support.
 dev-libs/libgdata:crypt - Use app-crypt/gcr for keeping tokens and passwords in non-pageable memory for improved security
 dev-libs/libgdata:gnome-online-accounts - Enable net-libs/gnome-online-accounts support
 dev-libs/libgweather:glade - Installs catalog files for dev-util/glade

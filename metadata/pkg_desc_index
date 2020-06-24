@@ -13,6 +13,7 @@ dev-lang/rust-std-bin 1.37.0 1.39.0 1.41.1: std libraries for rust
 dev-libs/folks 0.13.1-r1: Library for aggregating people from multiple sources
 dev-libs/gdl 3.28.0: GNOME docking library
 dev-libs/gjs 1.65.2: Javascript bindings for GNOME
+dev-libs/glib 2.65.0: The GLib library of C routines
 dev-libs/json-glib 1.4.4: Library providing GLib serialization and deserialization for the JSON format
 dev-libs/jsonrpc-glib 3.33.3: JSON RPC GLIB
 dev-libs/libappindicator 12.10.0-r302: A library to allow applications to export a menu into the Unity Menu bar
@@ -28,8 +29,8 @@ dev-libs/template-glib 3.32.0: JSON RPC GLIB
 dev-libs/wayland-protocols 1.19: Wayland protocol files
 dev-python/pygobject 3.36.1: Python bindings for GObject Introspection
 dev-util/devhelp 3.36.2: An API documentation browser for GNOME
-dev-util/gdbus-codegen 2.64.1: GDBus code and documentation generator
-dev-util/glib-utils 2.64.1: Build utilities for GLib using projects
+dev-util/gdbus-codegen 2.65.0: GDBus code and documentation generator
+dev-util/glib-utils 2.65.0: Build utilities for GLib using projects
 dev-util/gtk-doc-am 1.30: Automake files from gtk-doc
 dev-util/sysprof 3.36.0: System-wide Linux Profiler
 dev-util/sysprof-capture 3.36.0: Static library for sysprof capture data generation
