@@ -66,7 +66,7 @@ gnome-extra/gnome-system-monitor 3.36.0: The Gnome System Monitor
 gnome-extra/gnome-todo 3.28.1: Personal task manager
 gnome-extra/gnome-tweaks 3.34.0-r1: Customize advanced GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
-gnome-extra/nm-applet 1.16.0: GNOME applet for NetworkManager
+gnome-extra/nm-applet 1.18.0: GNOME applet for NetworkManager
 gnome-extra/sushi 3.34.0: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp 3.36.0: Help browser for GNOME
 gnome-extra/yelp-xsl 3.36.0: XSL stylesheets for yelp
@@ -89,6 +89,7 @@ media-sound/gnome-music 3.36.1: Music management for Gnome
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
 net-irc/polari 3.35.2: An IRC client for Gnome
 net-libs/gnome-online-accounts 3.36.0: GNOME framework for accessing online accounts
+net-libs/libnma 1.8.30: NetworkManager GUI library
 pantheon-base/applications-menu 2.4.0 2.4.1: A lightweight and stylish app launcher for Pantheon and other DEs
 pantheon-base/cerbere 0.2.4: A simple service to relaunch pantheon applications
 pantheon-base/pantheon-files 4.0 4.1.1: A simple, powerful, sexy file manager for the Pantheon desktop
