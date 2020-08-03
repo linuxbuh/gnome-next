@@ -68,7 +68,7 @@ gnome-extra/gnome-todo 3.28.1: Personal task manager
 gnome-extra/gnome-tweaks 3.34.0-r1: Customize advanced GNOME 3 options
 gnome-extra/nautilus-tracker-tags 1.13.0: Nautilus extension to tag files for Tracker
 gnome-extra/nm-applet 1.18.0: GNOME applet for NetworkManager
-gnome-extra/sushi 3.34.0: A quick previewer for Nautilus, the GNOME file manager
+gnome-extra/sushi 3.34.0-r1: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp 3.36.0: Help browser for GNOME
 gnome-extra/yelp-xsl 3.36.0: XSL stylesheets for yelp
 gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
