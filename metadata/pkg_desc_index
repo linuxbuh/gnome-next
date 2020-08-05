@@ -4,7 +4,7 @@ app-arch/file-roller 3.36.2: Archive manager for GNOME
 app-arch/gnome-autoar 0.2.4: Automatic archives creating and extracting library
 app-crypt/seahorse 3.34: Manage your passwords and encryption keys
 app-editors/gedit 3.36.2: A text editor for the GNOME desktop
-app-editors/gedit-plugins 3.36.2: Official plugins for gedit
+app-editors/gedit-plugins 3.36.2-r1: Official plugins for gedit
 app-text/evince 3.36.1: Simple document viewer for GNOME
 app-text/gtkspell 3.0.10: Spell checking widget for GTK
 dev-cpp/mm-common 0.9.12: Build infrastructure and utilities for GNOME C++ bindings
@@ -71,7 +71,6 @@ gnome-extra/nm-applet 1.18.0: GNOME applet for NetworkManager
 gnome-extra/sushi 3.34.0-r1: A quick previewer for Nautilus, the GNOME file manager
 gnome-extra/yelp 3.36.0: Help browser for GNOME
 gnome-extra/yelp-xsl 3.36.0: XSL stylesheets for yelp
-gnome-extra/zeitgeist 1.0.2: Service to log activities and present to other apps
 gnome-extra/zenity 3.32.0: Tool to display dialogs from the commandline and shell scripts
 gui-libs/tepl 4.4.0: GtkSourceView-based text editors and IDE helper library
 mail-client/evolution 3.36.2: Integrated mail, addressbook and calendaring functionality
