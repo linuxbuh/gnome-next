@@ -78,7 +78,7 @@ media-libs/libmediaart 1.9.4: Manages, extracts and handles media art caches
 media-plugins/grilo-plugins 0.3.11: A collection of plugins for the Grilo framework
 media-sound/gnome-music 3.36.1: Music management for Gnome
 media-video/cheese 3.32.0: A cheesy program to take pictures and videos from your webcam
-net-irc/polari 3.37.3: An IRC client for Gnome
+net-irc/polari 3.38.0: An IRC client for Gnome
 net-libs/glib-networking 2.65.90: Network-related giomodules for glib
 net-libs/gnome-online-accounts 3.36.0: GNOME framework for accessing online accounts
 net-libs/libnma 1.8.30: NetworkManager GUI library
