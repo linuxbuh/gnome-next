@@ -68,7 +68,7 @@ media-fonts/cantarell 0.201: Default fontset for GNOME Shell
 media-gfx/eog 3.37.1: The Eye of GNOME image viewer
 media-gfx/eog-plugins 3.26.4-r1: Eye of GNOME plugins
 media-gfx/gnome-screenshot 3.37.1: Screenshot utility for GNOME
-media-gfx/gthumb 3.10.0: Image viewer and browser for Gnome
+media-gfx/gthumb 3.11.1: Image viewer and browser for Gnome
 media-libs/clutter-gst 3.0.27: GStreamer integration library for Clutter
 media-libs/clutter-gtk 1.8.4: Library for embedding a Clutter canvas (stage) in GTK+
 media-libs/gexiv2 0.12.1: GObject-based wrapper around the Exiv2 library
@@ -148,7 +148,6 @@ x11-libs/gtksourceview 3.24.11 4.6.0: A text widget implementing syntax highligh
 x11-libs/libwnck 3.32.0: A window navigation construction kit
 x11-libs/libxklavier 5.4-r1: A library for the X Keyboard Extension (high-level API)
 x11-libs/pango 1.45.5 1.48.0: Internationalized text layout and rendering library
-x11-libs/vte 0.60.2: Library providing a virtual terminal emulator widget
 x11-misc/plank 0.11.4: The dock for elementary Pantheon, stupidly simple
 x11-misc/skippy 9999: A full-screen task-switcher providing Apple Expose-like functionality
 x11-terms/gnome-terminal 3.36.2: The Gnome Terminal
