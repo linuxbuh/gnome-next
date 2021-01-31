@@ -140,7 +140,6 @@ pantheon-extra/shortcut-overlay 1.0.1: A native OS-wide shortcut overlay to be l
 sys-apps/baobab 3.32.0: Disk usage browser for GNOME
 sys-apps/gnome-disk-utility 3.36.0: Disk Utility for GNOME using udisks
 sys-process/gnome-usage 3.33.2: A nice way to view information about use of system resources.
-x11-libs/bamf 0.5.3: BAMF Application Matching Framework
 x11-libs/colord-gtk 0.1.26-r1: GTK support library for colord
 x11-libs/gtk+ 2.24.32-r666: Gimp ToolKit +
 x11-libs/gtksourceview 3.24.11 4.6.0: A text widget implementing syntax highlighting and other features
