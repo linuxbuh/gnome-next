@@ -48,7 +48,6 @@ gnome-base/nautilus:gstreamer - Enable the Audio/Video file properties page
 gnome-base/nautilus:packagekit - Use packagekit to search for programs to open unknown file types
 gnome-base/nautilus:previewer - Use gnome-extra/sushi to preview files from the file mananger
 gnome-base/nautilus:sendto - Enable the nautilus-sendto extension to send files to various locations/devices
-gnome-extra/budgie-desktop:pm-utils - Adds support for suspend/resume using sys-power/upower-pm-utils instead of sys-power/upower
 gnome-extra/gnome-color-manager:packagekit - Enable support for the distro-neutral package manager GUI app-admin/packagekit
 gnome-extra/gnome-contacts:telepathy - Start chat from contact details
 gnome-extra/gnome-software:firmware - Enable firmware update support through sys-apps/fwupd
