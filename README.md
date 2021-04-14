@@ -1,3 +1,6 @@
+# Clone repository https://github.com/gentoo-mirror/gnome-next
+# Need to https://github.com/linuxbuh/deepin-overlay
+
 Unofficial GNOME overlay
 [![Build Status](https://travis-ci.org/Heather/gentoo-gnome.png?branch=master)](https://travis-ci.org/Heather/gentoo-gnome)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Heather/gentoo-gnome.svg)](http://isitmaintained.com/project/Heather/gentoo-gnome "Average time to resolve an issue")
